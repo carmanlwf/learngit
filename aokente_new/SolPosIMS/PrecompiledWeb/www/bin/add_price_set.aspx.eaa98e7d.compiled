@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/ST/Add_price_Set.aspx" hash="95aab9a80" filehash="6d17fceb7ff9c0dc" flags="110000" assembly="App_Web_add_price_set.aspx.eaa98e7d" type="ASP.st_add_price_set_aspx">
+    <filedeps>
+        <filedep name="/www/ST/Add_price_Set.aspx" />
+        <filedep name="/www/ST/Add_price_Set.aspx.cs" />
+    </filedeps>
+</preserve>

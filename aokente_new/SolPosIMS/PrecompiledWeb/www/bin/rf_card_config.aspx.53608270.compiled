@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/Utility/RF_Card_Config.aspx" hash="95aab9a80" filehash="e7a6734802bbff0" flags="110000" assembly="App_Web_rf_card_config.aspx.53608270" type="ASP.utility_rf_card_config_aspx">
+    <filedeps>
+        <filedep name="/www/Utility/RF_Card_Config.aspx" />
+        <filedep name="/www/Utility/RF_Card_Config.aspx.cs" />
+    </filedeps>
+</preserve>

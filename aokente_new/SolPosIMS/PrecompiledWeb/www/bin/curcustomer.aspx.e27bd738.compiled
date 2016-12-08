@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/main/curcustomer.aspx" hash="95aab9a80" filehash="2586fcbd76126fb4" flags="110000" assembly="App_Web_curcustomer.aspx.e27bd738" type="ASP.main_curcustomer_aspx">
+    <filedeps>
+        <filedep name="/www/main/curcustomer.aspx" />
+        <filedep name="/www/main/curcustomer.aspx.cs" />
+    </filedeps>
+</preserve>

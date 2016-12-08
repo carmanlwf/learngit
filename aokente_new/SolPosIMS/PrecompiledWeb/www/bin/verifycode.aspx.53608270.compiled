@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/Utility/VerifyCode.aspx" hash="95aab9a80" filehash="ec25ca942a6a6884" flags="110000" assembly="App_Web_verifycode.aspx.53608270" type="ASP.utility_verifycode_aspx">
+    <filedeps>
+        <filedep name="/www/Utility/VerifyCode.aspx" />
+        <filedep name="/www/Utility/VerifyCode.aspx.cs" />
+    </filedeps>
+</preserve>

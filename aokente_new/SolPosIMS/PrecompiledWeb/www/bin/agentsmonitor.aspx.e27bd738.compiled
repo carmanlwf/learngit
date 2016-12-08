@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/main/AgentsMonitor.aspx" hash="95aab9a80" filehash="e615b9bcac46fa02" flags="110000" assembly="App_Web_agentsmonitor.aspx.e27bd738" type="ASP.main_agentsmonitor_aspx">
+    <filedeps>
+        <filedep name="/www/main/AgentsMonitor.aspx" />
+        <filedep name="/www/main/AgentsMonitor.aspx.cs" />
+    </filedeps>
+</preserve>

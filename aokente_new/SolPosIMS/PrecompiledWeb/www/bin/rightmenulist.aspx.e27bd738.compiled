@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/main/RightMenuList.aspx" hash="95aab9a80" filehash="8cb45a6d8ed59c2b" flags="110000" assembly="App_Web_rightmenulist.aspx.e27bd738" type="ASP.main_rightmenulist_aspx">
+    <filedeps>
+        <filedep name="/www/main/RightMenuList.aspx" />
+        <filedep name="/www/main/RightMenuList.aspx.cs" />
+    </filedeps>
+</preserve>

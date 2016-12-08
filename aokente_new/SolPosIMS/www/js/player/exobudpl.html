@@ -1,0 +1,90 @@
+<HTML>
+ <HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>网页播放器 歌曲列表</title>
+<meta name="Author" content="网页播放器">
+<meta name="Keywords" content="网页播放器">
+<meta name="Description" content="asf,asx,wma,wmx,wmv,wvx,mp3,wav,mid">
+<STYLE type="text/css">
+<!-- 
+      A:visited { color:#FFFFFF; text-decoration: none } 
+      A:active { color:#FFFFFF; text-decoration: none } 
+      A:hover {color:gold; text-decoration: none ; cursor:hand;}
+      A:link { color:#FFFFFF; text-decoration: none } 
+      BODY {
+	scrollbar-face-color:white;
+	scrollbar-shadow-color:#666666;
+	scrollbar-highlight-color:#666666;
+	scrollbar-3dlight-color:white;
+	scrollbar-darkshadow-color:white;
+	scrollbar-track-color:white;
+	scrollbar-arrow-color:#666666;
+	font-size:12px;
+	background: white;
+	background-color: #FFFFFF;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+} 
+	.text{font-size:9pt;} 
+      TD{font-size:9pt; }
+-->
+</STYLE> 
+
+<SCRIPT language="JavaScript" src="exobud.js"></SCRIPT>
+</HEAD>
+
+<BODY onLoad="dspList();this.focus();"  oncontextmenu="window.event.returnValue=false" onDragStart="return false" onSelectStart="return false" text="silver" style="border: 0px solid black; margin: 0pt;">
+
+<table width="310" align="center" cellpadding="0" cellspacing="0">
+     <tr>
+       <td><img src="images/pl1_010.gif" width="309" height="26"></td>
+     </tr>
+
+	 <tr>
+        <td> 
+
+             <table cellspacing="0" cellpadding="0">
+			    <tr>
+				   <td background="images/pl3.gif" width="310" height="70" valign="top">
+                     <DIV id="mmList"></DIV>			      </td>
+				</tr>
+			</table>        </td>
+     </tr>
+
+	 <tr>
+        <td> 
+
+            <table cellspacing="0" cellpadding="0">
+			    <tr>
+				   <td background="images/pl4.gif" width="310" height="30" valign="bottom">
+				       <table>
+					      <tr>
+						    <td width="0">							</td>
+							<td>
+							   <DIV id="pageList"></DIV>
+				               <SPAN id="pageInfo"></SPAN>							</td>
+						  </tr>
+					   </table>			      </td>
+				</tr>
+			</table>        </td>
+     </tr>
+
+	 <tr>
+        <td> 
+
+             <table cellspacing="0" cellpadding="0">
+			    <tr>
+				   <td background="images/pl5_01.gif" width="119" height="23">				   </td>
+				   <td background="images/pl5_02.gif" width="37" height="23" onClick="chkDesel()" onFocus="this.blur()" title="全部不选" style="cursor:hand;">				   </td>
+				   <td background="images/pl5_03.gif" width="58" height="23" onClick="chkSel();" onFocus="this.blur()" title="全部选取" style="cursor:hand;">				   </td>
+				   <td background="images/pl5_04.gif" width="83" height="23" onClick="playSel();" onFocus="this.blur()" title="播放已选取的曲目" style="cursor:hand;">				   </td>
+				   <td background="images/pl5_05.gif" width="13" height="23" onClick = "openPlaylist_i('play_list');" onFocus='this.blur()' title="关闭播放列表" style="cursor:hand;">				   </td>
+				</tr>
+			</table>        </td>
+     </tr>
+</table>
+
+</BODY>
+</HTML>

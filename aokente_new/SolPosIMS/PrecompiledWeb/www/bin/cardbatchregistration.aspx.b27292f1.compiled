@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/Card/CardBatchRegistration.aspx" hash="95aab9a80" filehash="538c402fbff5b14b" flags="110000" assembly="App_Web_cardbatchregistration.aspx.b27292f1" type="ASP.card_cardbatchregistration_aspx">
+    <filedeps>
+        <filedep name="/www/Card/CardBatchRegistration.aspx" />
+        <filedep name="/www/Card/CardBatchRegistration.aspx.cs" />
+    </filedeps>
+</preserve>

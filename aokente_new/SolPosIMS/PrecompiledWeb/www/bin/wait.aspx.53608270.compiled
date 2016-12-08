@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/Utility/Wait.aspx" hash="95aab9a80" filehash="62ec9451871825fe" flags="110000" assembly="App_Web_wait.aspx.53608270" type="ASP.utility_wait_aspx">
+    <filedeps>
+        <filedep name="/www/Utility/Wait.aspx" />
+        <filedep name="/www/Utility/Wait.aspx.cs" />
+    </filedeps>
+</preserve>

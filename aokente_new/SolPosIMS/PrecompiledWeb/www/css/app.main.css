@@ -1,0 +1,249 @@
+body {
+	margin: 0px;
+	height: 100%;
+	font-family:Î¢ÈíÑÅºÚ;
+	font-size:12px;
+	color: #003399;
+	scrollbar-face-color:#cccccc;
+	scrollbar-shadow-color:#cccccc;
+	scrollbar-highlight-color:#cccccc;
+	scrollbar-3dlight-color:#ffffff;
+	scrollbar-darkshadow-color:#ffffff;
+	scrollbar-track-color:#E5E5E5;
+	scrollbar-arrow-color:#225765;
+	
+}
+
+#header {
+	height: 5px;
+	width: 100%;
+	background-color:#FFFFFF;
+	position: relative;
+	font-weight: bold;
+	border-bottom: 0px solid #41A4D5;
+    background-image:url(../images/topbg1.gif);
+}
+#header a {
+	color: #41A4D5;
+	text-decoration: none;
+}
+
+
+#primary {
+	position: relative;
+	width: 100%;
+	z-index: 1000;
+	border-bottom: 0px solid #0d5279;
+}
+
+#footer {
+	height: 20px;
+	width: 100%;
+	position: relative;
+}
+#leftsidebar {
+	width: 240px;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	background-color: #FFFFFF;
+	overflow: auto;
+}
+#rightsidebar {
+	width: 232px;
+	background-color: #666666;
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	display: none;
+}
+#maincontent 
+{
+	background-color: #ffffff; 
+	margin-right: 7px;
+	margin-left: 245px;
+}
+
+
+#logobar {
+	background-color: #FFFFFF;
+	height: 25px;
+	position: relative;
+	overflow: hidden;
+
+	background-repeat: no-repeat;
+	background-position: left top;
+	margin-top: 1px;
+}
+#logo {
+	background-color: #FFFFFF;
+	margin-left: 0px;
+	margin-top: 3px;
+	margin-right: 10px;
+    height: 64px;
+}
+#softphoneframe {
+	height: 100%;
+	width: 580px;
+	position: absolute;
+	right: 0px;
+	bottom: 0px;
+}
+#applogo {
+	margin-bottom: 2px;
+}
+
+#topnavbar {
+	background-image: url(../images/index_r3_c2.gif);
+	background-repeat: repeat-x;
+	height: 29px;
+	position: relative;
+	overflow: hidden;
+}
+#topnav {
+	list-style-type: none;
+	float: left;
+	margin-left: 2px;
+}
+#topnav li {
+	float: left;
+}
+#topnav a {
+	display: block;
+	text-align: center;
+	padding-right: 8px;
+	background-image: url(../images/menuf.gif);
+	background-repeat: no-repeat;
+	background-position: right center;
+	line-height: 29px;
+	margin-right: 10px;
+}
+
+#topnavbar #userinfo {
+	float: right;
+	vertical-align: middle;
+	line-height: 29px;
+}
+#topnavbar #topnavimg {
+	float: right;
+}
+#callboardbar 
+{
+	height: 70px;
+	position: relative;
+	background-image: url(../images/topbg.gif)
+}
+#callboardbar ul {
+	list-style-type: none;
+	top: 0px;
+	right: 0px;
+	float: right;
+	/***
+	background-image: url(../images/main_angle.gif);***/
+	background-repeat: no-repeat;
+	background-position: left top;
+	padding-left: 1px;
+	background-color: #FFFFFF;
+	margin: 0px;
+}
+#callboardbar ul li {
+	float: right;
+	height: 70px;
+	position: relative;
+	background-repeat: no-repeat;
+	background-position: left center;
+	margin:0px;
+	
+}
+#callboardbar ul a 
+{
+	display: block;
+	height:52px;
+	text-align: center;
+	margin-top: 0px;
+	padding:12px 10px 0;
+	white-space:nowrap;
+	color:#fff;
+	font-weight:normal;
+	line-height:30px;
+}
+#callboardbar ul a:hover{background:#546987;}
+#callboardbar ul li#desktop{
+	background-image: url(../images/vchat.gif);
+}
+
+#callboardbar ul li#remaind {
+	background-image: url(../images/crm.gif);
+}
+
+#callboardbar ul li#card {
+	background-image: url(../images/sendcard.gif);
+}
+
+#callboardbar ul li#static {
+	background-image: url(../images/KeyIcon.gif);
+}
+#callboardbar ul li#exit1 {
+	background-image: url(../images/exit.gif);
+}
+
+#callbordlayout {
+	margin-right: 350px;
+	position: relative;
+	height: 100%;
+}
+
+.infoiframe {
+	height: 100%;
+	display: block;
+	width: 100%;
+}
+.primaryiframe {
+	width: 100%;
+	margin: 0;
+	height: 100%;
+
+}
+#leftsidebar img {
+	background-color: #FF0000;
+	display: block;
+	border: 0;
+}
+
+#leftnavlayout {
+	height: 100%;
+	background-color: #fff;
+}
+#leftfollowbar {
+	width: 7px;
+	position: absolute;
+	left: 240px;
+	top: 0px;
+	background-image: url(../images/main_bgswitch.gif);
+	background-repeat: repeat-y;
+	background-position: left top;
+}
+.followimg {
+	width: 100%;
+	cursor: hand;
+	height: 80px;
+	display: block;
+	position: relative;
+	top: 50%;
+	margin-top: -40px;
+}
+.backgroundcolor {
+	background-color: #42A4D5;
+}
+.primaryheight {
+	height: 100%;
+}
+#rightfollowbar {
+	position: absolute;
+	width: 7px;
+	top: 0px;
+	right: 0px;
+	background-image: url(../images/main_bgswitch.gif);
+	background-repeat: repeat-y;
+	background-position: left top;
+}

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/ReportViewer/Business/rp_CardExport.aspx" hash="95aab9a80" filehash="11b946005ac1e5f" flags="110000" assembly="App_Web_rp_cardexport.aspx.32463c05" type="ASP.reportviewer_business_rp_cardexport_aspx">
+    <filedeps>
+        <filedep name="/www/ReportViewer/Business/rp_CardExport.aspx" />
+        <filedep name="/www/ReportViewer/Business/rp_CardExport.aspx.cs" />
+    </filedeps>
+</preserve>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/Job/ticket_send.aspx" hash="95aab9a80" filehash="4b5753394288800a" flags="110000" assembly="App_Web_ticket_send.aspx.10fd796e" type="ASP.job_ticket_send_aspx">
+    <filedeps>
+        <filedep name="/www/Job/ticket_send.aspx" />
+        <filedep name="/www/Job/ticket_send.aspx.cs" />
+    </filedeps>
+</preserve>

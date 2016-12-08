@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/Admin/BranchManage.aspx" hash="95aab9a80" filehash="31311441aa2de3b6" flags="110000" assembly="App_Web_branchmanage.aspx.fdf7a39c" type="ASP.admin_branchmanage_aspx">
+    <filedeps>
+        <filedep name="/www/Admin/BranchManage.aspx" />
+        <filedep name="/www/Admin/BranchManage.aspx.cs" />
+    </filedeps>
+</preserve>

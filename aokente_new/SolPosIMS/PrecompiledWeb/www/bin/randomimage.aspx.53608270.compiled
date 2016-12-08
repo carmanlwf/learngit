@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/Utility/randomImage.aspx" hash="95aab9a80" filehash="6c04eb95639ed492" flags="110000" assembly="App_Web_randomimage.aspx.53608270" type="ASP.utility_randomimage_aspx">
+    <filedeps>
+        <filedep name="/www/Utility/randomImage.aspx" />
+        <filedep name="/www/Utility/randomImage.aspx.cs" />
+    </filedeps>
+</preserve>

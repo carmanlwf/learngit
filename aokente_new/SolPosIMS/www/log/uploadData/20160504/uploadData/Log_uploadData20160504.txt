@@ -1,0 +1,19 @@
+2016-05-04 11:17:36开始上传停车记录，请求URL:http://www.iotclouddashboard.com/park/pos/insertChargeDetail
+发送的数据是:[{"credencesnr":"000000_d33d2a1fbd7ae228_1461924313618","cardsnr":"川A88888","cardtype":"1","sitename":"F区","backbyte":"szcs01","userid":"000000","possnr":"000000","money":0.00,"realmoney":0.00,"returnmoney":0.00,"mode":0,"starttime":"2016-04-29 18:05:13","endtime":"","giving":0.00,"memo":"1.9.0km","sysid":"1.9.0km"}]
+
+2016-05-04 11:22:11开始上传停车记录，请求URL:http://www.iotclouddashboard.com/park/pos/insertChargeDetail
+发送的数据是:[{"credencesnr":"000000_d33d2a1fbd7ae228_1461924313618","cardsnr":"川A88888","cardtype":"1","sitename":"F区","backbyte":"szcs01","userid":"000000","possnr":"000000","money":0.00,"realmoney":0.00,"returnmoney":0.00,"mode":0,"starttime":"2016-04-29 18:05:13","endtime":"","giving":0.00,"memo":"1.9.0km","sysid":"1.9.0km"}]
+
+2016-05-04 13:58:34开始上传停车记录，请求URL:http://www.iotclouddashboard.com/park/pos/insertChargeDetail
+发送的数据是:[{"credencesnr":"000000_d33d2a1fbd7ae228_1461924313618","cardsnr":"川A88888","cardtype":"1","sitename":"F区","backbyte":"szcs01","userid":"000000","possnr":"000000","money":0.00,"realmoney":0.00,"returnmoney":0.00,"mode":0,"starttime":"2016-04-29 18:05:13","endtime":"","giving":0.00,"memo":"1.9.0km","sysid":"1.9.0km"}]
+
+2016-05-04 16:21:09开始上传停车记录，请求URL:http://www.iotclouddashboard.com/park/pos/insertChargeDetail
+发送的数据是:[{"credencesnr":"000000_d33d2a1fbd7ae228_1461924313618","cardsnr":"川A88888","cardtype":"1","sitename":"F区","backbyte":"szcs01","userid":"000000","possnr":"000000","money":0.00,"realmoney":0.00,"returnmoney":0.00,"mode":0,"starttime":"2016-04-29 18:05:13","endtime":"","giving":0.00,"memo":"1.9.0km","sysid":"1.9.0km"}]
+服务器返回数据:{"message":"success","status":1001}
+[2016-05-04 16:21:23]请求结束.累计耗时:12秒.
+
+2016-05-04 16:35:41开始上传停车记录，请求URL:http://www.iotclouddashboard.com/park/pos/insertChargeDetail
+发送的数据是:[{"credencesnr":"000000_d33d2a1fbd7ae228_1461924313618","cardsnr":"川A88888","cardtype":"1","sitename":"F区","backbyte":"szcs01","userid":"000000","possnr":"000000","money":0.00,"realmoney":0.00,"returnmoney":0.00,"mode":0,"starttime":"2016-04-29 18:05:13","endtime":"","giving":0.00,"memo":"1.9.0km","sysid":"1.9.0km"}]
+服务器返回数据:{"message":"success","status":1001}
+[2016-05-04 16:35:50]请求结束.累计耗时:7秒.
+

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/ST/SiteList.aspx" hash="95aab9a80" filehash="46e9c845fc087626" flags="110000" assembly="App_Web_sitelist.aspx.eaa98e7d" type="ASP.st_sitelist_aspx">
+    <filedeps>
+        <filedep name="/www/ST/SiteList.aspx" />
+        <filedep name="/www/ST/SiteList.aspx.cs" />
+    </filedeps>
+</preserve>

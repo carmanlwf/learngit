@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/InterFace/FunPages/Consume.aspx" hash="95aab9a80" filehash="bd6c1d42b1c1ef8d" flags="110000" assembly="App_Web_consume.aspx.8f284be3" type="ASP.interface_funpages_consume_aspx">
+    <filedeps>
+        <filedep name="/www/InterFace/FunPages/Consume.aspx" />
+        <filedep name="/www/InterFace/FunPages/Consume.aspx.cs" />
+    </filedeps>
+</preserve>

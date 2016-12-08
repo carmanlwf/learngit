@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/Admin/SiteAgentRelate.aspx" hash="95aab9a80" filehash="2c4adb0a30eb810e" flags="110000" assembly="App_Web_siteagentrelate.aspx.fdf7a39c" type="ASP.admin_siteagentrelate_aspx">
+    <filedeps>
+        <filedep name="/www/Admin/SiteAgentRelate.aspx" />
+        <filedep name="/www/Admin/SiteAgentRelate.aspx.cs" />
+    </filedeps>
+</preserve>

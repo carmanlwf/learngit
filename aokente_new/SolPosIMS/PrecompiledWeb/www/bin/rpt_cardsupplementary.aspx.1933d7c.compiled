@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/Report/Rpt_CardSupplementary.aspx" hash="95aab9a80" filehash="c0d192af8cb8ed13" flags="110000" assembly="App_Web_rpt_cardsupplementary.aspx.1933d7c" type="ASP.report_rpt_cardsupplementary_aspx">
+    <filedeps>
+        <filedep name="/www/Report/Rpt_CardSupplementary.aspx" />
+        <filedep name="/www/Report/Rpt_CardSupplementary.aspx.cs" />
+    </filedeps>
+</preserve>

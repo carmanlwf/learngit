@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/Member/IntegralExchangeList.aspx" hash="95aab9a80" filehash="3cc29c5ffecc7a27" flags="110000" assembly="App_Web_integralexchangelist.aspx.48943a5b" type="ASP.member_integralexchangelist_aspx">
+    <filedeps>
+        <filedep name="/www/Member/IntegralExchangeList.aspx" />
+        <filedep name="/www/Member/IntegralExchangeList.aspx.cs" />
+    </filedeps>
+</preserve>

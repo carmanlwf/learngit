@@ -1,0 +1,34 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
+<title></title>
+<style>
+body{
+	margin:	0px;
+	padding:0px;
+	font-family:"monospace", "Ms song";
+	font-size:12px;
+}
+
+div{
+background-color:whitesmoke;
+white-space:nowrap;
+border:1px solid #77a;
+padding:7px;
+}
+</style>
+<script>
+function getwaitwin()
+{
+    try
+    {
+        if(document.getElementById("waitwin") != null) return true;
+    }catch(e){};
+    return false;
+}
+</script>    
+</head>
+<body>
+<div id="waitwin"><img alt="." src="./progress.gif"  />&nbsp;处理中,请稍后...</div>
+</body>
+</html>

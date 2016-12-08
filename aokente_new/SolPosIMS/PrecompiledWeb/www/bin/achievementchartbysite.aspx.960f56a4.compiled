@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/RptChart/AchievementChartBySite.aspx" hash="95aab9a80" filehash="83ba2cecee0d3ae9" flags="110000" assembly="App_Web_achievementchartbysite.aspx.960f56a4" type="ASP.rptchart_achievementchartbysite_aspx">
+    <filedeps>
+        <filedep name="/www/RptChart/AchievementChartBySite.aspx" />
+        <filedep name="/www/RptChart/AchievementChartBySite.aspx.cs" />
+    </filedeps>
+</preserve>

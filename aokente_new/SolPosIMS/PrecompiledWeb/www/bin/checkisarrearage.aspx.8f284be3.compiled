@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/InterFace/FunPages/CheckIsArrearage.aspx" hash="95aab9a80" filehash="4b0a55babda79606" flags="110000" assembly="App_Web_checkisarrearage.aspx.8f284be3" type="ASP.interface_funpages_checkisarrearage_aspx">
+    <filedeps>
+        <filedep name="/www/InterFace/FunPages/CheckIsArrearage.aspx" />
+        <filedep name="/www/InterFace/FunPages/CheckIsArrearage.aspx.cs" />
+    </filedeps>
+</preserve>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/Card/CardTurnTypeRecordList.aspx" hash="95aab9a80" filehash="b8492db079595272" flags="110000" assembly="App_Web_cardturntyperecordlist.aspx.b27292f1" type="ASP.card_cardturntyperecordlist_aspx">
+    <filedeps>
+        <filedep name="/www/Card/CardTurnTypeRecordList.aspx" />
+        <filedep name="/www/Card/CardTurnTypeRecordList.aspx.cs" />
+    </filedeps>
+</preserve>

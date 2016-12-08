@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/Admin/AreaCode.aspx" hash="95aab9a80" filehash="dc0e1cea09996e8a" flags="110000" assembly="App_Web_areacode.aspx.fdf7a39c" type="ASP.admin_areacode_aspx">
+    <filedeps>
+        <filedep name="/www/Admin/AreaCode.aspx" />
+        <filedep name="/www/Admin/AreaCode.aspx.cs" />
+    </filedeps>
+</preserve>

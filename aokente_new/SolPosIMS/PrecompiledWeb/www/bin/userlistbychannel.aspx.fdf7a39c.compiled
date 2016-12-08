@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/Admin/UserListByChannel.aspx" hash="95aab9a80" filehash="a734dced3d95524c" flags="110000" assembly="App_Web_userlistbychannel.aspx.fdf7a39c" type="ASP.admin_userlistbychannel_aspx">
+    <filedeps>
+        <filedep name="/www/Admin/UserListByChannel.aspx" />
+        <filedep name="/www/Admin/UserListByChannel.aspx.cs" />
+    </filedeps>
+</preserve>

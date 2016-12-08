@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/Utility/Pong.aspx" hash="95aab9a80" filehash="7815e51a673fad47" flags="110000" assembly="App_Web_pong.aspx.53608270" type="ASP.utility_pong_aspx">
+    <filedeps>
+        <filedep name="/www/Utility/Pong.aspx" />
+        <filedep name="/www/Utility/Pong.aspx.cs" />
+    </filedeps>
+</preserve>

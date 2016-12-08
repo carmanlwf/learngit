@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/Card/viewSites.aspx" hash="95aab9a80" filehash="aea802a1a6da1961" flags="110000" assembly="App_Web_viewsites.aspx.b27292f1" type="ASP.card_viewsites_aspx">
+    <filedeps>
+        <filedep name="/www/Card/viewSites.aspx" />
+        <filedep name="/www/Card/viewSites.aspx.cs" />
+    </filedeps>
+</preserve>

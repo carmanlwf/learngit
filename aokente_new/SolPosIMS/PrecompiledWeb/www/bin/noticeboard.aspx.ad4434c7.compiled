@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/Notice/NoticeBoard.aspx" hash="95aab9a80" filehash="5416e334850c41e8" flags="110000" assembly="App_Web_noticeboard.aspx.ad4434c7" type="ASP.notice_noticeboard_aspx">
+    <filedeps>
+        <filedep name="/www/Notice/NoticeBoard.aspx" />
+        <filedep name="/www/Notice/NoticeBoard.aspx.cs" />
+    </filedeps>
+</preserve>

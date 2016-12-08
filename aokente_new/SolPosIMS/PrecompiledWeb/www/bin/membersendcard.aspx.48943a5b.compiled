@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/Member/MemberSendCard.aspx" hash="95aab9a80" filehash="32da0245e3a7df58" flags="110000" assembly="App_Web_membersendcard.aspx.48943a5b" type="ASP.member_membersendcard_aspx">
+    <filedeps>
+        <filedep name="/www/Member/MemberSendCard.aspx" />
+        <filedep name="/www/Member/MemberSendCard.aspx.cs" />
+    </filedeps>
+</preserve>

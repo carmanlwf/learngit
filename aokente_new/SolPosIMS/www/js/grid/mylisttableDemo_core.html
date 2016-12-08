@@ -1,0 +1,201 @@
+<!-- DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" -->
+<html>
+<head>
+<title>让你的列表table可以手动调整列宽 （MyTableList---魏子钧  东软电信事业部）</title>
+
+<style>
+
+body {font-size:12px;}
+td {font-size:12px;}
+
+.tableBox { background-color:#999999; }
+
+.listTable{
+table-layout:fixed;
+}
+
+.listTable td{
+	background-color:#ffffff;
+	padding:2px;
+	padding-left:3px;
+	padding-right:3px;
+	text-align:left;
+	vertical-align:middle;
+	white-space:nowrap;
+	word-break:keep-all;
+	word-wrap:normal;
+}
+
+
+.list_th td{
+	font-size:15px;
+	height:20px;
+	background-color:#CCDDF3;
+	padding:0px;
+	text-align:center;
+	vertical-align:bottom;
+	white-space:nowrap;
+	word-break:keep-all;
+	word-wrap:normal;
+}
+
+
+
+
+
+
+/* ------------  用户可以自己按下面的样式 自己指定 separateLine 和 resizebar 的风格 ------------------- */
+/* ------------ 		如果不指定 可以 使用 initDefaultStyle() 方法使用默认风格   ------------------- */
+/*
+.separateLine {position:absolute;z-index:10;left:0px;top:0px;width:2px;height:100px; background-color:#3388ff;display:none;}
+
+.resizebar {
+	 float:right; margin-right:0px;padding-right:0px;height:100%;width:5px;cursor:E-resize;background-color:#3388ff;
+}
+*/
+
+</style>
+
+<SCRIPT language="javascript" src="mycommon.js"></SCRIPT>
+<SCRIPT language="javascript" src="mylisttable.js"></SCRIPT>
+
+<script language="JavaScript">
+<!--
+
+// 页面载入时调用的方法  <body onload="init" ....>
+function init(){
+
+/// 只要引入 mylisttable.js ， 在页面初始化后执行下面代码 一切就ok  
+
+// demoManager 的名字可以随意取 记住一定要声明成 全window域的。
+
+	window.demoManager=new MyListTableManager();
+
+//如果不想使用默认的resizeBar 和 separateLine 风格 下面一行语句不是必要的
+	demoManager.initDefaultStyle();
+
+//指定默认的最小宽度，如果不指定 ，缺省值是100像素 	
+	demoManager.MIN_WIDTH=90;
+
+//参数中的"mt1" 为 tableList 所用table的 id ，需替换为实际的 id 
+	demoManager.addNewMyListTable("mt1");
+
+
+
+}
+
+
+//-->
+</script>
+
+</head>
+
+<body onload="init()" >
+<!--  ======================= 说明 测试 演示区 ======================= -->
+<div style="background-color:#ffffee;margin:10px;padding:10px;">
+&#160;说明：<b>左右拖动</b> 表格列表头中的<b>蓝色区域</b>，可动态改变列表的<b>列宽</b>.
+</div>
+
+
+	<div id="divDialogBox" onblur="getFocus(this)" 
+	style="position:absolute;z-index:200;left:50px;top:38px;filter:Alpha(opacity=100);-moz-opacity:1;display:block;" >
+<table border="0" cellpadding="2" cellspacing="5">
+<tr>
+	<td  style="background-color:#cccccc;"><input type="checkbox" onclick="demoManager.hideCol()" name="" checked="true">列1</td>
+	<td  style="background-color:#cccccc;"><input type="checkbox" onclick="demoManager.hideCol()" name="" checked="true">列2</td>
+	<td  style="background-color:#cccccc;"><input type="checkbox" onclick="demoManager.hideCol()" name="" checked="true">列3</td>
+</tr>
+</table>
+<!--	<iframe border="0" frameborder="0" style="position:absolute;top:0px;left:0px;width:100%;height:100%;z-index:-1;border:0px solid #ffffff" ></iframe> -->
+
+	</div>
+
+
+<!-- BEGIN: 有bug的功能 暂时屏蔽  -->
+<div title="测试中..." style="display:none;">
+<a href="#" onclick="showAllTable();return false;">将单元格全部 撑开</a>&#160;&#160;&#160;&#160;
+<a href="#" onclick="showPartTable();return false;">将单元格全部 还原</a>
+<input type="button" onclick="ltManager.reset();">
+</div>
+<!-- END:  有bug的功能 暂时屏蔽  -->
+
+
+
+<!--  BEGIN: ======================= TABLE LIST 主列表区 核心区域 ======================= -->
+
+<!-- 对于不想改变大小的列 我们可以使用 islock="true" 将他锁定 -->
+<!-- 对于不希望过小的列 可以使用 minwidth="数字" 使其达到数字宽度后不能再小。
+<!-- 例如下面的 列demo2 和 列demo3   -->
+表格一
+<div class="tableBox">
+<table id="mt1" class="listTable"  width="100%"  border="0" cellpadding="0" cellspacing="1" >
+<thead>
+<tr class="list_th">
+	<td >列1
+	</td>
+	<td minwidth="50" >列2(最窄50)
+	</td>
+	<td islock="true">列3(锁定)
+	</td>
+</tr>
+</thead>
+<tbody>
+<tr >
+	<td >很长很长很长很长很长的信息……很长很长很长很长很长的信息……很长很长很长很长很长的信息……</td>
+	<td >demo data</td>
+	<td >demo data</td>
+</tr>
+<tr >
+	<td >demo data</td>
+	<td >demo data</td>
+	<td >demo data</td>
+</tr>
+<tr >
+	<td >demo data</td>
+	<td >demo data</td>
+	<td >很长很长很长很长很长的信息……很长很长很长很长很长的信息……很长很长很长很长很长的信息……</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--  END: ======================= TABLE LIST 主列表区 核心区域 ======================= -->
+
+
+
+<div id="test" style="text-align:center;"></div>
+
+<div style="background-color:#ffffee;margin:10px;padding:10px;">
+<pre style="margin:0px">
+/////////////////////////////////////////////////////////////
+//			MyListTable
+//		作者 ： fins
+//		版本 0.1		时间: 2006-07-06 
+/////////////////////////////////////////////////////////////
+
+这个project可以让你的 ［现有］ 的列表table 在［几乎不用修改］的情况下，
+自动支持手动调节列宽的功能。完全基于DHTML前台技术，与服务器端无关。
+　
+通常情况下 你真正要做的工作只是(当然还有更高级的用法,说明晚些时候奉上) 
+
+1 引入脚本
+	&lt;SCRIPT language="javascript" src="mycommon.js">&lt;/SCRIPT>
+	&lt;SCRIPT language="javascript" src="mylisttable.js">&lt;/SCRIPT>
+2 在页面初始化方法里执行：
+	新建 MyListTableManager 对象，并初始化：
+		window.demoManager=new MyListTableManager();
+		demoManager.initDefaultStyle();
+	将你自己的table id告诉刚刚创建的 MyListTableManager 对象：
+		demoManager.addNewMyListTable("你的列表table的id");
+ 
+
+
+注意：
+0 目前只支持IE 6。 IE其他版本未测试。暂时不支持FireFox浏览器。
+1 不管如今AJAX RIA RCP这些东西如何流行，用js来实现的展现层不可能达到用C写的GUI程序的水平，所以期望值不要太高:)。
+2 测试中，肯定还有很多bug...
+</pre>
+</div>
+
+
+</body>
+</html>

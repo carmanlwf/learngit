@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/Outdoor/tb_Illegal.aspx" hash="95aab9a80" filehash="cf756cd4361b5a4c" flags="110000" assembly="App_Web_tb_illegal.aspx.d536b7ea" type="ASP.outdoor_tb_illegal_aspx">
+    <filedeps>
+        <filedep name="/www/Outdoor/tb_Illegal.aspx" />
+        <filedep name="/www/Outdoor/tb_Illegal.aspx.cs" />
+    </filedeps>
+</preserve>

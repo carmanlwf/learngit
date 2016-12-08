@@ -1,0 +1,428 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>My97 DatePicker 2.1 演示</title>
+<style>
+*{font-size:9pt;line-height:18px}
+.title{font-size:16px;color:#0000FF;font-weight:bold}
+.con{margin-left:15px;}
+</style>
+<script language="javascript" type="text/javascript" src="WdatePicker.js"></script>
+<link href="default/datepicker.css" rel="stylesheet" type="text/css">
+<link href="whyGreen/datepicker.css" rel="stylesheet" type="text/css" disabled="disabled">
+</head>
+
+<body>
+<p><font color="#0000FF" style="font-size:18px">My97日期控件 My97 DatePicker Ver 2.1</font> <font color="#FF0000">特性展示</font></p>
+<p>链接:<a href="#gn">功能介绍和使用说明</a></p>
+<p>1.主调方法:<br>
+  class=&quot;Wdate&quot; ----&gt; 日期框的样式,你可以根据具体的项目自己更改日期框的样式,比如长度,高度颜色等 <br>
+  onfocus=&quot;new WdatePicker('el','dateFmt','showsTime','skin')&quot;<br>
+  这个是JS库的主调函数:<br>
+  <font color="#0000FF">el</font>: 表示返回日期的对象或对象名称,提供2种调用方式<br>
+  <font color="#0000FF">dateFmt</font>: 自定义的日期格式 %Y %M %D %h %m %s 表示年月日时分秒(注意大小写) 默认是%Y-%M-%D<br>
+  <font color="#0000FF">showsTime</font>: 布尔型变量 true表示带时间选择 默认为false<br>
+  <font color="#0000FF">skin</font>: 皮肤的名称 本包自带2款皮肤 分别为 default 和 whyGreen<br>
+  <font color="#FF0000">2.属性(2.1新增,注意大小写)</font><br>
+  <font color="#0000FF">MINDATE:</font> 日期最小值 格式为: 2000-1-1 或 2000/1/1 默认为:1900-1-1<br>
+  <font color="#0000FF">MAXDATE:</font> 日期最大值 格式为: 2008-1-1 或 2008/1/1 默认为:2099-12-30<br>
+<font color="#FF0000">3 改进的方法</font><br>
+<font color="#0000FF">getValue():</font> 这个属性用于记录日期框的日期值 通常情况下<font color="#0000FF">getValue()</font>和 日期框的value 属性是一样的,当进行自定义日期格式的时候这2个值就不一样了<br>
+例如: 当 格式字符串: %Y年%M月%D日 %h时%m分%s秒 时 日期框中的VALUE是:2000年1月1日 12时00分00秒 而<font color="#0000FF">getValue()</font>值: 2000-1-1 12:00:00<br>
+我想通过这个例子应该很清楚了,<font color="#0000FF">2000年1月1日 12时00分00秒</font>对于用户来说是一个很直观的日期,但对于计算机来说是一个不可识别的日期,在用户选择的时候我们可以使用%Y年%M月%D日 %h时%m分%s秒格式化日期给用户一个友好的日期格式,但是在数据存储的时候我们不可能把<font color="#0000FF">2000年1月1日 12时00分00秒</font>直接存入数据库的,<font color="#0000FF">getValue()</font>就是为了解决这个问题而设计的.</p>
+<p><span class="title">2.1新增功能</span><font color="#FF0000">(如果您没有用过2.0版本请务必先看2.0的相关说明,<a href="#v2.0">单击此处查看2.0特性</a>)</font><font color="#0000FF" style="font-size:18px"><a name="v2.1" id="v2.1"></a></font></p>
+<p><span class="title">2.1.1 日期范围限制(静态限制)<br>
+</span><font color="#0000FF">相关属性:</font><font color="#0000FF">MINDATE</font>(最小日期) <font color="#0000FF">MAXDATE</font>(最大日期)<br>
+&lt;input type=&quot;text&quot; class=&quot;Wdate&quot; onfocus=&quot;new WdatePicker(this)&quot; <font color="#FF0000">MINDATE=&quot;2006-10-8&quot;</font> <font color="#FF0000">MAXDATE=&quot;2008-11-20&quot;</font>/&gt;<br>
+<font color="#FF0000">注意:</font>在.NET中,可以使用<font color="#0000FF">TextBox</font>代替<font color="#0000FF">input</font>,<font color="#0000FF">class=&quot;Wdate&quot;</font>改为<font color="#0000FF">CssC</font><font color="#0000FF">lass=&quot;Wdate&quot;</font>其他类似,下面的例子在.NET中的调用也是类似的,不再做说明了<br>
+  <font color="#0000FF">示例 2.1-1</font>(限制日期的范围是 2006-10-8到2008-11-20 ):
+  <input type="text" class="Wdate" onFocus="new WdatePicker(this)" MINDATE="2006-10-8" MAXDATE="2008-11-20"/>
+</p>
+<p><span class="title">2.1.2 日期范围限制(动态限制)</span><br>
+  <font color="#0000FF">相关属性:</font><font color="#0000FF">MINDATE</font>(最小日期) <font color="#0000FF">MAXDATE</font>(最大日期)<br>
+动态变量: 使用$开头 后面接 日期框的id <br>
+特殊变量: #Today 表示今天<br>
+<font color="#0000FF">示例 2.1-1(动态限制日期的范围 <font color="#FF0000">前面的日期不能大于后面的日期 后面的日期的最大值是:2020-1-1</font>):</font><br>
+&lt;input id=&quot;htStart&quot; type=&quot;text&quot; class=&quot;Wdate&quot; onfocus=&quot;new WdatePicker(this,'%Y年%M月%D日',false)&quot; <font color="#FF0000">MAXDATE=&quot;$htEnd&quot;</font>/&gt;<br>
+&lt;input id=&quot;htEnd&quot; type=&quot;text&quot; class=&quot;Wdate&quot; onfocus=&quot;new WdatePicker(this,'%Y年%M月%D日',false)&quot; <font color="#FF0000">MINDATE=&quot;$htStart&quot; MAXDATE=&quot;2020-1-1&quot;</font>/&gt;<br>
+  合同有效期从
+    <input id="htStart" type="text" class="Wdate" onClick="new WdatePicker(this,'%Y年%M月%D日',false)" MAXDATE="$htEnd"/> 
+    到
+    <input id="htEnd" type="text" class="Wdate" onClick="new WdatePicker(this,'%Y年%M月%D日',false)" MINDATE="$htStart" MAXDATE="2020-1-1"/>
+    <br>
+    <br>
+    <font color="#0000FF">示例 2.1-2(动态限制日期的范围 只能选择今天<font color="#FF0000">以前</font>的日期)</font><br>
+    &lt;input id=&quot;text212&quot; type=&quot;text&quot; class=&quot;Wdate&quot; onfocus=&quot;new WdatePicker(this)&quot; <font color="#FF0000">MAXDATE=&quot;#Today&quot;</font>/&gt;<br>
+    <input id="text212" type="text" class="Wdate" onFocus="new WdatePicker(this)" MAXDATE="#Today"/>
+</p>
+<p><font color="#0000FF">示例 2.1-3(动态限制日期的范围 只能选择今天<font color="#FF0000">以后</font>的日期)</font><br>
+&lt;input id=&quot;text213&quot; type=&quot;text&quot; class=&quot;Wdate&quot; onfocus=&quot;new WdatePicker(this)&quot; <font color="#FF0000">MINDATE=&quot;#Today&quot;</font>/&gt;<br>
+<input id="text213" type="text" class="Wdate" onFocus="new WdatePicker(this)" MINDATE="#Today"/>
+</p>
+<p><span class="title">2.1.3 增强的自动纠错功能</span><br>
+纠错处理可设置为3种模式 <font color="#0000FF">1.提示(默认) 2.自动纠错 3.标记</font><br>
+  <font color="#FF0000">注</font>:纠错处理模式,可通过修改,具体操作方法请<a href="#mrsz">单击此处</a>查看<br>
+  合法日期的定义: 符合格式 而且 在限定范围之内的日期 <br>
+  <font color="#0000FF">1. 当遇到合法的日期时不做任何处理</font><br>
+示例:略<br>
+<font color="#0000FF">2. 当遇到合法日期但是格式与设定的格式不匹配时,如用户设定的格式是 %Y年%M月%D日 而 用户输入 2000-1-1 则自动转换成 2000年1月1日</font><br>
+<font color="#0000FF">示例 2.1-4</font><font color="#000000">(你可以参数在下框中直接 输入 </font><font color="#0000FF">2000-1-1</font> , <font color="#0000FF">2005/1/1</font> , <font color="#0000FF">2008-1/1</font> 然后看看效果吧<br>
+&lt;input id=&quot;text213&quot; type=&quot;text&quot; class=&quot;Wdate&quot; onfocus=&quot;new WdatePicker(this,'%Y年%M月%D日',false)&quot;/&gt;<br>
+<input name="text4" type="text" class="Wdate" id="text" onFocus="new WdatePicker(this,'%Y年%M月%D日',false)"/>
+<br>
+<font color="#0000FF">3. 当遇到不合法日期时,根据设定的纠错处理模式,做相应的处理,默认的纠错处理模式是 提示 ,他将弹出一个对话框提示用户并让用户选择如何处理 </font><br>
+<font color="#0000FF">示例 2.1-5 </font><font color="#000000">你可以参数在下框中直接 输入</font> <font color="#0000FF">200a-b-11</font>(错误的日期) <font color="#0000FF">2001/2/29</font>(非闰年) <font color="#0000FF">1999-1-1</font>(限定范围之外的日期) 然后看看效果吧<br>
+&lt;input id=&quot;text2&quot; type=&quot;text&quot; class=&quot;Wdate&quot; onfocus=&quot;new WdatePicker(this)&quot; <font color="#FF0000">MINDATE=&quot;2000-1-1&quot; MAXDATE=&quot;2020-1-1&quot;</font>/&gt;<br>
+<input type="text" class="Wdate" id="text2" onFocus="new WdatePicker(this)" MINDATE="2000-1-1" MAXDATE="2020-1-1"/>
+</p>
+<p><span class="title">2.1.4 改进的取值方式</span><br>
+如果你的日期格式定义是 <font color="#0000FF">%Y-%M-%D %h:%m:%s</font> 那么取值的时候很简单,因为计算机是直接认识这种格式的日期的<br>
+但是,有时为了项目的需要我们会将日期格式定义成
+<font color="#0000FF">%Y年%M月%D日 %h时%m分%s秒</font> 那么计算机改如何取值呢? 我们这里提供了一个<font color="#0000FF">getValue方法</font><br>
+&lt;input type=&quot;text&quot; class=&quot;Wdate&quot; id=&quot;text3&quot; style=&quot;width:240px&quot; onFocus=&quot;new WdatePicker(this,'%Y年%M月%D日 %h时%m分%s秒',true)&quot;/&gt;<br>
+<input type="text" class="Wdate" id="text3" style="width:240px" onFocus="new WdatePicker(this,'%Y年%M月%D日 %h时%m分%s秒',true)" value=""/>
+<a style="cursor:pointer" onClick="alert( document.getElementById('text3').getValue() )"><font color="#0000FF">点此取值:document.getElementById('text3').getValue()</font></a><br>
+</p>
+<p>&nbsp;</p>
+<p><span class="title">2.0 功能</span><font color="#0000FF" style="font-size:18px"><a name="v2.0" id="v2.0"></a></font></p>
+<p><span class="title">1. 两种调用方式</span><br>
+  <font color="#0000FF">推荐调用方式</font>:本身 即el=this 
+  主调函数:onfocus=&quot;new WdatePicker(<font color="#0000FF">this</font>)&quot;<br>
+  示例1-1:
+  <input type="text" class="Wdate" onFocus="new WdatePicker(this)"/>
+  <br>
+  <br>
+  <font color="#0000FF">第二种调用方式</font>:本身 即el=this 
+  <br>
+  主调函数:<br>
+  文本框:id='textbox1'<br>
+  图像框:onclick=&quot;new WdatePicker(<font color="#0000FF">'textbox1'</font>)&quot; textbox1是前面那个文本框的id <br>
+示例1-2:
+<input name="text" type="text" id="textbox1" onFocus=""/>
+<img src="../datePicker.gif" width="16" height="22" align="absmiddle" style="cursor:pointer" onClick="new WdatePicker('textbox1')"></p>
+<p><span class="title">2. 支持自定义皮肤和动态切换皮肤</span><br>
+  <font color="#0000FF">默认皮肤default</font>:即skin=default 示例和主调函数见示例1-1<br>
+<br>
+<font color="#0000FF">whyGreen皮肤</font>:即skin=whyGreen 主调函数:onfocus=&quot;new WdatePicker(this,null,false,<font color="#0000FF">'whyGreen'</font>)&quot; <br>
+<font color="#FF0000">注意:</font><font color="#0000FF">'whyGreen'</font><font color="#FF0000">要带上单引号,因为是字符串
+<br>
+</font>
+示例2-1:
+<input name="text2" type="text" class="Wdate" onFocus="new WdatePicker(this,null,false,'whyGreen')"/>
+</p>
+<p><span class="title">3. 根据网页大小自动选择显示位置</span><br>
+  调用形式同示例1-1,点右下角的日期框就能看到效果<br>
+<div align="right"> 示例3-1:
+  <input name="text23" type="text" class="Wdate" onFocus="new WdatePicker(this)"/></div>
+</p>
+<p><span class="title">4. 跨越框架显示选择框</span>(可无限跨越框架,无论你怎么嵌套框架都不必担心了)<br>
+  <iframe src="demo_iframe.html" frameborder="0" width="800px" height="200px"></iframe>
+</p>
+<p><span class="title">5. 支持日期和时间的编辑,编辑时自动跳转到对应月份和时间</span><br>
+  <font color="#0000FF">不知道你是否已经注意到,当日期框里面有值时,右下角的按钮会变成<font color="#FF0000">确定</font>,现在你可以尝试对下面框中的日期和时间进行编辑<br>
+  </font>主调函数:onfocus=&quot;new WdatePicker(this)&quot; <br>
+  示例5-1:
+  <input name="text222" type="text" class="Wdate" onFocus="new WdatePicker(this)" value="2000-01-01"/>
+</p>
+<p>主调函数:onfocus=&quot;new WdatePicker(this,<font color="#0000FF">'%Y-%M-%D %h:%m:%s'</font>,<font color="#0000FF">true</font>)&quot; <br>
+示例5-2:
+  <input name="text22222" type="text" style="width:200px" class="Wdate" onFocus="new WdatePicker(this,'%Y-%M-%D %h:%m:%s',true)" value="2000-02-29 01:00:00"/>
+</p>
+<p><span class="title">6. 支持自定义时间和日期格式</span></p>
+<p>主调函数:onfocus=&quot;new WdatePicker(this,<font color="#0000FF">'%Y年%M月%D日 %h时%m分%s秒'</font>,<font color="#0000FF">true</font>)&quot; <br>
+示例6-1:
+  <input id="textbox2" type="text" style="width:300px" class="Wdate" onFocus="new WdatePicker(this,'%Y年%M月%D日 %h时%m分%s秒',true)" value=""/>
+  <br>
+那么像这样的文本框我们存入数据库时这么取得实际的日期值呢,别急,用这个函数 <a href="javascript:try{alert(document.getElementById('textbox2').getValue());}catch(e){alert('空值!')}">document.getElementById('textbox2').getValue()</a></p>
+<p><span class="title">7. 支持多国语言设置</span><br>
+  语言设置请参考 <a href="#mrsz">默认设置的更改和相关说明</a><br>
+  <br>
+</p>
+<p>&nbsp;</p>
+<p><font color="#0000FF" style="font-size:18px"><a name="gn"></a>My97日期控件 My97 DatePicker Ver 2.1</font> <font color="#FF0000">功能介绍和使用说明</font> <a href="#">返回特性演示</a></p>
+<p>/*****************************************************
+  <br>
+* <strong>2.1版更新说明</strong><br>
+* <font color="#0000FF">日期范围限制,可以在选择框指定MINDATE和MAXDATE属性来限制日期范围</font><br>
+* <font color="#0000FF">增强的自动纠错功能,纠错处理可设置为3种模式 1.提示(默认) 2.自动纠错 3.标记</font><br>
+* <strong>2.0版更新说明</strong><br>
+* 支持两种调用方式<br>
+* 支持自定义皮肤和动态切换皮肤(感谢why提供whyGreen皮肤)*<br>
+* 跨越框架显示选择框<br>
+* 自动提示日期错误<br>
+* 年份,月份设置为选择模式<br>
+* 支持日期和时间的编辑,编辑时自动跳转到对应月份和时间<br>
+* 根据网页大小自动选择显示位置<br>
+* 支持时间选择<br>
+* 自定义日期时间格式<br>
+* 支持多国语言设置<br>
+* 支持周末加亮设置<br>
+<font color="#FF0000">* 完美支持FireFox,在FF中的效果跟IE一模一样</font><br>
+  * ---------------------------------------------------<br>
+  * 联系My97:<br>
+  * 如果您在使用过程中遇到问题,或者有更好的建议<br>
+  * 欢迎您访问<br>
+  * BLOG: http://blog.csdn.net/my97/<br>
+  * MAIL: smallcarrot@163.com<br>
+****************************************************/</p>
+<p><strong>基本使用:</strong><br>
+  <br>
+1. 在使用该日期控件的文件中加入JS库,
+代码如下 <font color="#0000FF">&lt;script language=&quot;javascript&quot; type=&quot;text/javascript&quot; src=&quot;WdatePicker.js&quot;&gt;&lt;/script&gt;</font></p>
+<p>2. 在使用该日期控件的文件加载css样式 <font color="#0000FF">&lt;link href=&quot;default/datePicker.css&quot; rel=&quot;stylesheet&quot; type=&quot;text/css&quot; /&gt;</font></p>
+<p>3. 在input标签里面加上(.net上是CssClass) <font color="#0000FF">class=&quot;Wdate&quot; <br>
+注意:这个是对日期框的样式定义,如果你自己已经对日期框的样式定义了,<font color="#FF0000">此步可以不做</font></font></p>
+<p>4.加上主调函数 onfocus=&quot;new WdatePicker('el','dateFmt','showsTime','skin')&quot;</p>
+<p>相信大家已经知道这么用了,如果还不明白请QQ我:9589876</p>
+<p><strong>.Net中使用的注意事项</strong><br>
+由于.Net中默认适用的是utf编码的所以会因为编码问题而不能使用,在引用的时候稍微有点变化<br>
+  <font color="#0000FF">&lt;script language=&quot;javascript&quot; type=&quot;text/javascript&quot; src=&quot;WdatePicker.js&quot;&gt;&lt;/script&gt;</font><br>
+  <font color="#0000FF">&lt;link href=&quot;default/datePicker.css&quot; rel=&quot;stylesheet&quot; type=&quot;text/css&quot; /&gt;<br>
+改为:<br>
+  </font><font color="#0000FF">&lt;script language=&quot;javascript&quot; type=&quot;text/javascript&quot; src=&quot;WdatePicker.js&quot; <font color="#FF0000">charset=&quot;gb2312&quot;</font>&gt;&lt;/script&gt;</font><br>
+    <font color="#0000FF">&lt;link href=&quot;default/datePicker.css&quot; rel=&quot;stylesheet&quot; type=&quot;text/css&quot;  <font color="#FF0000">charset=&quot;gb2312&quot;</font>/&gt;</font></p>
+<p><strong>繁體版用戶注意事項:</strong><br>
+可能你們的機器上沒有安裝簡體中文,那么你需要把<font color="#0000FF"><font color="#FF0000">charset=&quot;gb2312&quot;</font></font>改為<font color="#FF0000">charset=&quot;GBK&quot;</font>,另外:你需要修改<a href="#mrsz">默認設置</a>里面的語言設置,把對應的簡體中文改成繁體中文</p>
+<p><strong>主调函数的使用方法和说明</strong><br>
+  主调方法:
+onfocus=&quot;new WdatePicker('el','dateFmt','showsTime','skin')&quot;<br>
+这个是JS库的主调函数:<br>
+<font color="#0000FF">el</font>: 表示返回日期的对象或对象名称,提供2种调用方式<br>
+<font color="#0000FF">dateFmt</font>: 自定义的日期格式 %Y %M %D %h %m %s 表示年月日时分秒(注意大小写) 默认是%Y-%M-%D<br>
+<font color="#0000FF">showsTime</font>: 布尔型变量 true表示带时间选择 默认为false<br>
+<font color="#0000FF">skin</font>: 皮肤的名称 本包自带2款皮肤 分别为 default 和 whyGreen<br>
+<font color="#FF0000">相关的例子请参考上面的特性演示</font></p>
+<p><strong><a name="mrsz"></a>默认设置的更改和相关说明</strong><br>
+默认设置和相关参数的更改在WdatePicker.js最上面几行,用代码说话<br>
+<font color="#00CC33">/* 设置 */</font><br>
+  var dpcfg = {};<br>
+  <font color="#00CC33">/* 默认风格 如果你喜欢whyGreen这个样式,你可以改成whyGreen 另外你还可以自定义自己的样式 */</font><br>
+  dpcfg.skin = &quot;default&quot;; <br>
+  <font color="#00CC33">/* 日期格式 %Y %M %D %h %m %s 表示年月日时分秒(注意大小写) */</font><br>
+  dpcfg.dateFmt = &quot;%Y-%M-%D&quot;;<br>
+  <font color="#00CC33">/* 是否显示时间 */</font><br>
+  dpcfg.showTime = false; <br>
+  <font color="#00CC33">/* 是否高亮显示 周六 周日 */</font><br>
+  dpcfg.highLineWeekDay = true;<br>
+  <font color="#00CC33">/* 日期范围 */</font><br>
+  dpcfg.minDate = &quot;1900-1-1&quot;;<br>
+  dpcfg.maxDate = &quot;2099-12-30&quot;;<br>
+  <font color="#00CC33">/* 纠错模式设置 可设置3中模式 0 - 提示 1 - 自动纠错 2 - 标记 */</font><br>
+  dpcfg.errDealMode = 0;<br>
+  <font color="#00CC33">/* 纠错提示信息,仅当提示提示模式为0时有效 */</font><br>
+  dpcfg.errAlertMsg = &quot;不合法的日期格式或者日期超出限定范围,需要撤销吗?&quot;;<br>
+  <font color="#00CC33">/* 语言设置 */</font><br>
+  dpcfg.aWeekStr = [&quot;日&quot;,&quot;一&quot;,&quot;二&quot;,&quot;三&quot;,&quot;四&quot;,&quot;五&quot;,&quot;六&quot;];<br>
+  dpcfg.aMonStr = [&quot;一月&quot;,&quot;二月&quot;,&quot;三月&quot;,&quot;四月&quot;,&quot;五月&quot;,&quot;六月&quot;,&quot;七月&quot;,&quot;八月&quot;,&quot;九月&quot;,&quot;十月&quot;,&quot;十一&quot;,&quot;十二&quot;];<br>
+  dpcfg.todayStr = &quot;今天&quot;;<br>
+  dpcfg.okStr = &quot;确定&quot;;<br>
+  dpcfg.timeStr = &quot;时间&quot;;<br>
+  dpcfg.monthStr = &quot;月份&quot;;<br>
+dpcfg.yearStr = &quot;年份&quot;;</p>
+<p><strong>自定义皮肤的相关说明</strong><br>
+  皮肤是可以自定义的,<br>
+  <font color="#0000FF">1. 皮肤名字就是皮肤文件夹名</font><br>
+    <font color="#0000FF">2. 皮肤用到的图片和其他资源必须放在皮肤文件夹内</font><br>
+<font color="#0000FF">3. CSS文件的名字必须是:datepicker.css</font></p>
+<p>以whyGreen皮肤为例:用代码说话</p>
+<p><font color="#00CC33">/* <br>
+* My97日期控件 My97 DatePicker Ver 2.0<br>
+* 皮肤名称:whyGreen<br>
+* 皮肤作者:why<br>
+* 作者主页:www.nbycstudio.com<br>
+*/</font></p>
+<p><font color="#00CC33">/* 日期选择控件 */</font><br>
+  .Wdate{<br>
+  width:140px;<br>
+  border:#999 1px solid;<br>
+  background:url(../datePicker.gif) no-repeat right;<br>
+  }<br>
+  <font color="#00CC33">/* 日期选择控件 日期格式错误时的CSS */</font><br>
+  .WdateFmtErr{<br>
+  font-weight:bold;<br>
+  color:red;<br>
+  }<br>
+  <br>
+  <font color="#00CC33">/* 日期选择容器 DIV */</font><br>
+  .WdateDiv{<br>
+  width:180px;<br>
+  background-color:#fff;<br>
+  border:#C5E1E4 1px solid;<br>
+  padding:2px;<br>
+  }<br>
+  .WdateDiv *{font-size:9pt;}<br>
+  <font color="#00CC33">/****************************<br>
+  * 年份月份相关<br>
+  ***************************/<br>
+  /* 年份月份栏 DIV */</font><br>
+  .WdateDiv #dpTitle{<br>
+  height:24px;<br>
+  border:#c5d9e8 1px solid;<br>
+  color:#70A5AB;<br>
+  background:url(bg.jpg);<br>
+  margin-bottom:2px;<br>
+  }<br>
+  <font color="#00CC33">/* 年份月份输入框 INPUT */</font><br>
+  .WdateDiv .yminput{<br>
+  padding-top:2px;<br>
+  text-align:center;<br>
+  border:0px;<br>
+  height:16px;<br>
+  color:#034c50;<br>
+  background:url(ymbg.jpg);<br>
+  cursor:pointer;<br>
+  }<font color="#00CC33"><br>
+  /* 年份月份输入框获得焦点时的样式 INPUT */</font><br>
+  .WdateDiv .yminputfocus{<br>
+  text-align:center;<br>
+  font-weight:bold;<br>
+  color:#034c50;<br>
+  border:#939393 1px solid;<br>
+  height:16px;<br>
+  }<br>
+  <font color="#00CC33">/* 年份月份选择框 DIV */</font><br>
+  .WdateDiv .ymsel{<br>
+  position:absolute;<br>
+  margin-left:24px;<br>
+  top:23px;<br>
+  background-color:#FFFFFF;<br>
+  padding:2px;<br>
+  border:#A3C6C8 1px solid;<br>
+  display:none;<br>
+  }<br>
+  <font color="#00CC33">/* 年月选择框的样式 TD */</font><br>
+  .WdateDiv .Wym{<br>
+  cursor:pointer;<br>
+  background-color:#fff;<br>
+  color:#11777C;<br>
+  }<br>
+  <font color="#00CC33">/* 年月选择框的mouseover样式 TD */</font><br>
+  .WdateDiv .WymOn{<br>
+  cursor:pointer;<br>
+  background-color:#BEEBEE;<br>
+  }<br>
+  <font color="#00CC33">/* 年月选择框无效时的样式 TD */</font><br>
+  .WdateDiv .Winvalidym{<br>
+  color:#aaa;<br>
+  }<br>
+  <font color="#00CC33">/****************************<br>
+  * 星期,日期相关<br>
+  ***************************/<br>
+  /* 日期栏表格 TABLE */</font><br>
+  .WdateDiv #dpDayTable{<br>
+  line-height:20px; <br>
+  color:#13777e;<br>
+  background-color:#edfbfb;<br>
+  border:#BEE9F0 1px solid;<br>
+  }<br>
+  <font color="#00CC33">/* 星期栏 TR */</font><br>
+  .WdateDiv #dpWeekTitle{<br>
+  color:#13777e;<br>
+  background-color:#bdebee;<br>
+  }<br>
+  <font color="#00CC33">/* 日期格的样式 TD */</font><br>
+  .WdateDiv .Wday{<br>
+  cursor:pointer;<br>
+  }<br>
+  <font color="#00CC33">/* 日期格的mouseover样式 TD */</font><br>
+  .WdateDiv .WdayOn{<br>
+  cursor:pointer;<br>
+  background-color:#74d2d9 ;<br>
+  }<br>
+  <font color="#00CC33">/* 周末日期格的样式 TD */</font><br>
+  .WdateDiv .Wwday{<br>
+  cursor:pointer;<br>
+  color:#ab1e1e;<br>
+  }<br>
+  <font color="#00CC33">/* 周末日期格的mouseover样式 TD */</font><br>
+  .WdateDiv .WwdayOn{<br>
+  cursor:pointer;<br>
+  background-color:#74d2d9;<br>
+  }<br>
+  <font color="#00CC33">/* 今天的样式 */</font><br>
+  .WdateDiv .Wtoday{<br>
+  cursor:pointer;<br>
+  color:blue;<br>
+  }<br>
+  <font color="#00CC33">/* 已选择那天的样式,即日期框中日期所对应的样式 */</font><br>
+  .WdateDiv .Wselday{<br>
+  color:red;<br>
+  background-color:#B3E6EA;<br>
+  }<br>
+  <font color="#00CC33">/* 无效日期的样式,即在日期范围以外日期格的样式,不能选择的日期 */</font><br>
+  .WdateDiv .WinvalidDay{<br>
+  color:#aaa;<br>
+  }<br>
+  <font color="#00CC33">/****************************<br>
+  * 时间相关<br>
+  ***************************/<br>
+  /* 时间栏 DIV */</font><br>
+  .WdateDiv #dpTime{<br>
+  <br>
+  }<br>
+  <font color="#00CC33">/* 时间文字 SPAN */</font><br>
+  .WdateDiv #dpTime #dpTimeStr{<br>
+  margin-left:1px;<br>
+  color:#497F7F;<br>
+  }<br>
+  <font color="#00CC33">/* 时间输入框 INPUT */</font><br>
+  .WdateDiv #dpTime input{<br>
+  height:16px;<br>
+  width:18px;<br>
+  text-align:center;<br>
+  color:#333;<br>
+  border:#61CAD0 1px solid; <br>
+  }<br>
+  <font color="#00CC33">/* 时间 时 INPUT */</font><br>
+  .WdateDiv #dpTime .tB{<br>
+  border-right:0px;<br>
+  }<br>
+  <font color="#00CC33">/* 时间 分和间隔符 ':' INPUT */</font><br>
+  .WdateDiv #dpTime .tE{<br>
+  border-left:0;<br>
+  border-right:0;<br>
+  }<br>
+  <font color="#00CC33">/* 时间 秒 INPUT */</font><br>
+  .WdateDiv #dpTime .tm{<br>
+  width:7px;<br>
+  border-left:0;<br>
+  border-right:0;<br>
+  }<br>
+  <font color="#00CC33">/* 时间右边的向上按钮 BUTTON */</font><br>
+  .WdateDiv #dpTime #dpTimeUp{<br>
+  height:10px;<br>
+  width:13px;<br>
+  border:0px;<br>
+  background-image:url(up.jpg);<br>
+  }<br>
+  <font color="#00CC33">/* 时间右边的向下按钮 BUTTON */</font><br>
+  .WdateDiv #dpTime #dpTimeDown{<br>
+  height:10px;<br>
+  width:13px;<br>
+  border:0px;<br>
+  background-image:url(down.jpg);<br>
+  }<br>
+  <font color="#00CC33">/****************************<br>
+  * 其他<br>
+  ***************************/<br>
+  /* 确定和几天按钮 INPUT */</font><br>
+  .WdateDiv #dpOkInput{<br>
+  border:#38B1B9 1px solid;<br>
+  height:16px;<br>
+  background-color:#CFEBEE;<br>
+  color:#08575B;<br>
+}</p>
+<p>&nbsp;</p>
+<p><strong>联系My97:</strong></p>
+<p>****************************************************
+  <br>
+* 如果您在使用过程中遇到问题,或者有更好的建议<br>
+* 欢迎您访问<br>
+* BLOG: <a href="http://blog.csdn.net/my97/">http://blog.csdn.net/my97/</a><br>
+* MAIL: smallcarrot@163.com<br>
+****************************************************/</p>
+<p>&nbsp;</p>
+<p><br>
+</p>
+</body>
+</html>

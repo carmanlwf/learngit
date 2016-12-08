@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/Member/PointRateSet.aspx" hash="95aab9a80" filehash="2839ede2ddbd5ffe" flags="110000" assembly="App_Web_pointrateset.aspx.48943a5b" type="ASP.member_pointrateset_aspx">
+    <filedeps>
+        <filedep name="/www/Member/PointRateSet.aspx" />
+        <filedep name="/www/Member/PointRateSet.aspx.cs" />
+    </filedeps>
+</preserve>

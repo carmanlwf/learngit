@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/Admin/WorkTime.aspx" hash="95aab9a80" filehash="8fde57913405c003" flags="110000" assembly="App_Web_worktime.aspx.fdf7a39c" type="ASP.admin_worktime_aspx">
+    <filedeps>
+        <filedep name="/www/Admin/WorkTime.aspx" />
+        <filedep name="/www/Admin/WorkTime.aspx.cs" />
+    </filedeps>
+</preserve>

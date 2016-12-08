@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/InterFace/ClearHistoryParkingRecord.aspx" hash="95aab9a80" filehash="417d00d256f62ddf" flags="110000" assembly="App_Web_clearhistoryparkingrecord.aspx.75ff4de4" type="ASP.interface_clearhistoryparkingrecord_aspx">
+    <filedeps>
+        <filedep name="/www/InterFace/ClearHistoryParkingRecord.aspx" />
+        <filedep name="/www/InterFace/ClearHistoryParkingRecord.aspx.cs" />
+    </filedeps>
+</preserve>

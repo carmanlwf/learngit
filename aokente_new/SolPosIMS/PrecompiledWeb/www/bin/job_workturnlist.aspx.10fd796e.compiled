@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/Job/job_workturnlist.aspx" hash="95aab9a80" filehash="29321614ecce2487" flags="110000" assembly="App_Web_job_workturnlist.aspx.10fd796e" type="ASP.job_job_workturnlist_aspx">
+    <filedeps>
+        <filedep name="/www/Job/job_workturnlist.aspx" />
+        <filedep name="/www/Job/job_workturnlist.aspx.cs" />
+    </filedeps>
+</preserve>

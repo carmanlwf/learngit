@@ -1,0 +1,77 @@
+*{
+	font-family:"monospace", "Ms song";
+	font-size:12px;
+}
+
+body {
+	scrollbar-face-color:#cccccc;
+	scrollbar-shadow-color:#cccccc;
+	scrollbar-highlight-color:#cccccc;
+	scrollbar-3dlight-color:#ffffff;
+	scrollbar-darkshadow-color:#ffffff;
+	scrollbar-track-color:#E5E5E5;
+	scrollbar-arrow-color:#225765;
+	margin:	2px;
+	padding:0px;
+	height:		auto;
+}
+
+form {
+	margin:		0;
+	padding:	0;
+}
+
+.sitemappath {
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+	margin-bottom: 2px;
+}
+.sitemappath li {
+	background-repeat: no-repeat;
+	background-position: left center;
+	background-image: url(../images/loca.gif);
+	padding-left: 20px;
+	height: 15px;
+	vertical-align: middle;
+}
+
+
+
+.sitemappath_arrow {
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+	margin-bottom: 3px;
+}
+
+.sitemappath_arrow li {
+	height: 15px;
+	vertical-align: middle;
+	padding-left: 5px;
+}
+.sitemappath_arrow img {
+	background-position: left center;
+	background-image: url(../images/bullet05.gif);
+	width: 8px;
+	float: left;
+	display: block;
+}
+
+
+
+
+iframe {
+    scrollbar-face-color:#ffffff;
+	scrollbar-shadow-color:#84B3BC;
+	scrollbar-highlight-color:#84B3BC;
+	scrollbar-3dlight-color:#ffffff;
+	scrollbar-darkshadow-color:#ffffff;
+	scrollbar-track-color:#E5E5E5;
+	scrollbar-arrow-color:#225765;
+
+	width: 100%;
+	margin: 0;
+	height: 100%;
+	padding: 0;
+}

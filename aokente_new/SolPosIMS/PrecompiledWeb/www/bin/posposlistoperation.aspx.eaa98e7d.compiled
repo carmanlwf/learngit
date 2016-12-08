@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/ST/PosposListOperation.aspx" hash="95aab9a80" filehash="c98a8c27978cf6e3" flags="110000" assembly="App_Web_posposlistoperation.aspx.eaa98e7d" type="ASP.st_posposlistoperation_aspx">
+    <filedeps>
+        <filedep name="/www/ST/PosposListOperation.aspx" />
+        <filedep name="/www/ST/PosposListOperation.aspx.cs" />
+    </filedeps>
+</preserve>

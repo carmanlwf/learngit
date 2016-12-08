@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{C2E2E5A9-36BC-4ED1-8510-E71FDFE0000D}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Ims.Pub</RootNamespace>
+    <AssemblyName>ImsPubApp</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ImsMainApp, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\ImsMainApp\bin\Debug\ImsMainApp.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="ZsdDotNetLibrary, Version=1.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\www\lib\ZsdDotNetLibrary.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BLL\AreaHelperBLL.cs" />
+    <Compile Include="BLL\BlackBookHelperBLL.cs" />
+    <Compile Include="BLL\DataBackUpBLL.cs" />
+    <Compile Include="BLL\LogHelperBLL.cs" />
+    <Compile Include="BLL\LogTypeHelperBLL.cs" />
+    <Compile Include="BLL\NoticeListBLL.cs" />
+    <Compile Include="BLL\NoticeOperatorBLL.cs" />
+    <Compile Include="BLL\PUB_TransLogHelperBLL.cs" />
+    <Compile Include="BLL\RequestClientHelperBLL.cs" />
+    <Compile Include="BLL\Rpt_ListHelperBLL.cs" />
+    <Compile Include="BLL\SiteHelperBLL.cs" />
+    <Compile Include="DAL\BlackBookHelperDAL.cs" />
+    <Compile Include="DAL\DataBackUpDAL.cs" />
+    <Compile Include="DAL\LogHelperDAL.cs" />
+    <Compile Include="DAL\PUB_RequestClientHelperDAL.cs" />
+    <Compile Include="DAL\PUB_TransLogHelperDAL.cs" />
+    <Compile Include="DAL\SiteAndAreaHelperDAL.cs" />
+    <Compile Include="Model\DataBackUpModel.cs" />
+    <Compile Include="Model\LogTypeName.cs" />
+    <Compile Include="Model\PUB_Area.cs" />
+    <Compile Include="Model\PUB_BlackBook.cs" />
+    <Compile Include="Model\Pub_Log.cs" />
+    <Compile Include="Model\PUB_LogType.cs" />
+    <Compile Include="Model\pub_noticeagent.cs" />
+    <Compile Include="Model\pub_noticeinfo.cs" />
+    <Compile Include="Model\PUB_RequestClient.cs" />
+    <Compile Include="Model\PUB_Site.cs" />
+    <Compile Include="Model\PUB_TransLog.cs" />
+    <Compile Include="Model\Rpt_List.cs" />
+    <Compile Include="Model\v_pub_noticeagentinfo.cs" />
+    <Compile Include="Model\v_pub_NoticeInfoManage.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

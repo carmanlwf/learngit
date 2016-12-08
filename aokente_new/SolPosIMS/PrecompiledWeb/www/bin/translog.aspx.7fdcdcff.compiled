@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/Sysem/TransLog.aspx" hash="95aab9a80" filehash="e0f55cffa7cb4371" flags="110000" assembly="App_Web_translog.aspx.7fdcdcff" type="ASP.sysem_translog_aspx">
+    <filedeps>
+        <filedep name="/www/Sysem/TransLog.aspx" />
+        <filedep name="/www/Sysem/TransLog.aspx.cs" />
+    </filedeps>
+</preserve>

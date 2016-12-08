@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/Utility/TestDCCloundInterface.aspx" hash="95aab9a80" filehash="362fe9b964581d3d" flags="110000" assembly="App_Web_testdccloundinterface.aspx.53608270" type="ASP.utility_testdccloundinterface_aspx">
+    <filedeps>
+        <filedep name="/www/Utility/TestDCCloundInterface.aspx" />
+        <filedep name="/www/Utility/TestDCCloundInterface.aspx.cs" />
+    </filedeps>
+</preserve>

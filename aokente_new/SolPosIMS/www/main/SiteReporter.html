@@ -1,0 +1,73 @@
+﻿<!D<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
+    <title></title>
+<script language="JavaScript" type="text/javascript" src="../js/app.xmlhttp.js"></script>
+<script language="JavaScript" type="text/javascript" src="../js/app.edit.js"></script>
+<script>
+
+    function doOnLoad()
+    {
+        onTimer();
+       window.setInterval("onTimer()",30*1000);
+    }
+    function callback(result)
+    {
+       try
+       {   
+           var rlist = result.split(";");
+           if(rlist == null || rlist.length <=0 || rlist[0] !="ok") return ;
+           if(rlist[1] != "true") 
+           {
+               relogin(rlist[2]);
+               return ;
+           }
+           setservertime(rlist[2]);
+           //showReceiveMsgs(rlist[3]);
+        }catch(e){}
+    }
+    //活跃性报告    
+    function onTimer()
+    {
+       try
+       {
+          XmlHttpHelper.asynCall("ActiveReporter.aspx",callback);
+        }catch(e){}
+    }
+    function relogin(logoutReason)
+    {
+        try
+        {
+            top.logout(logoutReason);
+        }catch(e){};
+    }
+    function setservertime(stime)
+    {
+        try
+        {
+            parent.setservertime(stime);
+        }catch(e){}
+    }  
+    
+    function showReceiveMsgs(receiveMsgIds)
+    {
+        if(receiveMsgIds != "")
+        {
+            receiveMsgIds = receiveMsgIds.split(",");
+            for(var i=0;i<receiveMsgIds.length;i+=3)
+            {
+                showAgentMsg(receiveMsgIds[i],receiveMsgIds[i+1],receiveMsgIds[i+2]);
+            }
+        }    
+    }
+</script>
+    
+</head>
+<body onload="doOnLoad()">
+<form >
+
+</form>
+
+</body>
+</html>
+

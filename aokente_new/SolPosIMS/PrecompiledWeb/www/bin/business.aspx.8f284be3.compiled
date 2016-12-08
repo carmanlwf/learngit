@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/InterFace/FunPages/Business.aspx" hash="95aab9a80" filehash="938fff623b6f8007" flags="110000" assembly="App_Web_business.aspx.8f284be3" type="ASP.interface_funpages_business_aspx">
+    <filedeps>
+        <filedep name="/www/InterFace/FunPages/Business.aspx" />
+        <filedep name="/www/InterFace/FunPages/Business.aspx.cs" />
+    </filedeps>
+</preserve>

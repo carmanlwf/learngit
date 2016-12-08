@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/main/RightNotice.aspx" hash="95aab9a80" filehash="b788a375ede8ea78" flags="110000" assembly="App_Web_rightnotice.aspx.e27bd738" type="ASP.main_rightnotice_aspx">
+    <filedeps>
+        <filedep name="/www/main/RightNotice.aspx" />
+        <filedep name="/www/main/RightNotice.aspx.cs" />
+    </filedeps>
+</preserve>

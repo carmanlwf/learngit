@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/InterFace/FunPages/ModifyPass.aspx" hash="95aab9a80" filehash="1dac46dbe836373a" flags="110000" assembly="App_Web_modifypass.aspx.8f284be3" type="ASP.interface_funpages_modifypass_aspx">
+    <filedeps>
+        <filedep name="/www/InterFace/FunPages/ModifyPass.aspx" />
+        <filedep name="/www/InterFace/FunPages/ModifyPass.aspx.cs" />
+    </filedeps>
+</preserve>

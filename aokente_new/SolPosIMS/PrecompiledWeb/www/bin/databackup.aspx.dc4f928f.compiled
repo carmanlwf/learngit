@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/ReportViewer/DataBackUp.aspx" hash="95aab9a80" filehash="bc7fc27a9fdcce53" flags="110000" assembly="App_Web_databackup.aspx.dc4f928f" type="ASP.reportviewer_databackup_aspx">
+    <filedeps>
+        <filedep name="/www/ReportViewer/DataBackUp.aspx" />
+        <filedep name="/www/ReportViewer/DataBackUp.aspx.cs" />
+    </filedeps>
+</preserve>

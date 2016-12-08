@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/Admin/UserListByAuthority.aspx" hash="95aab9a80" filehash="f1fa10deea369787" flags="110000" assembly="App_Web_userlistbyauthority.aspx.fdf7a39c" type="ASP.admin_userlistbyauthority_aspx">
+    <filedeps>
+        <filedep name="/www/Admin/UserListByAuthority.aspx" />
+        <filedep name="/www/Admin/UserListByAuthority.aspx.cs" />
+    </filedeps>
+</preserve>

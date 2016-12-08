@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/InterFace/FunPages/GetParkingRecordBySiteID.aspx" hash="95aab9a80" filehash="4a5372c10e8744e7" flags="110000" assembly="App_Web_getparkingrecordbysiteid.aspx.8f284be3" type="ASP.interface_funpages_getparkingrecordbysiteid_aspx">
+    <filedeps>
+        <filedep name="/www/InterFace/FunPages/GetParkingRecordBySiteID.aspx" />
+        <filedep name="/www/InterFace/FunPages/GetParkingRecordBySiteID.aspx.cs" />
+    </filedeps>
+</preserve>

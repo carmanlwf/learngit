@@ -1,0 +1,78 @@
+<skin version="2" name="TT-07" author="vivi" url="http://www.ttplayer.com" email="none" transparent_color="#ff00ff">
+    <player_window image="player_skin.gif">
+      <play position="246, 61, 264, 81" image="play.gif"/>
+      <pause position="246, 61, 264, 81" image="pause.gif"/>
+      <prev position="225, 65, 242, 76" image="prev.gif"/>
+      <next position="266, 65, 283, 76" image="next.gif"/>
+	  <stop position="249, 86, 260, 97" image="stop.gif"/>
+      <open position="250, 45, 260, 56" image="open.gif"/>
+
+      <lyric position="39, 95, 50, 106" image="lyric.gif"/>
+      <equalizer position="257, 10, 268, 20" image="equalizer.gif"/>
+      <playlist position="23, 95, 34, 106" image="playlist.gif"/>
+
+      <minimize position="285, 10, 294, 19" image="minimize.gif"/>
+      <minimode position="272, 10, 281, 19" image="minimode.gif"/>
+      <exit position="299, 10, 308, 19" image="close.gif"/>
+
+      <progress position="21, 44, 123, 49" bar_image="" thumb_image="progress_thumb.gif" fill_image="progress_fill.gif"/>
+      <volume position="68, 92, 111, 108" vertical="false" bar_image="" thumb_image="thumb.gif" fill_image="progress2.gif"/>
+      
+      <icon position="16, 20, 32, 36" image="TTPlayer.ico"/>
+      <info position="36, 18, 167, 37" color="#ffffff" font="Tahoma" font_size="13" align="left"/>
+	  <status position="124, 94, 186, 112" color="#ffffff" font="Tahoma" font_size="13" align="right"/>
+      <led position="66, 40, 188, 56" image="number.gif" align="right"/>
+      <visual position="16, 57, 187, 88"/>
+   </player_window>
+
+
+  <lyric_window position="0, 452, 10, 652" resize_rect="46, 32, 307, 194" image="lyric_skin.gif">
+      <lyric position="5, 32, 307, 194"/>
+      <close position="296, 10, 305, 19" image="close.gif" align="right"/>
+      <ontop position="283, 10, 290, 17" image="ontop.gif" align="right"/>
+   </lyric_window>
+
+
+
+
+<equalizer_window position="0, 126, 311, 252" image="eq_skin.gif" eq_interval="8">      
+
+      <close position="299, 10, 308, 19" image="close.gif" align="right"/>
+      <enabled position="17, 107, 47, 118" image="eq_enabled.gif"/>
+      <profile position="111, 107, 165, 118" image="eq_profile.gif"/>
+      <reset position="58, 107, 100, 118" image="reset.gif"/>
+      <balance position="28, 48, 88, 53" thumb_image="eq_thumb.gif" bar_image=""  fill_image="eqfactor_full2.gif"/>
+      <surround position="28, 74, 88, 79" thumb_image="eq_thumb.gif" bar_image=""  fill_image="eqfactor_full2.gif"/>
+      <preamp position="123, 33, 128, 93" thumb_image="eq_thumb.gif" bar_image=""  fill_image="eqfactor_full.gif"/>
+      <eqfactor position="168, 33, 173, 93" thumb_image="eq_thumb.gif" bar_image="" fill_image="eqfactor_full.gif"/>
+</equalizer_window>
+
+
+
+
+   <playlist_window position="0, 252, 10, 452" resize_rect="64, 52, 305, 188" image="playlist_skin.gif">
+      <close position="296, 10, 305, 19" image="close.gif" align="right"/>
+      <toolbar position="3, 28, 241, 42" image="playlist_toolbar.gif" align="left"/>
+       <scrollbar buttons_image="scrollbar_button.gif" thumb_image="scrollbar_thumb.gif" bar_image="scrollbar_bar.gif" align="center"/>
+      <playlist position="8, 54, 306, 188" selected_image="playlist_selected.gif"/>
+   </playlist_window>
+
+
+
+
+<mini_window image="mini-player.gif">
+		<play position="200, 4, 214, 19" image="play_mini.gif" />
+		<pause position="200, 4, 214, 19" image="pause_mini.gif" />		
+		<prev position="181, 4, 195, 19" image="prev_mini.gif" />
+		<next position="219, 4, 233, 19" image="next_mini.gif" />
+		<stop position="238, 5, 252, 20" image="stop_mini.gif" />
+		<lyric position="297, 14, 335, 25" image="lyric.gif" />
+		<playlist position="283, 14, 321, 25" image="playlist.gif" />
+		<icon position="3, 5, 19, 21" image="TTplayer.ico" />
+		<minimize position="287, 4, 321, 13" image="minimize.gif" />
+        <minimode position="275, 4, 305, 13" image="minimode.gif" />
+        <exit position="299, 4, 329, 13" image="close.gif" />            
+        <info position="25, 2, 175, 23" color="#ffffff" font="Tahoma" font_size="13" align="left"/>
+</mini_window>
+
+</skin>

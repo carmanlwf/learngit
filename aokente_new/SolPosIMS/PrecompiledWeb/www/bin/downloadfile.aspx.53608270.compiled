@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/Utility/DownLoadFile.aspx" hash="95aab9a80" filehash="f1e11b35c7b86099" flags="110000" assembly="App_Web_downloadfile.aspx.53608270" type="ASP.utility_downloadfile_aspx">
+    <filedeps>
+        <filedep name="/www/Utility/DownLoadFile.aspx" />
+        <filedep name="/www/Utility/DownLoadFile.aspx.cs" />
+    </filedeps>
+</preserve>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/ST/RepeaterList.aspx" hash="95aab9a80" filehash="80271edc991b2f63" flags="110000" assembly="App_Web_repeaterlist.aspx.eaa98e7d" type="ASP.st_repeaterlist_aspx">
+    <filedeps>
+        <filedep name="/www/ST/RepeaterList.aspx" />
+        <filedep name="/www/ST/RepeaterList.aspx.cs" />
+    </filedeps>
+</preserve>

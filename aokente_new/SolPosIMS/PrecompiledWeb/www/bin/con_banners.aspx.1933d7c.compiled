@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/Report/Con_banners.aspx" hash="95aab9a80" filehash="5b357f1a5b6434f7" flags="110000" assembly="App_Web_con_banners.aspx.1933d7c" type="ASP.report_con_banners_aspx">
+    <filedeps>
+        <filedep name="/www/Report/Con_banners.aspx" />
+        <filedep name="/www/Report/Con_banners.aspx.cs" />
+    </filedeps>
+</preserve>

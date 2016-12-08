@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/Card/ChoolSiteAndRanks.aspx" hash="95aab9a80" filehash="671ae074283fc798" flags="110000" assembly="App_Web_choolsiteandranks.aspx.b27292f1" type="ASP.card_choolsiteandranks_aspx">
+    <filedeps>
+        <filedep name="/www/Card/ChoolSiteAndRanks.aspx" />
+        <filedep name="/www/Card/ChoolSiteAndRanks.aspx.cs" />
+    </filedeps>
+</preserve>

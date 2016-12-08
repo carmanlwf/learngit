@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
+   <title>无效的请求链接,系统正在退出。。。</title>
+<script type="text/javascript" src="js/app.request.js"></script>
+<style>
+span
+{
+	font-family:"宋体";
+	font-size: 10pt;
+	color:#1E3739;
+	font-weight:bold;
+}
+</style>
+<script>
+function doExit()
+{
+        window.close();
+}
+function doOnLoad()
+{
+    window.setTimeout("doExit()",3000);
+}
+</script>
+</head>
+<body onload="doOnLoad()">
+<span>系统已关闭，请联系管理员 ...</span>
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <table border="0" cellpadding="0" cellspacing="0" style="width: 100%">
+        <tr>
+            <td style="width: 100%; text-align: center">
+                <img src="./images/tishi2.gif" /></td>
+        </tr>
+    </table>
+</body>
+</html>

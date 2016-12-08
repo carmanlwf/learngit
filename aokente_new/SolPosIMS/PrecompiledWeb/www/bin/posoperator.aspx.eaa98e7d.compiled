@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/ST/PosOperator.aspx" hash="95aab9a80" filehash="6a1be71f3840594c" flags="110000" assembly="App_Web_posoperator.aspx.eaa98e7d" type="ASP.st_posoperator_aspx">
+    <filedeps>
+        <filedep name="/www/ST/PosOperator.aspx" />
+        <filedep name="/www/ST/PosOperator.aspx.cs" />
+    </filedeps>
+</preserve>

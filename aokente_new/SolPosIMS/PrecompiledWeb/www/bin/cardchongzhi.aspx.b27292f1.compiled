@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/Card/CardChongZhi.aspx" hash="95aab9a80" filehash="e557e3df69028d86" flags="110000" assembly="App_Web_cardchongzhi.aspx.b27292f1" type="ASP.card_cardchongzhi_aspx">
+    <filedeps>
+        <filedep name="/www/Card/CardChongZhi.aspx" />
+        <filedep name="/www/Card/CardChongZhi.aspx.cs" />
+    </filedeps>
+</preserve>

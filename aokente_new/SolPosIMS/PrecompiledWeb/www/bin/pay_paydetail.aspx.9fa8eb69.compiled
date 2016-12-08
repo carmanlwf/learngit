@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/Pay/pay_paydetail.aspx" hash="95aab9a80" filehash="a8f05df460f3ce80" flags="110000" assembly="App_Web_pay_paydetail.aspx.9fa8eb69" type="ASP.pay_pay_paydetail_aspx">
+    <filedeps>
+        <filedep name="/www/Pay/pay_paydetail.aspx" />
+        <filedep name="/www/Pay/pay_paydetail.aspx.cs" />
+    </filedeps>
+</preserve>

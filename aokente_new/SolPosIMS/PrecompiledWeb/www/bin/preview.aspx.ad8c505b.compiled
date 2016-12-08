@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/WebPrint/PreView.aspx" hash="95aab9a80" filehash="c0aa5b65612b6ec4" flags="110000" assembly="App_Web_preview.aspx.ad8c505b" type="ASP.webprint_preview_aspx">
+    <filedeps>
+        <filedep name="/www/WebPrint/PreView.aspx" />
+        <filedep name="/www/WebPrint/PreView.aspx.cs" />
+    </filedeps>
+</preserve>

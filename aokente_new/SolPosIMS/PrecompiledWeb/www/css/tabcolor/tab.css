@@ -1,0 +1,186 @@
+.dynamic-tab-pane-control.tab-pane {
+	position:	relative;
+	width:		100%;		/* width needed weird IE bug */
+	margin-right:	-2px;	/* to make room for the shadow */
+}
+
+.dynamic-tab-pane-control .tab-row .tab {
+	width:				87px;
+	height:				18px;
+	background-image:	url( "tab.gif" );
+	position:		relative;
+	top:			0;
+	display:		inline;
+	float:			left;
+	overflow:		hidden;
+	cursor:			hand;
+	margin:			1px 1px 2px 0px;
+	padding:		2px 0px 0px 0px;
+	border:			0;
+	z-index:		1;
+	font:			11px Tahoma;
+	white-space:	nowrap;
+	text-align:		center;
+	background-repeat: no-repeat;
+}
+
+.dynamic-tab-pane-control .tab-row .tab.selected {
+	background-image:	url( "tab.active.gif" ) !important;
+	background-repaet:	no-repeat;
+
+	border-bottom-width:	0;
+	z-index:		3;
+	font:				11px Tahoma;
+}
+
+.dynamic-tab-pane-control .tab-row .tab a {
+	font:				11px Tahoma;
+	color:				Black;
+	text-decoration:	none;
+	cursor:			hand;
+}
+
+.dynamic-tab-pane-control .tab-row .tab.hover {
+	font:				11px Tahoma;
+	/*background-image:	url( "tab.hover.gif" );*/
+	background-repaet:	no-repeat;
+	cursor:			hand;
+
+}
+
+
+.dynamic-tab-pane-control .tab-page {
+	clear:			both;
+	z-index:		2;
+	position:		relative;
+	top:			-2px;
+	font:				11px Tahoma;
+	color:				Black;
+	border-top-width: 3px;
+	border-top-style: solid;
+	border-top-color: #8CA0BB;
+	margin-top: 2px;
+}
+
+.dynamic-tab-pane-control .tab-row {
+	z-index:		1;
+	white-space:	nowrap;
+}
+
+
+.dynamic-tab-pane-control .tab-row #tab-w02 {
+	width:				55px;
+	background-image:	url( "tab02.gif" );
+}
+
+.dynamic-tab-pane-control .tab-row #tab-w03 {
+	width:				76px;
+	background-image:	url( "tab03.gif" );
+}
+
+.dynamic-tab-pane-control .tab-row #tab-w06 {
+	width:				104px;
+	background-image:	url( "tab06.gif" );
+}
+
+.dynamic-tab-pane-control .tab-row #tab-w08 {
+	width:				120px;
+	background-image:	url( "tab08.gif" );
+}
+
+.dynamic-tab-pane-control .tab-row #tab-w02.selected {
+	background-image:	url( "tab02.active.gif" ) !important;
+}
+.dynamic-tab-pane-control .tab-row #tab-w03.selected {
+	background-image:	url( "tab03.active.gif" ) !important;
+}
+
+.dynamic-tab-pane-control .tab-row #tab-w06.selected {
+	background-image:	url( "tab06.active.gif" ) !important;
+}
+.dynamic-tab-pane-control .tab-row #tab-w08.selected {
+	background-image:	url( "tab08.active.gif" ) !important;
+}
+
+
+.tab-pane-blue .tab-row .tab.selected {
+	background-image:	url( "tabblue.active.gif" ) !important;
+}
+
+.tab-pane-blue .tab-row #tab-w02.selected {
+	background-image:	url( "tabblue02.active.gif" ) !important;
+}
+.tab-pane-blue .tab-row #tab-w03.selected {
+	background-image:	url( "tabblue03.active.gif" ) !important;
+}
+.tab-pane-blue .tab-row #tab-w06.selected {
+	background-image:	url( "tabblue06.active.gif" ) !important;
+}
+.tab-pane-blue .tab-row #tab-w08.selected {
+	background-image:	url( "tabblue08.active.gif" ) !important;
+}
+
+.tab-pane-blue .tab-page {
+	border-top-color: #8CA0BB;
+}
+
+
+
+.tab-pane-red .tab-row .tab.selected {
+	background-image:	url( "tabred.active.gif" ) !important;
+}
+
+.tab-pane-red .tab-row #tab-w02.selected {
+	background-image:	url( "tabred02.active.gif" ) !important;
+}
+.tab-pane-red .tab-row #tab-w03.selected {
+	background-image:	url( "tabred03.active.gif" ) !important;
+}
+.tab-pane-red .tab-row #tab-w06.selected {
+	background-image:	url( "tabred06.active.gif" ) !important;
+}
+.tab-pane-red .tab-row #tab-w08.selected {
+	background-image:	url( "tabred08.active.gif" ) !important;
+}
+
+.tab-pane-red .tab-page {
+	border-top-color: #D3822C;
+}
+
+
+
+.tab-pane-green .tab-row .tab.selected {
+	background-image:	url( "tabgreen.active.gif" ) !important;
+}
+
+.tab-pane-green .tab-row #tab-w02.selected {
+	background-image:	url( "tabgreen02.active.gif" ) !important;
+}
+.tab-pane-green .tab-row #tab-w03.selected {
+	background-image:	url( "tabgreen03.active.gif" ) !important;
+}
+.tab-pane-green .tab-row #tab-w06.selected {
+	background-image:	url( "tabgreen06.active.gif" ) !important;
+}
+.tab-pane-green .tab-row #tab-w08.selected {
+	background-image:	url( "tabgreen08.active.gif" ) !important;
+}
+
+.tab-pane-green .tab-page {
+	border-top-color: #6AB0B9;
+}
+
+.orange
+{background-color:#D3822C; height:3px;}
+.green
+{background-color:#6AB0B9; height:3px;}
+.blue
+{background-color:#8CA0BB; height:3px;}
+.lightblue
+{background-color:#BFC9E0; height:2px;}
+.brown
+{background-color:#D7CEB7; height:2px;}
+.white
+{background-color:#ffffff; height:1px;}
+.grey
+{background-color:#DEDEDE; height:1px;}

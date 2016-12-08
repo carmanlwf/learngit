@@ -1,0 +1,10 @@
+@import url("app.css");
+
+.noticeboard {
+	float: left;
+	width: 415px;
+	margin: 4px 0px 0px 4px;
+	height: 280px;
+	display: inline;
+	background-color: #0000FF;
+}

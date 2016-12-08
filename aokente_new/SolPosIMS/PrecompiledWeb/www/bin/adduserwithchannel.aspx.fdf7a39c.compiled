@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/Admin/AddUserWithChannel.aspx" hash="95aab9a80" filehash="fdd08d12f7060e63" flags="110000" assembly="App_Web_adduserwithchannel.aspx.fdf7a39c" type="ASP.admin_adduserwithchannel_aspx">
+    <filedeps>
+        <filedep name="/www/Admin/AddUserWithChannel.aspx" />
+        <filedep name="/www/Admin/AddUserWithChannel.aspx.cs" />
+    </filedeps>
+</preserve>

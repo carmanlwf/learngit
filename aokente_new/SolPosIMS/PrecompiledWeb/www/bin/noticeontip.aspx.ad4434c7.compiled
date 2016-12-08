@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/Notice/NoticeOnTip.aspx" hash="95aab9a80" filehash="56291ac085a0e536" flags="110000" assembly="App_Web_noticeontip.aspx.ad4434c7" type="ASP.notice_noticeontip_aspx">
+    <filedeps>
+        <filedep name="/www/Notice/NoticeOnTip.aspx" />
+        <filedep name="/www/Notice/NoticeOnTip.aspx.cs" />
+    </filedeps>
+</preserve>

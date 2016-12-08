@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/Sysem/SelCardRecord.aspx" hash="95aab9a80" filehash="64e01b6013c8723f" flags="110000" assembly="App_Web_selcardrecord.aspx.7fdcdcff" type="ASP.sysem_selcardrecord_aspx">
+    <filedeps>
+        <filedep name="/www/Sysem/SelCardRecord.aspx" />
+        <filedep name="/www/Sysem/SelCardRecord.aspx.cs" />
+    </filedeps>
+</preserve>

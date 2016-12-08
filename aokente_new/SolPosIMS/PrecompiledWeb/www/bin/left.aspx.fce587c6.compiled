@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/Member/main/Left.aspx" hash="95aab9a80" filehash="7370fc7137e53050" flags="110000" assembly="App_Web_left.aspx.fce587c6" type="ASP.member_main_left_aspx">
+    <filedeps>
+        <filedep name="/www/Member/main/Left.aspx" />
+        <filedep name="/www/Member/main/Left.aspx.cs" />
+    </filedeps>
+</preserve>

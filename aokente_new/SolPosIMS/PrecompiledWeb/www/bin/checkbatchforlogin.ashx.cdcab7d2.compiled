@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/www/checkbatchforlogin.ashx" hash="4613fb65" filehash="3ff4abe32f12" flags="110000" assembly="App_Web_checkbatchforlogin.ashx.cdcab7d2" type="checkbatchforlogin">
+    <filedeps>
+        <filedep name="/www/checkbatchforlogin.ashx" />
+    </filedeps>
+</preserve>

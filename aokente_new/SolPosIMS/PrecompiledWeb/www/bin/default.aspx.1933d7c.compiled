@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/Report/Default.aspx" hash="95aab9a80" filehash="3ce750f103fb2c71" flags="110000" assembly="App_Web_default.aspx.1933d7c" type="ASP.report_default_aspx">
+    <filedeps>
+        <filedep name="/www/Report/Default.aspx" />
+        <filedep name="/www/Report/Default.aspx.cs" />
+    </filedeps>
+</preserve>

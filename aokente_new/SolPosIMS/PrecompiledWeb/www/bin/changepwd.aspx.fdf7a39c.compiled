@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/Admin/ChangePwd.aspx" hash="95aab9a80" filehash="e4de64463362d920" flags="110000" assembly="App_Web_changepwd.aspx.fdf7a39c" type="ASP.admin_changepwd_aspx">
+    <filedeps>
+        <filedep name="/www/Admin/ChangePwd.aspx" />
+        <filedep name="/www/Admin/ChangePwd.aspx.cs" />
+    </filedeps>
+</preserve>

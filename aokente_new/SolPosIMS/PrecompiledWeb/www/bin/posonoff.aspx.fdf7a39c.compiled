@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/Admin/POSOnOff.aspx" hash="95aab9a80" filehash="296cb68b93cdc98" flags="110000" assembly="App_Web_posonoff.aspx.fdf7a39c" type="ASP.admin_posonoff_aspx">
+    <filedeps>
+        <filedep name="/www/Admin/POSOnOff.aspx" />
+        <filedep name="/www/Admin/POSOnOff.aspx.cs" />
+    </filedeps>
+</preserve>

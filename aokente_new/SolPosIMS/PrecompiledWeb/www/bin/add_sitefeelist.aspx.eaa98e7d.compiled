@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/ST/Add_sitefeelist.aspx" hash="95aab9a80" filehash="6a2dbb13ac83d46b" flags="110000" assembly="App_Web_add_sitefeelist.aspx.eaa98e7d" type="ASP.st_add_sitefeelist_aspx">
+    <filedeps>
+        <filedep name="/www/ST/Add_sitefeelist.aspx" />
+        <filedep name="/www/ST/Add_sitefeelist.aspx.cs" />
+    </filedeps>
+</preserve>

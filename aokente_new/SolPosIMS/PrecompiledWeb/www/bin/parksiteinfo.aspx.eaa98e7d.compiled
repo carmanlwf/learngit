@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/ST/parkSiteinfo.aspx" hash="95aab9a80" filehash="f6570fa4faf34ed2" flags="110000" assembly="App_Web_parksiteinfo.aspx.eaa98e7d" type="ASP.st_parksiteinfo_aspx">
+    <filedeps>
+        <filedep name="/www/ST/parkSiteinfo.aspx" />
+        <filedep name="/www/ST/parkSiteinfo.aspx.cs" />
+    </filedeps>
+</preserve>

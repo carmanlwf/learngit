@@ -1,0 +1,16 @@
+body {
+	margin:		0px;
+	width:		880px;
+	height:		auto;
+	font-size:  12px;
+	font-family: "ËÎÌו", Verdana, Helvetica, Arial;
+}
+
+form {
+	margin:		0;
+	padding:	0;
+}
+
+.sitemappath {
+	display: none;
+}

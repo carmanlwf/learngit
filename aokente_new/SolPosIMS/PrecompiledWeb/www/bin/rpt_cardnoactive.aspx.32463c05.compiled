@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/ReportViewer/Business/Rpt_CardNoActive.aspx" hash="95aab9a80" filehash="79f2a6bd1d86d7a2" flags="110000" assembly="App_Web_rpt_cardnoactive.aspx.32463c05" type="ASP.reportviewer_business_rpt_cardnoactive_aspx">
+    <filedeps>
+        <filedep name="/www/ReportViewer/Business/Rpt_CardNoActive.aspx" />
+        <filedep name="/www/ReportViewer/Business/Rpt_CardNoActive.aspx.cs" />
+    </filedeps>
+</preserve>

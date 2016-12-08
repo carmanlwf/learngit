@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/Report/Rpt_TransRecord.aspx" hash="95aab9a80" filehash="6fcca6d232f504a8" flags="110000" assembly="App_Web_rpt_transrecord.aspx.1933d7c" type="ASP.report_rpt_transrecord_aspx">
+    <filedeps>
+        <filedep name="/www/Report/Rpt_TransRecord.aspx" />
+        <filedep name="/www/Report/Rpt_TransRecord.aspx.cs" />
+    </filedeps>
+</preserve>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/PM/Infor.aspx" hash="95aab9a80" filehash="be4822c4d25c3136" flags="110000" assembly="App_Web_infor.aspx.1c2630ac" type="ASP.pm_infor_aspx">
+    <filedeps>
+        <filedep name="/www/PM/Infor.aspx" />
+        <filedep name="/www/PM/Infor.aspx.cs" />
+    </filedeps>
+</preserve>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/Unauthorized.aspx" hash="95aab9a80" filehash="e1dac2a1205f9032" flags="110000" assembly="App_Web_unauthorized.aspx.cdcab7d2" type="ASP.unauthorized_aspx">
+    <filedeps>
+        <filedep name="/www/Unauthorized.aspx" />
+        <filedep name="/www/Unauthorized.aspx.cs" />
+    </filedeps>
+</preserve>

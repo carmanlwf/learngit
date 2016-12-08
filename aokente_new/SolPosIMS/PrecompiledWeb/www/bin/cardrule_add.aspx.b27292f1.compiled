@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/Card/CardRule_Add.aspx" hash="95aab9a80" filehash="2a6b71682fe4d0e3" flags="110000" assembly="App_Web_cardrule_add.aspx.b27292f1" type="ASP.card_cardrule_add_aspx">
+    <filedeps>
+        <filedep name="/www/Card/CardRule_Add.aspx" />
+        <filedep name="/www/Card/CardRule_Add.aspx.cs" />
+    </filedeps>
+</preserve>

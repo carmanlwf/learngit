@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/ReportViewer/Business/TenFree.aspx" hash="95aab9a80" filehash="c32c4b52a0034fb3" flags="110000" assembly="App_Web_tenfree.aspx.32463c05" type="ASP.reportviewer_business_tenfree_aspx">
+    <filedeps>
+        <filedep name="/www/ReportViewer/Business/TenFree.aspx" />
+        <filedep name="/www/ReportViewer/Business/TenFree.aspx.cs" />
+    </filedeps>
+</preserve>

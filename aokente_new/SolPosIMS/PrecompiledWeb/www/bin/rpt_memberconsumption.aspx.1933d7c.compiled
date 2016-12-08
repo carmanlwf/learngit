@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/Report/Rpt_MemberConsumption.aspx" hash="95aab9a80" filehash="4e62f7bec8f84747" flags="110000" assembly="App_Web_rpt_memberconsumption.aspx.1933d7c" type="ASP.report_rpt_memberconsumption_aspx">
+    <filedeps>
+        <filedep name="/www/Report/Rpt_MemberConsumption.aspx" />
+        <filedep name="/www/Report/Rpt_MemberConsumption.aspx.cs" />
+    </filedeps>
+</preserve>

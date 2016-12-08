@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/InterFace/ClearBill.aspx" hash="95aab9a80" filehash="9e118aa40e947c98" flags="110000" assembly="App_Web_clearbill.aspx.75ff4de4" type="ASP.interface_clearbill_aspx">
+    <filedeps>
+        <filedep name="/www/InterFace/ClearBill.aspx" />
+        <filedep name="/www/InterFace/ClearBill.aspx.cs" />
+    </filedeps>
+</preserve>

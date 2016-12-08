@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/ReportViewer/Business/Rpt_PosTransDetail.aspx" hash="95aab9a80" filehash="c637f4b413972d12" flags="110000" assembly="App_Web_rpt_postransdetail.aspx.32463c05" type="ASP.reportviewer_business_rpt_postransdetail_aspx">
+    <filedeps>
+        <filedep name="/www/ReportViewer/Business/Rpt_PosTransDetail.aspx" />
+        <filedep name="/www/ReportViewer/Business/Rpt_PosTransDetail.aspx.cs" />
+    </filedeps>
+</preserve>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/CardHold/CardRenew.aspx" hash="95aab9a80" filehash="c661a6636520e7e3" flags="110000" assembly="App_Web_cardrenew.aspx.63c9907f" type="ASP.cardhold_cardrenew_aspx">
+    <filedeps>
+        <filedep name="/www/CardHold/CardRenew.aspx" />
+        <filedep name="/www/CardHold/CardRenew.aspx.cs" />
+        <filedep name="/www/usercontrol/UserCardInfo.ascx" />
+        <filedep name="/www/usercontrol/UserCardInfo.ascx.cs" />
+    </filedeps>
+</preserve>

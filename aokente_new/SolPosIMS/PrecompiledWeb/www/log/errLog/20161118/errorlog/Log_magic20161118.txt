@@ -1,0 +1,4 @@
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-11-18 17:40:46',updateway='cloud' WHERE magicid = '' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-11-18 18:04:37',updateway='cloud' WHERE magicid = '5' And isbusy <> 1;
+]Ê§°Ü!

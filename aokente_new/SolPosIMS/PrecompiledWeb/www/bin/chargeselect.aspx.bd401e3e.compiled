@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/Money/ChargeSelect.aspx" hash="95aab9a80" filehash="b9061d97cf0bf8e9" flags="110000" assembly="App_Web_chargeselect.aspx.bd401e3e" type="ASP.money_chargeselect_aspx">
+    <filedeps>
+        <filedep name="/www/Money/ChargeSelect.aspx" />
+        <filedep name="/www/Money/ChargeSelect.aspx.cs" />
+    </filedeps>
+</preserve>

@@ -1,0 +1,349 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="CardChongZhi.aspx.cs" Inherits="Card_CardChongZhi" StylesheetTheme="app" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head id="Head1" runat="server">
+   <title>会员充值</title>
+   <link rel="stylesheet" href="../css/table.css" />
+    <link href="../css/app.newedit.css" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="../js/app.edit.js"></script>
+    <script type="text/javascript" src="../js/app.validate.js" charset="gb2312"></script>
+    <script type="text/javascript" src="../js/app.date.js" charset="gb2312"></script>
+    <script type="text/javascript" src ="../js/jquery-1.4.2.min.js"  charset="gb2312"></script>
+    <style type="text/css">
+        .style1
+        {
+            height: 18px;
+            width: 152px;
+        }
+        .style2
+        {
+            height: 18px;
+            width: 97px;
+        }
+        .style3
+        {
+            height: 18px;
+            }
+        .style4
+        {
+            width: 106px;
+            height: 60px;
+        }
+        .style5
+        {
+            height: 60px;
+        }
+        .style7
+        {
+            width: 106px;
+        }
+        .style10
+        {
+            height: 23px;
+            }
+        .style11
+        {
+            height: 23px;
+            width: 97px;
+        }
+        .style12
+        {
+            height: 23px;
+            width: 152px;
+        }
+        .style13
+        {
+            height: 18px;
+            width: 106px;
+        }
+        .style14
+        {
+            height: 23px;
+            width: 106px;
+        }
+        .style17
+        {
+            font-size: large;
+            font-weight: bold;
+            height: 25px;
+            color: #33CC33;
+            border-left-color: #808080;
+            border-right-color: #C0C0C0;
+            border-top-color: #808080;
+            border-bottom-color: #C0C0C0;
+            background-color: #EAF4F4;
+        }
+        .style18
+        {
+            font-size: medium;
+            font-weight: bold;
+            height: 25px;
+            color: #339933;
+            border-left-color: #808080;
+            border-right-color: #C0C0C0;
+            border-top-color: #808080;
+            border-bottom-color: #C0C0C0;
+            background-color: #EAF4F4;
+        }
+        .style19
+        {
+            font-size: large;
+            font-weight: bold;
+            height: 25px;
+            color: #FF6600;
+            border-left-color: #808080;
+            border-right-color: #C0C0C0;
+            border-top-color: #808080;
+            border-bottom-color: #C0C0C0;
+            background-color: #EAF4F4;
+        }
+        .style20
+        {
+            font-size: large;
+            font-weight: bold;
+            height: 25px;
+            color: #FF9933;
+            border-left-color: #808080;
+            border-right-color: #C0C0C0;
+            border-top-color: #808080;
+            border-bottom-color: #C0C0C0;
+            background-color: #EAF4F4;
+        }
+    </style>
+    
+    <script type="text/javascript" language="javascript">
+
+        function GetChargeRule(ChargeAmount) {
+
+            $.ajax({
+
+                type: 'GET',
+
+                url: 'getgiftamount.ashx',
+
+                dataType: 'text',
+
+                data: 'ctype=' + document.all('TypeName').value + '&amount=' + (getChecked() == 1 ? 0 : ChargeAmount),
+
+                success: function(msg) {
+                    var values = msg.split(",");
+                    //alert(values[0]);
+                    //alert(values[1]);
+                    $("#rulename").val(values[0]);
+                    $("#gift").val(values[1]);
+
+                },
+                error: function(data) {
+                    alert('数据异常,请检查输入项是否合法!');
+                    document.all('chargeAmount').value = "";
+                }
+
+            })
+
+        }
+</script>
+<script type="text/javascript">
+    function getChecked() {
+        var vRbtid = document.getElementById("RadioButtonList1");
+        //得到所有radio
+        var vRbtidList = vRbtid.getElementsByTagName("INPUT");
+        for (var i = 0; i < vRbtidList.length; i++) {
+            if (vRbtidList[i].checked) {
+                var text = vRbtid.cells[i].innerText;
+                var value = vRbtidList[i].value;
+                //alert("选中项的text值为" + text + ",value值为" + value);
+                return value;
+            }
+        }
+    }
+    function CloseWin(msg) {
+
+        alert(msg);
+
+        var index = parent.layer.getFrameIndex(window.name);
+        parent.layer.close(index);
+
+
+
+    }
+    function openwin() {
+        close();
+        var balance = document.getElementById("Balance").value;
+        balance = balance + "元<br><br>" + document.all('rulename').value;
+        //         alert(balance);
+        var ow = window.open("Succ.htm?Balance=" + balance, "newwindow", "height=240, width=450, toolbar =no, menubar=no, scrollbars=no, resizable=no, location=no, status=no,left=450,top=320") //写成一行
+        //var ow = window.open("Succ.htm?Balance=" + balance, "newwindow", "height=240, width=450, toolbar =no, menubar=no, scrollbars=no, resizable=no, location=no, status=no,left=450,top=320")
+        //ow.document.open("text/html", "GB2312")
+        ow.window.moveTo(parseInt((screen.availWidth - 450) / 2), parseInt((screen.availHeight - 240) / 2))
+    }
+
+    function btnTiJiao_click() {
+        var cp = document.getElementById("MyCard").value;
+
+        if (cp.trim() == "") {
+            alert("请输入正确的车牌号！");
+            return false;
+        }
+
+        var money = document.getElementById("chargeAmount").value;
+        if (money == "" || isNaN(money)) {
+            alert("请输入正确的金额数量！");
+            return false;
+        }
+
+
+        __doPostBack('btnJieGua', '');
+
+        return true;
+    }
+
+</script>
+</head>
+<body>
+<script>
+    WaitHelper.showWaitMessage();
+</script>
+    <form id="form1" runat="server">
+    <a id="btnclose" class="wBox_close" href="javascript:void(0);" style="display:none;">关闭</a>
+    <div class="appsection">
+    <div align="center" 
+            style="width: 491px; text-align: left;">
+        &nbsp;<b>∷个人信息</b></div>
+        <table cellpadding="1" cellspacing="1" class="table_default table_blue" 
+            style="width: 490px; height: 130px;">
+            <tr>
+                <th class="style13">
+                    
+                        车牌号</th>
+                <td class="style3" colspan="3">
+                    <input id="MyCard" runat="server" class="inputblue" maxlength="16" name="MyCard"
+                        style="width: 160px; " type="text" vdisp="会员姓名" />
+  <input id="btnJieGua0" runat="server" class="btn1" name="btnJieGua0"  onserverclick="Button1_Click"
+            type="button" value="账户资料" /></td>
+            </tr>
+            <tr>
+                <th class="style13">
+                    
+                        车主姓名</th>
+                <td class="style3">
+                    <input id="RealName" runat="server" class="inputblue" maxlength="37" name="RealName"
+                        style="width: 100px; " type="text" vdisp="会员姓名" readonly="readOnly" />&nbsp;</td>
+                <th class="style2">
+                   
+                    车牌号</th>
+                <td class="style1">
+                    <input id="CardNum" runat="server" class="inputblue" maxlength="16" name="CardNum"
+                        style="width: 100px; " type="text" vdisp="卡号" readonly="readOnly" />&nbsp;</td>
+            </tr>
+            <tr>
+                <th class="style13">
+                    车主编号
+                </th>
+                <td class="style3">
+                    <input id="Userid" runat="server" class="inputblue" maxlength="25" name="Userid"
+                        style="width: 100px; " type="text" vmode ="not null" vdisp="卡信息" readonly="readOnly"  /></td>
+                <th class="style2">
+                    移动电话</th>
+                <td class="style1">
+                    <input id="CellPhone" runat="server" class="inputblue" maxlength="37" name="CellPhone"
+                        style="width: 100px; " type="text" vdisp="移动电话" readonly="readOnly" /></td>
+            </tr>
+            <tr>
+                <th class="style14">
+                    账户余额</th>
+                <td class="style10">
+                    <input id="Balance" runat="server" class="inputblue" maxlength="8" name="Balance"
+                        style="width: 100px; " type="text" vdisp="卡内余额" readonly="readOnly" /></td>
+                <th class="style11">
+                    账户类型</th>
+                <td class="style12">
+                    <input id="TypeName" runat="server" class="inputblue" maxlength="15" name="TypeName"
+                        style="width: 100px; " type="text" vdisp="卡片类别" readonly="readOnly"/></td>
+            </tr>
+            <tr>
+                <th class="style14">
+                    地址</th>
+                <td class="style10" colspan="3">
+                    <input id="Address" runat="server" class="inputblue" maxlength="100" name="address"
+                        style="width: 325px;  " type="text" 
+                        vdisp="地址" readonly="readOnly" /></td>
+            </tr>
+            </table>
+        <div align="center" 
+            style="width: 488px; text-align: left; margin-top:2px; margin-bottom:2px">
+        &nbsp;<b>∷充值信息</b></div>
+        <table cellpadding="1" cellspacing="1" class="table_default table_blue" 
+            style="width: 490px; height: 121px;">
+            <tr>
+                <th class="style13">
+                    充值方式</th>
+                <td class="style3">
+                    <asp:RadioButtonList ID="RadioButtonList1" runat="server" 
+                        RepeatDirection="Horizontal">
+                        <asp:ListItem Selected="True" Value="0">现金充值</asp:ListItem>
+                    </asp:RadioButtonList>
+                </td>
+            </tr>
+            <tr>
+                <th class="style13">
+                    充值金额</th>
+                <td class="style3">
+                    <span class="style17">￥</span><input id="chargeAmount" runat="server"  onblur="GetChargeRule(this.value)"
+                        maxlength="8" name="chargeAmount" onkeyup="if((event.keyCode<48 || event.keyCode>57) && event.keyCode!=46 || /\.\d\d$/.test(value))event.returnValue=false" onafterpaste="if((event.keyCode<48 || event.keyCode>57) && event.keyCode!=46 || /\.\d\d$/.test(value))event.returnValue=false"
+                        style="border-style: none none solid none; width: 90px; background-color: #EAF4F4; height: 27px; font-size: large; font-weight: bold; border-bottom-color: #33CC33; color: #006600;" type="text" 
+                        vdisp="充值金额" vmode="not null" /><span class="style18">元</span></td>
+            </tr>
+            <tr style=" display:none;">
+                <th class="style7">
+                    赠送金额</th>
+                <td>
+                    <span class="style19">￥</span><input id="gift" runat="server" 
+                        maxlength="8" name="gift"
+                        style="border-style: none none solid none; width: 90px; background-color: #EAF4F4; height: 27px; font-size: large; font-weight: bold; border-bottom-color: #FF9933; color: #FF6600;" type="text" 
+                        vdisp="优惠内容"  readonly="readonly" /><span class="style20">元</span>&nbsp; 优惠内容：<input 
+                        id="rulename" runat="server" 
+                        maxlength="15" name="rulename"
+                        
+                        
+                        
+                        
+                        
+                        style="border-style: none none solid none; width: 160px; background-color: #EAF4F4; height: 27px; font-size: medium; font-weight: normal; border-bottom-color: #C0C0C0; color: #0066FF;" type="text" 
+                        vdisp="会员姓名"  readonly="readonly" /></td>
+            </tr>
+            <tr>
+                <th class="style4">
+                    操作提示&nbsp;</th>
+                <td class="style5" style=""> <input 
+                        id="RF_Card" type="hidden"  runat="server"/>
+                    <span style="color: red;">
+                    1.为账户充值，根据金额和活动内容可享受一定的充值优惠.<br />
+                    2.充值后将形成充值记录及账单流水记录.</span></td>
+            </tr>
+        </table>
+    
+    </div>
+    <div align="center" 
+        style="width: 488px; text-align: right;">
+  &nbsp;<%-- <input id="btnJieGua0" runat="server" class="btn00" name="btnJieGua0" 
+            onserverclick="btnReadCard_Click" type="button" value="读 卡"/>--%>
+        <input id="btnJieGua" runat="server" class="xybtn" name="btnJieGua" onclick="return btnTiJiao_click();"
+            onserverclick="btnCharge_Click" type="button" value="确 定" />
+        <input id="BtnCancel" runat="server" class="btn00" name="BtnCancel" style="display:none;" 
+            onclick="JavaScript:window.close()" type="button" value="取 消" /> </div>
+</form>
+<script>
+    WaitHelper.initWaitMessageForms("form1");  
+</script>
+<p>
+    <input id="spass" type="hidden"  value="FFFFFFFFFFFF"/>
+</p>
+</body>
+</html>
+
+
+
+
+

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/Card/ChargeWay.aspx" hash="95aab9a80" filehash="183239cd6eca2153" flags="110000" assembly="App_Web_chargeway.aspx.b27292f1" type="ASP.card_chargeway_aspx">
+    <filedeps>
+        <filedep name="/www/Card/ChargeWay.aspx" />
+        <filedep name="/www/Card/ChargeWay.aspx.cs" />
+    </filedeps>
+</preserve>

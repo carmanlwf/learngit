@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/Outdoor/In_tb_SalesDate.aspx" hash="95aab9a80" filehash="cb24e8ebca799794" flags="110000" assembly="App_Web_in_tb_salesdate.aspx.d536b7ea" type="ASP.outdoor_in_tb_salesdate_aspx">
+    <filedeps>
+        <filedep name="/www/Outdoor/In_tb_SalesDate.aspx" />
+        <filedep name="/www/Outdoor/In_tb_SalesDate.aspx.cs" />
+    </filedeps>
+</preserve>

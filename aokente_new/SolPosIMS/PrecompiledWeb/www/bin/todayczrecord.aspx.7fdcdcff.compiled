@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/Sysem/ToDayCZRecord.aspx" hash="95aab9a80" filehash="b4042ce28f256090" flags="110000" assembly="App_Web_todayczrecord.aspx.7fdcdcff" type="ASP.sysem_todayczrecord_aspx">
+    <filedeps>
+        <filedep name="/www/Sysem/ToDayCZRecord.aspx" />
+        <filedep name="/www/Sysem/ToDayCZRecord.aspx.cs" />
+    </filedeps>
+</preserve>

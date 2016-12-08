@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/ST/OperatorSchedule.aspx" hash="fffffff3a72bd7e5" filehash="1a05465bfb75f139" flags="110000" assembly="App_Web_operatorschedule.aspx.eaa98e7d" type="ASP.st_operatorschedule_aspx">
+    <filedeps>
+        <filedep name="/www/ST/OperatorSchedule.aspx" />
+        <filedep name="/www/ST/OperatorSchedule.aspx.cs" />
+    </filedeps>
+</preserve>

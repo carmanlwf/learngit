@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/Sysem/setting.aspx" hash="95aab9a80" filehash="9dbad0148c980ef7" flags="110000" assembly="App_Web_setting.aspx.7fdcdcff" type="ASP.sysem_setting_aspx">
+    <filedeps>
+        <filedep name="/www/Sysem/setting.aspx" />
+        <filedep name="/www/Sysem/setting.aspx.cs" />
+    </filedeps>
+</preserve>

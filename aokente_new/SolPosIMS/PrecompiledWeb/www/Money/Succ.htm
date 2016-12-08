@@ -1,0 +1,55 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>无标题页</title>
+  <script type="text/javascript">
+      function closeit() {
+       setTimeout("self.close()", 5000) //毫秒        
+        var url = window.location.search;
+        if (url.indexOf("?") != -1) {
+            var str = url.substr(1)
+            strs = str.split("&");
+            for (i = 0; i < strs.length; i++) {
+                document.getElementById("lbl").innerHTML = "   ￥"+strs[i].split("=")[1];
+            }
+        }
+  }
+    
+  </script>
+    <style type="text/css">
+        .style1
+        {
+            width: 448px;
+        }
+    </style>
+    </head>
+<body onload="closeit()" bgcolor="white">
+    <form id="form1" runat="server">
+       <table cellspacing="1" style="width: 622px">
+           <tr>
+               <td>
+       <div style="width: 200px" >
+           <img alt="财神到啦!" src="cs.jpg" /><br />
+       </div>
+       
+               </td>
+               <td style="font-weight: bold; font-size: 21px; font-family: 黑体; color: orangered" 
+                   class="style1">
+                   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                   <br />
+                   操作成功！&nbsp;<br />
+                   <br />
+                   卡内金额：<p><span id="lbl" style="font-weight: bold; font-size: 25px; font-family: 黑体; color: #FF0000"></span></p></td>
+           </tr>
+           <tr>
+               <td>
+                   &nbsp;</td>
+               <td class="style1">
+                   &nbsp;</td>
+           </tr>
+       </table>
+       
+    </form>
+</body>
+</html>

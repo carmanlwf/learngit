@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/Report/Rpt_OperationLog.aspx" hash="95aab9a80" filehash="f78c7007f502a94d" flags="110000" assembly="App_Web_rpt_operationlog.aspx.1933d7c" type="ASP.report_rpt_operationlog_aspx">
+    <filedeps>
+        <filedep name="/www/Report/Rpt_OperationLog.aspx" />
+        <filedep name="/www/Report/Rpt_OperationLog.aspx.cs" />
+    </filedeps>
+</preserve>

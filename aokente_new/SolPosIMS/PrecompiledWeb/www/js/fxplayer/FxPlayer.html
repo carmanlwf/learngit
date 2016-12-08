@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
+    <title>播放器</title>
+    <script language="javascript" type="text/javascript" src="js/Player.js"></script>
+    <script language="javascript" type="text/javascript" src="js/Playlist.js"></script>
+    <script language="javascript" type="text/javascript" src="js/Lyrics.js"></script>
+    <script language="javascript" type="text/javascript" src="js/UI.js"></script>
+    <script language="javascript" type="text/javascript" src="js/FXPlayer.js"></script>
+    <script language="javascript" type="text/javascript" src="../app.request.js"></script>
+</head>
+<body>
+<script language="javascript" type="text/javascript">
+    var url = getRequestParameter("url");
+	//Player==========================
+	var fxplayer = new FXPlayer("",false);
+	//fxplayer.createPlaylist();
+	//fxplayer.createLyrics("");
+	fxplayer.createUI("skin/wmp10/");
+	fxplayer.addEventListener( "onDomReady" , function(){
+		fxplayer.player.setUrl(url);
+		fxplayer.player.play();
+	});
+
+</script>
+</body>
+</html>

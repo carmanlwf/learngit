@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/Member/GroupOperation.aspx" hash="95aab9a80" filehash="a7e1c4f327559710" flags="110000" assembly="App_Web_groupoperation.aspx.48943a5b" type="ASP.member_groupoperation_aspx">
+    <filedeps>
+        <filedep name="/www/Member/GroupOperation.aspx" />
+        <filedep name="/www/Member/GroupOperation.aspx.cs" />
+    </filedeps>
+</preserve>

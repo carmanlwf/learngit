@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/Member/IntegralExchange.aspx" hash="95aab9a80" filehash="271ae52c5a18091f" flags="110000" assembly="App_Web_integralexchange.aspx.48943a5b" type="ASP.member_integralexchange_aspx">
+    <filedeps>
+        <filedep name="/www/Member/IntegralExchange.aspx" />
+        <filedep name="/www/Member/IntegralExchange.aspx.cs" />
+        <filedep name="/www/usercontrol/UserCardInfo.ascx" />
+        <filedep name="/www/usercontrol/UserCardInfo.ascx.cs" />
+    </filedeps>
+</preserve>

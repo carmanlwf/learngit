@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/InterFace/FunPages/GetPrice.aspx" hash="95aab9a80" filehash="8c2a04e6e4faf2cd" flags="110000" assembly="App_Web_getprice.aspx.8f284be3" type="ASP.interface_funpages_getprice_aspx">
+    <filedeps>
+        <filedep name="/www/InterFace/FunPages/GetPrice.aspx" />
+        <filedep name="/www/InterFace/FunPages/GetPrice.aspx.cs" />
+    </filedeps>
+</preserve>

@@ -1,0 +1,28 @@
+@charset "utf-8";
+body{
+	font-size:12px;
+}
+.body{
+	font-size:12px;
+}
+.fxlyrics_normal{
+	font-weight:normal;
+	color:#999999;
+}
+.fxlyrics_playing{
+	font-weight:bolder;
+	color:#FF9900;
+}
+.fxplaylistitemselected{
+	cursor:pointer;
+	background-color:#DDE3FF;
+}
+.fxplaylistitemmousemove{
+	cursor:pointer;
+	background-color:#FFD5FF;
+}
+.fxplaylistitem{
+	cursor:pointer;
+}
+
+

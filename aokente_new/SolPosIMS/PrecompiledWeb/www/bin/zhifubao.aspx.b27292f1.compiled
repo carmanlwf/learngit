@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/Card/zhifubao.aspx" hash="95aab9a80" filehash="66534bbfbfe4decf" flags="110000" assembly="App_Web_zhifubao.aspx.b27292f1" type="ASP.card_zhifubao_aspx">
+    <filedeps>
+        <filedep name="/www/Card/zhifubao.aspx" />
+        <filedep name="/www/Card/zhifubao.aspx.cs" />
+    </filedeps>
+</preserve>

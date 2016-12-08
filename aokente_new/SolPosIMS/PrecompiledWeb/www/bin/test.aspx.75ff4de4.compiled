@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/InterFace/test.aspx" hash="95aab9a80" filehash="a4fc934944ae2ccb" flags="110000" assembly="App_Web_test.aspx.75ff4de4" type="ASP.interface_test_aspx">
+    <filedeps>
+        <filedep name="/www/InterFace/test.aspx" />
+        <filedep name="/www/InterFace/test.aspx.cs" />
+    </filedeps>
+</preserve>

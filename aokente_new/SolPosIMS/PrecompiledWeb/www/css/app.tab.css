@@ -1,0 +1,21 @@
+@import url("app.css");
+@import url("tabblue/tab.css");
+
+.dynamic-tab-pane-control .tab-page {
+	height:		500px;
+	width:900px;
+}
+
+.dynamic-tab-pane-control h2 {
+	text-align:	center;
+	width:		auto;
+}
+
+.dynamic-tab-pane-control h2 a {
+	display:	inline;
+	width:		auto;
+}
+
+.dynamic-tab-pane-control a:hover {
+	background: transparent;
+}

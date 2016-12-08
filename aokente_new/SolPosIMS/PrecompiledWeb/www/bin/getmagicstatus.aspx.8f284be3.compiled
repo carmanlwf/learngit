@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/InterFace/FunPages/GetMagicStatus.aspx" hash="95aab9a80" filehash="1d6886e323e03abc" flags="110000" assembly="App_Web_getmagicstatus.aspx.8f284be3" type="ASP.interface_funpages_getmagicstatus_aspx">
+    <filedeps>
+        <filedep name="/www/InterFace/FunPages/GetMagicStatus.aspx" />
+        <filedep name="/www/InterFace/FunPages/GetMagicStatus.aspx.cs" />
+    </filedeps>
+</preserve>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/Notice/tasknotifyroll.aspx" hash="95aab9a80" filehash="7f3ae7d6502303a4" flags="110000" assembly="App_Web_tasknotifyroll.aspx.ad4434c7" type="ASP.notice_tasknotifyroll_aspx">
+    <filedeps>
+        <filedep name="/www/Notice/tasknotifyroll.aspx" />
+        <filedep name="/www/Notice/tasknotifyroll.aspx.cs" />
+    </filedeps>
+</preserve>

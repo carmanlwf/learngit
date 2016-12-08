@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/Admin/AreaAgentRelate.aspx" hash="95aab9a80" filehash="ba82c08052053bd2" flags="110000" assembly="App_Web_areaagentrelate.aspx.fdf7a39c" type="ASP.admin_areaagentrelate_aspx">
+    <filedeps>
+        <filedep name="/www/Admin/AreaAgentRelate.aspx" />
+        <filedep name="/www/Admin/AreaAgentRelate.aspx.cs" />
+    </filedeps>
+</preserve>

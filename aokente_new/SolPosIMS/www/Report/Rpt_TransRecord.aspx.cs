@@ -1,0 +1,42 @@
+﻿using System;
+using System.Data;
+using System.Configuration;
+using System.Collections;
+using System.Web;
+using System.Web.Security;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+using System.Web.UI.WebControls.WebParts;
+using System.Web.UI.HtmlControls;
+using ZsdDotNetLibrary.Web;
+using Ims.Card.Model;
+using ZsdDotNetLibrary.Web.BindParameter;
+
+public partial class Report_Rpt_TransRecord : System.Web.UI.Page
+{
+    protected void Page_Load(object sender, EventArgs e)
+    {
+        //权限验证
+        if (Ims.Main.ImsInfo.UserIsInRoles("admin,agent,seller,channel") == "")
+        {
+            Response.Redirect("../Unauthorized.aspx");
+        }
+        GridViewHelper.InitDefaultGridViewEvent(GridView1, ObjectDataSource1);
+    }
+    protected void Button3_ServerClick(object sender, EventArgs e)
+    {
+        GridView1.DataSourceID = "ObjectDataSource1";
+        GridView1.PageIndex = 0;
+        GridView1.DataBind();
+        if (GridView1.Rows.Count <= 0)
+        {
+            WebClientHelper.DoClientMsgBox("没有满足条件的转账记录!");
+        }
+    }
+    protected void ObjectDataSource1_Selecting(object sender, ObjectDataSourceSelectingEventArgs e)
+    {
+        tb_TransferRecord o = ParameterBindHelper.BindParameterToObject(typeof(tb_TransferRecord), BindParameterUsage.OpQuery) as tb_TransferRecord;
+        o.flag = true;
+        e.InputParameters[0] = o;
+    }
+}

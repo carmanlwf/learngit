@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="NiceFood">
+  <DataContextMoniker Name="/NiceFoodDataContext" />
+  <nestedChildShapes>
+    <classShape Id="77da465b-236e-4d6a-8910-ca0df9cb8ff1" absoluteBounds="1.5, 2.875, 2, 2.2914453125">
+      <DataClassMoniker Name="/NiceFoodDataContext/batch_charagelist" />
+      <nestedChildShapes>
+        <elementListCompartment Id="85c515e1-492e-4a46-aa40-97c592dab6b7" absoluteBounds="1.5150000000000001, 3.335, 1.9700000000000002, 1.7314453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="09dcc5d8-4ad8-460b-9815-a90f03616715" absoluteBounds="6.625, 3.375, 2, 1.4483463541666668">
+      <DataClassMoniker Name="/NiceFoodDataContext/batch_operator" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d9e55508-8c45-49a5-9a47-e406314fd6c6" absoluteBounds="6.64, 3.835, 1.9700000000000002, 0.88834635416666674" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

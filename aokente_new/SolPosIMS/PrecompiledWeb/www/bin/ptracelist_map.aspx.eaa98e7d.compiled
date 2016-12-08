@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/ST/PTracelist_Map.aspx" hash="95aab9a80" filehash="aa50dedaf63bc594" flags="110000" assembly="App_Web_ptracelist_map.aspx.eaa98e7d" type="ASP.st_ptracelist_map_aspx">
+    <filedeps>
+        <filedep name="/www/ST/PTracelist_Map.aspx" />
+        <filedep name="/www/ST/PTracelist_Map.aspx.cs" />
+    </filedeps>
+</preserve>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/ST/Intemp_feetype.aspx" hash="95aab9a80" filehash="e7790616196a5aef" flags="110000" assembly="App_Web_intemp_feetype.aspx.eaa98e7d" type="ASP.st_intemp_feetype_aspx">
+    <filedeps>
+        <filedep name="/www/ST/Intemp_feetype.aspx" />
+        <filedep name="/www/ST/Intemp_feetype.aspx.cs" />
+    </filedeps>
+</preserve>

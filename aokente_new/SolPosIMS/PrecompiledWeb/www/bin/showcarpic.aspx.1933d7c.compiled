@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/Report/ShowCarPic.aspx" hash="95aab9a80" filehash="cb3e5786e28cf46c" flags="110000" assembly="App_Web_showcarpic.aspx.1933d7c" type="ASP.report_showcarpic_aspx">
+    <filedeps>
+        <filedep name="/www/Report/ShowCarPic.aspx" />
+        <filedep name="/www/Report/ShowCarPic.aspx.cs" />
+    </filedeps>
+</preserve>

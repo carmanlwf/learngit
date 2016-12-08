@@ -1,0 +1,50 @@
+LogId： Business_Log111554468
+AgentInfo： Mozilla/5.0 (Windows NT 5.1; rv:45.0) Gecko/20100101 Firefox/45.0
+IpAddress： 127.0.0.1
+[Business]请求数据明文： {"POSSNR":"000000","VERSION":"1.9.0km","BusinessItems":[{"RealMoney":"0","RecordType":"0","Pin":"","memo":"","Money":"0","BatchSnr":"0","UserID":"000000","Mode":"0","carpicture":"","CredenceSnr":"000000_d33d2a1fbd7ae228_1461924313618","DateTime":"","CardSnr":"川A88888","EndTime":"","StartTime":"2016-04-29 18:05:13","CardType":"1","giving":"0","BackByte":"szcs01","ReturnMoney":"0"}]}
+--------------------------------------------------------
+[2016-5-4 11:18:32] 返回的明文字符串：Rtn：{"RecordIDs_OK":"000000_d33d2a1fbd7ae228_1461924313618","FLAG":"0","MESSAGE":""}
+[2016-5-4 11:18:32] Rtn加密：{"RecordIDs_OK":"000000_d33d2a1fbd7ae228_1461924313618","FLAG":"0","MESSAGE":""}
+客户端名称：127.0.0.1
+客户端IP：127.0.0.1
+-----------------------------------------------------------------------------------------------------------
+LogId： Business_Log112130375
+AgentInfo： Mozilla/5.0 (Windows NT 5.1; rv:45.0) Gecko/20100101 Firefox/45.0
+IpAddress： 127.0.0.1
+[Business]请求数据明文： {"POSSNR":"000000","VERSION":"1.9.0km","BusinessItems":[{"RealMoney":"0","RecordType":"0","Pin":"","memo":"","Money":"0","BatchSnr":"0","UserID":"000000","Mode":"0","carpicture":"","CredenceSnr":"000000_d33d2a1fbd7ae228_1461924313618","DateTime":"","CardSnr":"川A88888","EndTime":"","StartTime":"2016-04-29 18:05:13","CardType":"1","giving":"0","BackByte":"szcs01","ReturnMoney":"0"}]}
+--------------------------------------------------------
+[2016-5-4 11:38:46] 返回的明文字符串：Rtn：{"RecordIDs_OK":"000000_d33d2a1fbd7ae228_1461924313618","FLAG":"0","MESSAGE":""}
+[2016-5-4 11:38:46] Rtn加密：{"RecordIDs_OK":"000000_d33d2a1fbd7ae228_1461924313618","FLAG":"0","MESSAGE":""}
+客户端名称：127.0.0.1
+客户端IP：127.0.0.1
+-----------------------------------------------------------------------------------------------------------
+LogId： Business_Log135651296
+AgentInfo： Mozilla/5.0 (Windows NT 5.1; rv:45.0) Gecko/20100101 Firefox/45.0
+IpAddress： 127.0.0.1
+[Business]请求数据明文： {"POSSNR":"000000","VERSION":"1.9.0km","BusinessItems":[{"RealMoney":"0","RecordType":"0","Pin":"","memo":"","Money":"0","BatchSnr":"0","UserID":"000000","Mode":"0","carpicture":"","CredenceSnr":"000000_d33d2a1fbd7ae228_1461924313618","DateTime":"","CardSnr":"川A88888","EndTime":"","StartTime":"2016-04-29 18:05:13","CardType":"1","giving":"0","BackByte":"szcs01","ReturnMoney":"0"}]}
+--------------------------------------------------------
+[2016-5-4 14:11:00] 返回的明文字符串：Rtn：{"RecordIDs_OK":"000000_d33d2a1fbd7ae228_1461924313618","FLAG":"0","MESSAGE":""}
+[2016-5-4 14:11:00] Rtn加密：{"RecordIDs_OK":"000000_d33d2a1fbd7ae228_1461924313618","FLAG":"0","MESSAGE":""}
+客户端名称：127.0.0.1
+客户端IP：127.0.0.1
+-----------------------------------------------------------------------------------------------------------
+LogId： Business_Log161518562
+AgentInfo： Mozilla/5.0 (Windows NT 5.1; rv:45.0) Gecko/20100101 Firefox/45.0
+IpAddress： 127.0.0.1
+[Business]请求数据明文： {"POSSNR":"000000","VERSION":"1.9.0km","BusinessItems":[{"RealMoney":"0","RecordType":"0","Pin":"","memo":"","Money":"0","BatchSnr":"0","UserID":"000000","Mode":"0","carpicture":"","CredenceSnr":"000000_d33d2a1fbd7ae228_1461924313618","DateTime":"","CardSnr":"川A88888","EndTime":"","StartTime":"2016-04-29 18:05:13","CardType":"1","giving":"0","BackByte":"szcs01","ReturnMoney":"0"}]}
+--------------------------------------------------------
+[2016-5-4 16:25:52] 返回的明文字符串：Rtn：{"RecordIDs_OK":"000000_d33d2a1fbd7ae228_1461924313618","FLAG":"0","MESSAGE":""}
+[2016-5-4 16:25:52] Rtn加密：{"RecordIDs_OK":"000000_d33d2a1fbd7ae228_1461924313618","FLAG":"0","MESSAGE":""}
+客户端名称：127.0.0.1
+客户端IP：127.0.0.1
+-----------------------------------------------------------------------------------------------------------
+LogId： Business_Log163506171
+AgentInfo： Mozilla/5.0 (Windows NT 5.1; rv:45.0) Gecko/20100101 Firefox/45.0
+IpAddress： 127.0.0.1
+[Business]请求数据明文： {"POSSNR":"000000","VERSION":"1.9.0km","BusinessItems":[{"RealMoney":"0","RecordType":"0","Pin":"","memo":"","Money":"0","BatchSnr":"0","UserID":"000000","Mode":"0","carpicture":"","CredenceSnr":"000000_d33d2a1fbd7ae228_1461924313618","DateTime":"","CardSnr":"川A88888","EndTime":"","StartTime":"2016-04-29 18:05:13","CardType":"1","giving":"0","BackByte":"szcs01","ReturnMoney":"0"}]}
+--------------------------------------------------------
+[2016-5-4 16:36:00] 返回的明文字符串：Rtn：{"RecordIDs_OK":"000000_d33d2a1fbd7ae228_1461924313618","FLAG":"0","MESSAGE":""}
+[2016-5-4 16:36:00] Rtn加密：{"RecordIDs_OK":"000000_d33d2a1fbd7ae228_1461924313618","FLAG":"0","MESSAGE":""}
+客户端名称：127.0.0.1
+客户端IP：127.0.0.1
+-----------------------------------------------------------------------------------------------------------

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/Utility/FileManager.aspx" hash="95aab9a80" filehash="1c5c247fbfc3ec66" flags="110000" assembly="App_Web_filemanager.aspx.53608270" type="ASP.utility_filemanager_aspx">
+    <filedeps>
+        <filedep name="/www/Utility/FileManager.aspx" />
+        <filedep name="/www/Utility/FileManager.aspx.cs" />
+    </filedeps>
+</preserve>

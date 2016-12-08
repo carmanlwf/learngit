@@ -1,0 +1,277 @@
+*{margin:0px;padding:0px}
+.bg
+{
+	position:absolute;
+	z-index:-1;
+	width:100%;
+	height:100%;
+	top:0px;
+	left:0px;
+	margin:0px;
+	padding:0px;
+	background:url(../images/bgn.jpg);
+	}
+.bg img {
+max-width:600px;
+width:600px;
+width:e?xpression(document.body.clientWidth>600?"600px":"auto");
+overflow:hidden;
+}
+
+	
+
+.bigbox
+{
+	position:relative;
+	top:100px;
+	
+	}
+
+.nlogo
+{
+	width:748px;
+	height:50px;
+	margin:0 auto;
+	}
+.nlogo ul
+{
+	list-style:none;
+	margin:0px;
+	padding:0px;
+	}
+.nlogo li
+{
+	display:block;
+	float:left;
+	}
+.nlogo-li1
+{
+	width:267px;
+	height:50px;
+	padding-left:20px;
+	padding-right:175px;
+	background:url(../images/npwlogo.png) 20px no-repeat;
+	}
+.nlogo-li2
+{
+	width:65px;
+	height:30px;
+	padding-left:30px;
+	font-size:28px;
+	padding-top:20px;
+	font-family:"ºÚÌå";
+	color:#FFF;
+	display:inline;
+	overflow:hidden;
+	}
+
+.box
+{
+	width:748px;
+	height:318px;
+	background:url(../images/boxbg.png) no-repeat;
+	margin:0 auto;
+	margin-top:13px;
+	}
+
+.box-text
+{
+	/*margin-left:44px;
+	width:445px;
+	height:318px;
+	margin-top:36px;
+	float:left;
+	*/
+	margin-left:44px;
+	width:445px;
+	height:318px;
+	margin-top:36px;
+	float:left;
+	display:inline;
+	}
+	
+.box-text ul
+{
+	list-style:none;
+	margin:0px;
+	padding:0px;
+	}
+.box-text li
+{
+	display:block;
+	width:445px;
+	float:left;
+	font-size:15px;
+	}
+.box-text-li1
+{
+height:17px;
+	}
+.box-text-li2
+{
+height:17px;
+margin-top:14px;
+	}
+.box-text-li3
+{
+height:17px;
+margin-top:14px;
+	}
+.box-text-li4
+{
+height:17px;
+margin-top:14px;
+	}
+	
+.box-text-li5
+{
+height:81px;
+width:445px;
+margin-top:32px;
+background:url(../images/login-pl.png) no-repeat;
+	}	
+	
+.box-text-li6
+{
+height:17px;
+margin-top:13px;
+	}	
+
+
+.box-login
+{
+	margin-left:23px;
+	margin-top:32px;
+	height:318px;
+	width:194px;
+	float:left;
+	background:url(../images/loginbg.png) no-repeat;
+	display:inline;
+	
+	/*margin-top:32px;
+	padding-left:23px;
+	height:318px;
+	width:217px;
+	float:left;
+	background:url(../images/loginbg.png) 23px 0px no-repeat;*/
+	}
+.box-login ul
+{
+	list-style:none;
+	margin:0px;
+	padding:0px;
+	}
+
+.box-login li
+{
+	display:block;
+	clear:both;
+	}
+.box-login-li1
+{
+	height:20px;
+	font-size:20px;
+	padding-left:20px;
+	width:174px;
+	padding-top:32px;
+	font-weight:700;
+	}
+.box-login-li2
+{
+	height:33px;
+	width:152px;
+	padding-top:18px !important;
+	padding-left:27px;
+	padding-right:15px;
+	/*background:url(../images/nameh.png) 15px 18px no-repeat;*/
+	overflow:hidden;
+	}
+*.box-login-li2
+{
+	height:33px;
+	width:152px;
+	padding-top:18px !important;
+	padding-left:27px;
+	padding-right:15px;
+	background:url(../images/nameh.png) 15px 18px no-repeat;
+	overflow:hidden;
+	}
+	
+#TextBox1{
+	border:0px;
+	line-height:29px;
+	margin-left:27px;
+	background:url(../images/bgtm.gif);
+	}
+#TextBox2{
+	border:0px;
+	line-height:29px;
+	margin-left:27px;
+	background:url(../images/bgtm.gif);
+	}
+
+.box-login-li3
+{
+	height:33px;
+	width:152px;
+	padding-top:12px;
+	padding-left:27px;
+	padding-right:15px;
+
+	}
+.box-login-li4
+{
+	height:33px;
+	width:152px;
+	padding-top:12px;
+	padding-left:15px;
+	padding-right:27px;
+	background:url(../images/yanzhengma2.png) 15px 12px no-repeat;
+	}
+	
+.box-login-li4box{
+	width:152px;height:33px; 
+	float:left;
+	}
+	
+#lock{position:absolute; width:150px;height:32px; top:1px;left:1px;}
+#lock span{position:absolute;width:48px;height:32px;cursor:pointer;background:url(../images/huadongkuailv.png) no-repeat; }
+
+.box-login-li5
+{
+	height:26px;
+	width:87px;
+	padding-top:13px;
+	padding-left:52px;
+	padding-right:55px;
+	background:url(../images/login.png) 52px 13px no-repeat;
+	font-size:12px;
+	}
+	
+#LoginButton{
+	background:url(../images/login.png) no-repeat;
+	top:1px;
+	left:1px;
+	}
+.UserLogin
+{
+	margin:0px;
+	padding:0px;
+	font-size:12px;
+	}
+LayoutTemplate
+{
+	margin:0px;
+	padding:0px;
+	}
+
+.box-login-li6
+{
+	width:172px;
+	height:26px;
+	padding-top:30px;
+	*padding-top:24px;
+	text-align:left;
+	padding-left:18px;
+	color:red;
+	}

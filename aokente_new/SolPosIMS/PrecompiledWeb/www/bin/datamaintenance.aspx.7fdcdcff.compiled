@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/Sysem/DataMaintenance.aspx" hash="95aab9a80" filehash="63a04362a7a2f152" flags="110000" assembly="App_Web_datamaintenance.aspx.7fdcdcff" type="ASP.sysem_datamaintenance_aspx">
+    <filedeps>
+        <filedep name="/www/Sysem/DataMaintenance.aspx" />
+        <filedep name="/www/Sysem/DataMaintenance.aspx.cs" />
+    </filedeps>
+</preserve>

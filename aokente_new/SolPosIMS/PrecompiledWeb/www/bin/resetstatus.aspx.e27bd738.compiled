@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/main/ResetStatus.aspx" hash="95aab9a80" filehash="923ed2a78511a16f" flags="110000" assembly="App_Web_resetstatus.aspx.e27bd738" type="ASP.main_resetstatus_aspx">
+    <filedeps>
+        <filedep name="/www/main/ResetStatus.aspx" />
+        <filedep name="/www/main/ResetStatus.aspx.cs" />
+    </filedeps>
+</preserve>

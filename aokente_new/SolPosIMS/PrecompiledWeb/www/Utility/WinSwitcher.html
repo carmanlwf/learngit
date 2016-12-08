@@ -1,0 +1,183 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>WSwitcher(Alt-关闭自己 Enter-打开当前 Ctrl+x-关闭所有 x-关闭当前)</title>
+<style>
+body
+{
+	margin:0px;
+	padding:0px;
+}
+#winsection
+{
+	overflow-y:auto;
+	width:300px;
+	height:300px;
+	padding:0px;
+	margin:0px;
+    
+}
+#winlist
+{
+	width:300px;
+	height:308px;
+	margin:0px;
+	padding:0px;
+}
+</style>
+<script>
+function GetParentWindow(currWin)
+{
+    if(typeof(currWin) == "undefined" || currWin == null) currWin = window;
+	var parentWin =	 (((currWin.parent != currWin) ? currWin.parent : null)
+			|| currWin.opener || (currWin.dialogArguments
+				&& currWin.dialogArguments.window));
+	return parentWin;
+}
+
+function GetParentWindowForObject(objId)
+{
+	var parentWin = null;
+	var currWin = window;
+	while(true)
+	{   
+		parentWin = GetParentWindow(currWin);
+		if(parentWin == currWin) return null;
+		currWin = parentWin;
+		if(parentWin == null) break;
+		if(typeof(parentWin[objId]) != "undefined") break; 
+	}
+	return parentWin;
+}
+
+function GetMainWindow()
+{
+    return GetParentWindowForObject("MainApp");
+}
+var mainWin = null;
+function doOnLoad()
+{
+	var winlist = document.getElementById("winlist");
+    while (winlist.childNodes.length > 0)
+	    winlist.removeChild(winlist.childNodes[0]);
+    mainWin = GetMainWindow();
+    var winName = null;
+    var win = null;
+    for(var i=mainWin.openWins.length-1;i>=0;i--)
+    {
+        try
+        {
+            winName = mainWin.openWins[i].name;
+            win = mainWin.openWins[i].win;
+        }catch(e)
+        {
+            alert(e);
+            win = null;
+            mainWin.openWins.splice(i,1);
+            continue;           
+        }
+        if(typeof(win) == 'undefined' || win == null || win.closed)
+        {
+            win = null;
+            mainWin.openWins.splice(i,1);
+            continue;
+        }
+	    var option = document.createElement("OPTION");
+	    option.value = winName;
+		option.win = win;
+	    option.text = win.document.title;
+	    winlist.options.add(option);
+    }
+    if(winlist.childNodes.length <=0)
+    {
+ 	    var option = document.createElement("OPTION");
+	    option.value = "null";
+		option.win = null;
+	    option.text = "当前没有任何弹出窗口";
+	    winlist.options.add(option);
+    }
+	winlist.focus();
+	winlist.selectedIndex = 0;
+	
+}
+function onListKeyDown()
+{
+    if(event.keyCode == 13)
+    {
+        doProcessList("show");
+    }else if(event.ctrlKey && event.keyCode == 88)//x
+    {
+        doProcessList("closeall");
+    }else if(event.keyCode == 88)
+    {
+        doProcessList("close");
+    }
+    else if(event.altKey)
+    {
+        window.close();
+        return ;
+    }
+}
+
+//action "show"
+function doProcessList(action)
+{
+	var winlist = document.getElementById("winlist");
+	if(winlist.selectedIndex>=0)
+	{
+	     var option = winlist.options[winlist.selectedIndex];
+	     var owin = option.win;
+         var win = null;
+         for(var i=mainWin.openWins.length-1;i>=0;i--)
+         {
+            if(action == "closeall")
+            {
+                 win = mainWin.openWins[i].win;
+                 mainWin.openWins.splice(i,1);
+                 if(typeof(win) != 'undefined' && win != null && !win.closed)
+                    win.close();
+            }
+            if(action == "show" || action== "close")
+            {
+                if(mainWin.openWins[i].win == owin)
+                {   
+                    win = mainWin.openWins[i].win;
+                    if(typeof(win) == 'undefined' || win == null || win.closed)
+                    {
+                        win = null;
+                        mainWin.openWins.splice(i,1);
+                    }    
+		            if(win != null)
+		            {
+		              if(action == "show") win.focus();
+		              if(action == "close")
+		              {
+		                 mainWin.openWins.splice(i,1);
+		                 win.close();
+                 	     winlist.removeChild(winlist.childNodes[winlist.selectedIndex]);
+		              }
+		            }
+                    break;
+                }
+               
+             }
+         } 
+    }
+    if(action != "close" || winlist.childNodes.length <=0 ) window.close();
+}
+
+function onListDblClick()
+{
+    doProcessList("show");
+}
+</script>
+</head>
+
+<body onload="doOnLoad()" >
+<div id="winsection">
+<select id="winlist" size="20" onkeydown="onListKeyDown()" ondblclick="onListDblClick()" onblur="window.close();">
+</select>
+</div>
+</body>
+</html>

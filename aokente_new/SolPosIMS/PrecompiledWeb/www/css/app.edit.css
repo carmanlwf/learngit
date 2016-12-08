@@ -1,0 +1,117 @@
+@import url("app.css");
+
+
+.appsection .followImg {
+	cursor: hand;
+}
+.appsection {
+	clear: both;
+	border: 1px solid #EFF3FB;
+	padding: 3px;
+}
+.appsection .appname {
+	color: #003399;
+	font-weight: bold;
+	display: block;
+	float: left;
+	line-height: 1.5em;
+	vertical-align: middle;
+	padding: 0px;
+	margin-left: 3px;
+	font-size: 12px;
+}
+.appsection .appfollowimg {
+	border: 0px solid #0000FF;
+	display: block;
+	float: left;
+}
+.appsection .appviewlayout {
+	border-collapse: collapse;
+	clear: both;
+	width: 100%;
+}
+
+.appviewlayout th, .appviewlayout td{
+	text-align: left;
+	border: 1px solid #D4EFF7;
+	padding-top: 3px;
+	background-color: #FFFFFF;
+}
+
+.appsection .appviewlayout th {
+	color: #333333;
+	padding-left: 3px;
+	background-color: #ADD1FF;
+}
+.appsection .appviewlayout select {
+	border: 1px solid #CCCCCC;
+}
+.appsection .appviewlayout span {
+	margin: 0px;
+}
+.appviewlayout .colorred {
+	color: #800000;
+}
+a.linkbtn {
+	text-decoration: none;
+	background-color: #D1DDF1;
+	border: 1px solid #FFFFFF;
+	border-right-color: #ADD1FF;
+	border-bottom-color: #ADD1FF;
+	padding: 2px;
+	display: block-inline;
+	color: black;
+	text-align: center;
+	font-weight: normal;
+}
+a.linkbtn:hover {
+	background-color: #EFF3FB;
+
+}
+a.linkbtn:active {
+	text-decoration: none;
+	border: 1px solid #FFFFFF;
+	border-top-color: #ADD1FF;
+	border-left-color: #ADD1FF;
+	background-color: #D1DDF1;
+
+}
+.appsection .appviewlayouts {
+	position: relative;
+}
+
+.appsection .appviewgrid {
+	border-collapse: collapse;
+	width: 100%;
+}
+.appviewgrid th, .appviewgrid td{
+	text-align: left;
+	border: 1px solid #D4EFF7;
+}
+.appviewgrid thead th{
+	background-color: #ADD1FF;
+	color: #003399;
+}
+.appviewgrid .row td {
+	background-color: #EFF3FB;
+}
+.appviewgrid .alternatingrow td {
+	background-color: #FFFFFF;
+}
+.appviewgrid tfoot td{
+	border: 1px none #FFFFFF;
+	text-align: right;
+	background-color: #FFFFFF;
+	height: 1.5em;
+}
+.appviewgrid .selectedrow td {
+	background-color: #D1DDF1;
+	font-weight: bold;
+	color: #333333;
+}
+.appviewgrid .editrow td {
+	background-color: #2461BF;
+}
+.appsection .apphead {
+	background-color: #FFFFFF;
+}

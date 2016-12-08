@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/Admin/AgentInfo.aspx" hash="95aab9a80" filehash="332c1b15eaaa1a16" flags="110000" assembly="App_Web_agentinfo.aspx.fdf7a39c" type="ASP.admin_agentinfo_aspx">
+    <filedeps>
+        <filedep name="/www/Admin/AgentInfo.aspx" />
+        <filedep name="/www/Admin/AgentInfo.aspx.cs" />
+    </filedeps>
+</preserve>

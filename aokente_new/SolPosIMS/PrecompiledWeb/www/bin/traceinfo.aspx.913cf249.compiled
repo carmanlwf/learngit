@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/GPS_Info/traceinfo.aspx" hash="95aab9a80" filehash="4b353a3f763bf4ca" flags="110000" assembly="App_Web_traceinfo.aspx.913cf249" type="ASP.gps_info_traceinfo_aspx">
+    <filedeps>
+        <filedep name="/www/GPS_Info/traceinfo.aspx" />
+        <filedep name="/www/GPS_Info/traceinfo.aspx.cs" />
+    </filedeps>
+</preserve>

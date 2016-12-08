@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/InterFace/PictureBox.aspx" hash="95aab9a80" filehash="ccf969fb294adc11" flags="110000" assembly="App_Web_picturebox.aspx.75ff4de4" type="ASP.interface_picturebox_aspx">
+    <filedeps>
+        <filedep name="/www/InterFace/PictureBox.aspx" />
+        <filedep name="/www/InterFace/PictureBox.aspx.cs" />
+    </filedeps>
+</preserve>

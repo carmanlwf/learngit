@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/Report/Rpt_LostMember.aspx" hash="95aab9a80" filehash="c573e28f2cc337c9" flags="110000" assembly="App_Web_rpt_lostmember.aspx.1933d7c" type="ASP.report_rpt_lostmember_aspx">
+    <filedeps>
+        <filedep name="/www/Report/Rpt_LostMember.aspx" />
+        <filedep name="/www/Report/Rpt_LostMember.aspx.cs" />
+    </filedeps>
+</preserve>

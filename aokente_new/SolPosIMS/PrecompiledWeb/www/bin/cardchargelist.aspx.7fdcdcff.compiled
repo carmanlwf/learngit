@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/Sysem/Cardchargelist.aspx" hash="95aab9a80" filehash="948053e6aee894e2" flags="110000" assembly="App_Web_cardchargelist.aspx.7fdcdcff" type="ASP.sysem_cardchargelist_aspx">
+    <filedeps>
+        <filedep name="/www/Sysem/Cardchargelist.aspx" />
+        <filedep name="/www/Sysem/Cardchargelist.aspx.cs" />
+    </filedeps>
+</preserve>

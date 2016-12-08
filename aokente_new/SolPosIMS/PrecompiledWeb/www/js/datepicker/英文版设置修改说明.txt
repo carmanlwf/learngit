@@ -1,0 +1,10 @@
+//English version
+dpcfg.aWeekStr = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"];
+dpcfg.aMonStr = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+dpcfg.todayStr = "Today";
+dpcfg.okStr = "OK";
+dpcfg.timeStr = "Time";
+dpcfg.monthStr = "Month";
+dpcfg.yearStr = "Year";
+dpcfg.errDealMode = 0;
+dpcfg.errAlertMsg = "Invalid date or the date out of range,redo or not?";

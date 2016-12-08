@@ -1,0 +1,68 @@
+.dynamic-tab-pane-control.tab-pane {
+	position:	relative;
+	width:		100%;
+}
+
+.dynamic-tab-pane-control .tab-row .tab {
+	font:			Menu;
+	cursor:			Default;
+	display:		inline;
+	margin:			1px -1px 1px 2px;
+	float:			left;
+/*	padding:		2px 5px 3px 5px;*/
+	padding:		2px 6px 3px 6px;
+	background:		white;
+	border:			0;/*1px solid;*/
+	border-color:	#FFFFFF;
+	border-bottom:	0;
+	z-index:		1;
+	white-space:	nowrap;
+	position:		relative;
+	top:			0;
+}
+
+.dynamic-tab-pane-control .tab-row .tab.selected {
+	border:			1px solid white;
+	border-bottom:	0;
+	z-index:		3;
+	padding:		2px 6px 4px 6px;
+	margin:			1px -3px -3px 0px;
+	top:			-2px;
+	background:left center url(center1.gif) repeat-x;!important;
+}
+
+.dynamic-tab-pane-control .tab-row .tab a {
+	color:				#41A4D5;
+	text-decoration:	none;
+	cursor:				default;
+	font-weight:bold;
+}
+.dynamic-tab-pane-control .tab-row .tab.selected a{
+	color:				#41A4D5;
+}
+
+.dynamic-tab-pane-control .tab-row .tab a:hover {
+	/*background:	Highlight;*/
+	cursor:hand;
+}
+
+.dynamic-tab-pane-control .tab-page {
+	clear:			both;
+	border-top:		0px solid white;
+	background:		left bottom url(tab_bgpic.gif) no-repeat;
+	z-index:		2;
+	position:		relative;
+	top:			-2px;
+	color:			WindowText;
+	font:			Message-Box;
+	padding:		3px;
+	
+	height:			200px;
+	background:left bottom url(tab_bgpic1.gif) no-repeat;
+	
+}
+
+.dynamic-tab-pane-control .tab-row {
+	z-index:		1;
+	white-space:	nowrap;
+}

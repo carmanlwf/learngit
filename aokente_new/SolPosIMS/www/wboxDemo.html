@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>无标题页</title>
+    <link href="jquery/wbox/wbox/wbox.css" rel="stylesheet" type="text/css" />
+    <style>
+    	.demo {
+		width:360px;
+	}
+    </style>
+    <script src="jquery/1.822/js/jquery-1.7.2.min.js" type="text/javascript"></script>
+ 
+
+    <script src="jquery/wbox/wbox/mapapi.js" type="text/javascript"></script>
+    <script src="jquery/wbox/wbox.js" type="text/javascript"></script>
+<script type="text/javascript">
+$(function(){
+   $("#noTitle").wBox({noTitle:true,html:"<div class='demo'>这是一个没有标题的wBox<br/>ESC键关闭，或者双击背景关闭</div>"});$("#isFrame2").wBox({
+requestType: "iframe",
+target:"/www/Card/CardActive.aspx?type=activenoinfo&getcode=000211"
+});
+})
+</script>
+</head>
+<body>
+<a id="noTitle" href="javascript:void(0)">noTitle</a>
+<a id="isFrame2" href="javascript:void(0)">isFrame2</a>
+</body>
+</html>

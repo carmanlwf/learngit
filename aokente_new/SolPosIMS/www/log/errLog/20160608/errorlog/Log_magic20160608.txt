@@ -1,0 +1,8 @@
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-08 09:25:50',updateway='cloud' WHERE magicid = '7' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-08 09:26:43',updateway='cloud' WHERE magicid = '23' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-08 12:38:43',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-08 13:36:31',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!

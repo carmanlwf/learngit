@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/main/ActiveReporter.aspx" hash="95aab9a80" filehash="ccb937862feb72ae" flags="110000" assembly="App_Web_activereporter.aspx.e27bd738" type="ASP.main_activereporter_aspx">
+    <filedeps>
+        <filedep name="/www/main/ActiveReporter.aspx" />
+        <filedep name="/www/main/ActiveReporter.aspx.cs" />
+    </filedeps>
+</preserve>

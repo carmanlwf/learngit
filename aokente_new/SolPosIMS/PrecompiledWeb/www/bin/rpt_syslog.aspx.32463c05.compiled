@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/ReportViewer/Business/Rpt_SysLog.aspx" hash="95aab9a80" filehash="84da4f051122487" flags="110000" assembly="App_Web_rpt_syslog.aspx.32463c05" type="ASP.reportviewer_business_rpt_syslog_aspx">
+    <filedeps>
+        <filedep name="/www/ReportViewer/Business/Rpt_SysLog.aspx" />
+        <filedep name="/www/ReportViewer/Business/Rpt_SysLog.aspx.cs" />
+    </filedeps>
+</preserve>

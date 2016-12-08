@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/InterFace/FunPages/GetSiteList.aspx" hash="95aab9a80" filehash="3e28ad2a82a1d039" flags="110000" assembly="App_Web_getsitelist.aspx.8f284be3" type="ASP.interface_funpages_getsitelist_aspx">
+    <filedeps>
+        <filedep name="/www/InterFace/FunPages/GetSiteList.aspx" />
+        <filedep name="/www/InterFace/FunPages/GetSiteList.aspx.cs" />
+    </filedeps>
+</preserve>

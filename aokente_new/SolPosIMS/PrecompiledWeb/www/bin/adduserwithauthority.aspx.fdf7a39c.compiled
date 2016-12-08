@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/Admin/AddUserWithAuthority.aspx" hash="95aab9a80" filehash="369c796a16207745" flags="110000" assembly="App_Web_adduserwithauthority.aspx.fdf7a39c" type="ASP.admin_adduserwithauthority_aspx">
+    <filedeps>
+        <filedep name="/www/Admin/AddUserWithAuthority.aspx" />
+        <filedep name="/www/Admin/AddUserWithAuthority.aspx.cs" />
+    </filedeps>
+</preserve>

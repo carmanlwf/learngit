@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/ST/ParkingSiteBatchOperation.aspx" hash="95aab9a80" filehash="75b3f572c0f3c218" flags="110000" assembly="App_Web_parkingsitebatchoperation.aspx.eaa98e7d" type="ASP.st_parkingsitebatchoperation_aspx">
+    <filedeps>
+        <filedep name="/www/ST/ParkingSiteBatchOperation.aspx" />
+        <filedep name="/www/ST/ParkingSiteBatchOperation.aspx.cs" />
+    </filedeps>
+</preserve>

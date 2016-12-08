@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/Sysem/ManagementData.aspx" hash="95aab9a80" filehash="f75dac4e7b298eda" flags="110000" assembly="App_Web_managementdata.aspx.7fdcdcff" type="ASP.sysem_managementdata_aspx">
+    <filedeps>
+        <filedep name="/www/Sysem/ManagementData.aspx" />
+        <filedep name="/www/Sysem/ManagementData.aspx.cs" />
+    </filedeps>
+</preserve>

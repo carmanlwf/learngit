@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Database Name="NiceFood_DB" Class="NiceFoodDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="WebSettings" ConnectionString="Data Source=.;Initial Catalog=NiceFood_DB;Integrated Security=True" SettingsObjectName="System.Configuration.ConfigurationManager.ConnectionStrings" SettingsPropertyName="NiceFood_DBConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.batch_charagelist" Member="batch_charagelist">
+    <Type Name="batch_charagelist">
+      <Column Name="transno" Type="System.String" DbType="VarChar(25) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="operatorid" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="sumtime" Type="System.Decimal" DbType="Decimal(3,2)" CanBeNull="true" />
+      <Column Name="amount_CZ" Type="System.Decimal" DbType="Decimal(10,2)" CanBeNull="true" />
+      <Column Name="amount_TK" Type="System.Decimal" DbType="Decimal(10,2)" CanBeNull="true" />
+      <Column Name="count_CZ" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="count_TK" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="logtime" Type="System.DateTime" DbType="SmallDateTime" CanBeNull="true" />
+      <Column Name="flag" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.batch_operator" Member="batch_operator">
+    <Type Name="batch_operator">
+      <Column Name="transid" Type="System.String" DbType="VarChar(25) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="starttime" Type="System.String" DbType="VarChar(30)" CanBeNull="true" />
+      <Column Name="operatorid" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="status" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

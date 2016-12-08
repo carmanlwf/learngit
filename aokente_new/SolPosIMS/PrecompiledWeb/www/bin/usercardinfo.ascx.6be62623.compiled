@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/usercontrol/UserCardInfo.ascx" hash="95aab9a80" filehash="c659fbcdf0ecb30f" flags="110000" assembly="App_Web_usercardinfo.ascx.6be62623" type="ASP.usercontrol_usercardinfo_ascx">
+    <filedeps>
+        <filedep name="/www/usercontrol/UserCardInfo.ascx" />
+        <filedep name="/www/usercontrol/UserCardInfo.ascx.cs" />
+    </filedeps>
+</preserve>

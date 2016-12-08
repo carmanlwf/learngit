@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/Admin/SystemParameter.aspx" hash="95aab9a80" filehash="fb0cd177a0e59673" flags="110000" assembly="App_Web_systemparameter.aspx.fdf7a39c" type="ASP.admin_systemparameter_aspx">
+    <filedeps>
+        <filedep name="/www/Admin/SystemParameter.aspx" />
+        <filedep name="/www/Admin/SystemParameter.aspx.cs" />
+    </filedeps>
+</preserve>

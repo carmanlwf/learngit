@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/InterFace/FunPages/SyncParkingRecord.aspx" hash="95aab9a80" filehash="a874a72f53ab0b75" flags="110000" assembly="App_Web_syncparkingrecord.aspx.8f284be3" type="ASP.interface_funpages_syncparkingrecord_aspx">
+    <filedeps>
+        <filedep name="/www/InterFace/FunPages/SyncParkingRecord.aspx" />
+        <filedep name="/www/InterFace/FunPages/SyncParkingRecord.aspx.cs" />
+    </filedeps>
+</preserve>

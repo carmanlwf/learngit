@@ -1,0 +1,191 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{883548F2-68FA-4138-BEE1-DF708045329D}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Ims.Card</RootNamespace>
+    <AssemblyName>ImsCardApp</AssemblyName>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ImsLogApp, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\ImsLogApp\bin\Debug\ImsLogApp.dll</HintPath>
+    </Reference>
+    <Reference Include="ImsMainApp, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\IMSMainApp\bin\Debug\ImsMainApp.dll</HintPath>
+    </Reference>
+    <Reference Include="ImsMemberApp, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\www\Bin\ImsMemberApp.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.Common, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\www\lib\Microsoft.Practices.EnterpriseLibrary.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.Data, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\www\lib\Microsoft.Practices.EnterpriseLibrary.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.ObjectBuilder, Version=1.0.51205.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\www\lib\Microsoft.Practices.ObjectBuilder.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="ZsdDotNetLibrary, Version=1.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\www\lib\ZsdDotNetLibrary.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BLL\BatchHelperBLL.cs" />
+    <Compile Include="BLL\CardChargeListBLL.cs" />
+    <Compile Include="BLL\CardHelperBLL.cs" />
+    <Compile Include="BLL\CardLogHelperBLL.cs" />
+    <Compile Include="BLL\CardRuleHelperBLL.cs" />
+    <Compile Include="BLL\CardViewSitesBLL.cs" />
+    <Compile Include="BLL\Card_RecordBLL.cs" />
+    <Compile Include="BLL\MonthlyCard\MonthlyCardHelperBLL.cs" />
+    <Compile Include="BLL\PosOperatorBLL.cs" />
+    <Compile Include="BLL\POS_TransactionBLL.cs" />
+    <Compile Include="BLL\tb_CardActive_HistroyBLL.cs" />
+    <Compile Include="BLL\tb_CardTypeBLL.cs" />
+    <Compile Include="BLL\tb_POS_TransactionBLL.cs" />
+    <Compile Include="BLL\tb_TurnTypeRecordBLL.cs" />
+    <Compile Include="BLL\TransHelperBLL.cs" />
+    <Compile Include="BLL\TransLogHelperBLL.cs" />
+    <Compile Include="BLL\v_CardNoActiveBLL.cs" />
+    <Compile Include="BLL\v_CardToExecBLL.cs" />
+    <Compile Include="BLL\v_loss_Member_infoBLL.cs" />
+    <Compile Include="DAL\BatchHelperDAL.cs" />
+    <Compile Include="DAL\CardChargeListDAL.cs" />
+    <Compile Include="DAL\CardHelperDAL.cs" />
+    <Compile Include="DAL\CardRuleHelperDAL.cs" />
+    <Compile Include="DAL\CardViewSitesDAL.cs" />
+    <Compile Include="DAL\Card_RecordDAL.cs" />
+    <Compile Include="DAL\MonthlyCard\MonthlyCardHelperDAL.cs" />
+    <Compile Include="DAL\SQLHelper.cs" />
+    <Compile Include="DAL\tb_CardActive_HistroyDAL.cs" />
+    <Compile Include="DAL\tb_POS_TransactionDAL.cs" />
+    <Compile Include="DAL\tb_TransLogDAL.cs" />
+    <Compile Include="DAL\TransHelperDAL.cs" />
+    <Compile Include="DAL\v_CardToExecDAL.cs" />
+    <Compile Include="DAL\v_loss_Member_infoBLL.cs" />
+    <Compile Include="Model\cardchargerule.cs" />
+    <Compile Include="Model\card_balance.cs" />
+    <Compile Include="Model\card_chargelist.cs" />
+    <Compile Include="Model\card_chargerule.cs" />
+    <Compile Include="Model\card_chargestatics.cs" />
+    <Compile Include="Model\Card_Record.cs" />
+    <Compile Include="Model\MonthlyCard\MonthlyCardCreate.cs" />
+    <Compile Include="Model\MonthlyCard\MonthlyCardTypeInfo.cs" />
+    <Compile Include="Model\tb_Card.cs" />
+    <Compile Include="Model\tb_CardActive_Histroy.cs" />
+    <Compile Include="Model\tb_CardActivityByShop.cs" />
+    <Compile Include="Model\tb_CardType.cs" />
+    <Compile Include="Model\tb_card_acitive.cs" />
+    <Compile Include="Model\tb_Card_Log.cs" />
+    <Compile Include="Model\tb_PosOperator.cs" />
+    <Compile Include="Model\tb_POS_Transaction.cs" />
+    <Compile Include="Model\tb_TransCash.cs" />
+    <Compile Include="Model\tb_TransferRecord.cs" />
+    <Compile Include="Model\tb_TransLog.cs" />
+    <Compile Include="Model\tb_TurnTypeRecord.cs" />
+    <Compile Include="Model\v_CardNoActive.cs" />
+    <Compile Include="Model\v_CardToExec.cs" />
+    <Compile Include="Model\v_card_CardActivityHistroy.cs" />
+    <Compile Include="Model\v_loss_Member_info.cs" />
+    <Compile Include="Model\v_card_chargelist_area.cs" />
+    <Compile Include="Model\v_pos_transaction.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

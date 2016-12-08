@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/CardMonthly/CardInput.aspx" hash="95aab9a80" filehash="daff66bfde92485a" flags="110000" assembly="App_Web_cardinput.aspx.226b7bd2" type="ASP.cardmonthly_cardinput_aspx">
+    <filedeps>
+        <filedep name="/www/CardMonthly/CardInput.aspx" />
+        <filedep name="/www/CardMonthly/CardInput.aspx.cs" />
+    </filedeps>
+</preserve>

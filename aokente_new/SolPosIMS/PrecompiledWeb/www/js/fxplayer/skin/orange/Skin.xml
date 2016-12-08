@@ -1,0 +1,68 @@
+<skin version="2" name="Orange" author="MagiColor" url="http://www.doggiehome.com/" email="mailto:magicolor@gmail.com" transparent_color="#ff00ff">
+    <player_window image="player_skin.gif">
+	  <icon position="1,1, 17, 17" icon="icon.ico"/>
+      <play position="164, 39, 183, 58" image="play.gif"/>
+      <pause position="164, 39, 183, 58" image="pause.gif"/>
+      <stop position="145, 39, 164, 58" image="stop.gif"/>
+      <next position="202, 39, 221, 58" image="next.gif"/>
+      <prev position="183, 39, 202, 58" image="prev.gif"/>
+      <mute position="249, 39, 268, 58" image="mute.gif"/>
+      <open position="221, 39, 240, 58 " image="open.gif"/>
+      <equalizer position="152, 92, 188, 114" image="equalizer.gif"/>
+      <playlist position="188, 92, 224, 114" image="playlist.gif"/>
+      <lyric position="224, 92, 260, 114" image="lyric.gif"/>
+	  <visual position="18, 24, 124, 84" />
+	  <minimize position="240, 3, 247, 10" image="minimize.gif"/>
+	  <minimode position="253, 3, 260, 10" image="minimode.gif"/>
+      <exit position="266, 3, 273, 10" image="close.gif"/>
+	  <progress position="145, 77, 267, 90" bar_image="" thumb_image="progress_thumb.gif" fill_image="progress_fill.gif"/>
+      <volume position="274, 20, 283, 84" vertical="true" bar_image="" thumb_image="" fill_image="volume_fill.gif"/>
+      <info position="147, 20, 268, 31" color="#ff9933" font="simsong" font_size="12"/>
+      <led position="175, 63, 235, 74" image="number.gif" align="right"/>
+      <stereo position="13, 98, 49, 109" color="#FF9014" font="simsong" font_size="12" align="left"/>
+      <status position="59, 98, 129, 109" color="#FF9014" font="simsong" font_size="12" align="left"/>
+   </player_window>
+  
+<mini_window image="mini-player.gif">
+		<play position="101, 3, 120, 22" image="play.gif" />
+		<pause position="101, 3, 120, 22" image="pause.gif" />
+		<stop position="82, 3, 101, 22" image="stop.gif" />
+		<next position="139, 3, 158, 22" image="next.gif" />
+		<prev position="120, 3, 139, 22" image="prev.gif" />
+		<open position="158, 3, 177, 22" image="open.gif" />
+		<mute position="186, 3, 205, 22" image="mute.gif"/>
+        <visual position="19, 2, 69, 23" />
+		<icon position="0,4, 16, 14" icon="icon.ico"/>
+		<exit position="218, 6, 225, 13" image="m-exit.gif"/>
+	    <minimize position="211, 6, 218, 13" image="m-minimize.gif"/>
+		<lyric position="218, 13, 225, 20"  image="mini-lyric.gif" />
+        <minimode position="211, 13, 218, 20" image="fullmode.gif" />
+</mini_window>
+
+   <equalizer_window position="0, 122, 283, 244" image="equalizer_skin.gif" eq_interval="6">
+      <close position="266, 3, 273, 10" image="close.gif" align="right"/>
+      <enabled position="5, 66, 41,88" image="eq_enabled.gif"/>
+      <profile position="5, 88, 41, 110" image="eq_profile.gif"/>
+      <reset position="41, 77, 77, 99" image="eq_reset.gif"/>
+      <balance position="11, 18, 72, 32" thumb_image="eq_thumb2.gif" bar_image=""/>
+      <surround position="11, 41, 72, 55" thumb_image="eq_thumb2.gif" bar_image=""/>
+      <preamp position="78, 18, 90, 109" thumb_image="eq_thumb.gif" bar_image=""  fill_image="eqfactor_full.gif"/>
+      <eqfactor position="96, 18, 108, 109" thumb_image="eq_thumb.gif" bar_image="" fill_image="eqfactor_full.gif"/>
+   </equalizer_window>
+   
+   <playlist_window position="0, 244, 283, 366" resize_rect="80, 30, 259, 70" image="playlist_skin.gif" hilight="#0000ff">
+      <close position="266, 3, 273, 10" image="close.gif" align="right"/>
+      <toolbar position="10, 96, 258, 108" image="playlist_toolbar.gif" align="bottom+left"/>
+      <scrollbar buttons_image="scrollbar_button.gif" thumb_image="scrollbar_thumb.gif" bar_image="scrollbar_bar.gif" thumb_resize_center="4"/>
+      <playlist position="14, 22, 270, 90"/>
+   </playlist_window>
+   
+   <lyric_window position="283, 0, 566, 366 " resize_rect="60, 30, 259, 80" image="lyric_skin.gif">
+      <mini_border left_top_color="#626262" right_bottom_color="#353535" />
+      <lyric position="14, 24, 272, 96"/>
+	  <ontop position="241, 3, 256, 10" image="ontop.gif" align="right"/>
+      <close position="266, 3, 273, 10" image="close.gif" align="right"/>
+   </lyric_window>
+
+
+</skin>

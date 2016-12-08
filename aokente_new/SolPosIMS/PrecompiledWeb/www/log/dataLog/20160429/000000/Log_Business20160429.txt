@@ -1,0 +1,53 @@
+LogId： Business_Log175125089
+AgentInfo： Mozilla/5.0 (Windows NT 5.1; rv:45.0) Gecko/20100101 Firefox/45.0
+IpAddress： 127.0.0.1
+[Business]请求数据明文： {"POSSNR":"000000","VERSION":"1.9.0km","BusinessItems":[{"RealMoney":"0","RecordType":"0","Pin":"","memo":"","Money":"0","BatchSnr":"0","UserID":"000000","Mode":"0","carpicture":"","CredenceSnr":"000000_d33d2a1fbd7ae228_1461924313618","DateTime":"","CardSnr":"川A88888","EndTime":"","StartTime":"2016-04-29 18:05:13","CardType":"1","giving":"0","BackByte":"szcs01","ReturnMoney":"0"}]}
+--------------------------------------------------------
+执行[sql:select CredenceSnr,CardSnr,CardType,sitename,BackByte,Mode,UserID,PosSnr,Money,giving,RealMoney,ReturnMoney,StartTime,EndTime,SysID,memofrom tb_pos_transaction where CredenceSnr in ('000000_d33d2a1fbd7ae228_1461924313618');
+]失败![2016-4-29 17:51:28] 返回的明文字符串：Rtn：
+[2016-4-29 17:51:28] Rtn加密：
+客户端名称：127.0.0.1
+客户端IP：127.0.0.1
+-----------------------------------------------------------------------------------------------------------
+LogId： Business_Log175159605
+AgentInfo： Mozilla/5.0 (Windows NT 5.1; rv:45.0) Gecko/20100101 Firefox/45.0
+IpAddress： 127.0.0.1
+[Business]请求数据明文： {"POSSNR":"000000","VERSION":"1.9.0km","BusinessItems":[{"RealMoney":"0","RecordType":"0","Pin":"","memo":"","Money":"0","BatchSnr":"0","UserID":"000000","Mode":"0","carpicture":"","CredenceSnr":"000000_d33d2a1fbd7ae228_1461924313618","DateTime":"","CardSnr":"川A88888","EndTime":"","StartTime":"2016-04-29 18:05:13","CardType":"1","giving":"0","BackByte":"szcs01","ReturnMoney":"0"}]}
+--------------------------------------------------------
+执行[sql:select CredenceSnr,CardSnr,CardType,sitename,BackByte,Mode,UserID,PosSnr,Money,giving,RealMoney,ReturnMoney,StartTime,EndTime,SysID,memofrom tb_pos_transaction where CredenceSnr in ();
+]失败![2016-4-29 17:58:32] 返回的明文字符串：Rtn：
+[2016-4-29 17:58:32] Rtn加密：
+客户端名称：127.0.0.1
+客户端IP：127.0.0.1
+-----------------------------------------------------------------------------------------------------------
+LogId： Business_Log175846933
+AgentInfo： Mozilla/5.0 (Windows NT 5.1; rv:45.0) Gecko/20100101 Firefox/45.0
+IpAddress： 127.0.0.1
+[Business]请求数据明文： {"POSSNR":"000000","VERSION":"1.9.0km","BusinessItems":[{"RealMoney":"0","RecordType":"0","Pin":"","memo":"","Money":"0","BatchSnr":"0","UserID":"000000","Mode":"0","carpicture":"","CredenceSnr":"000000_d33d2a1fbd7ae228_1461924313618","DateTime":"","CardSnr":"川A88888","EndTime":"","StartTime":"2016-04-29 18:05:13","CardType":"1","giving":"0","BackByte":"szcs01","ReturnMoney":"0"}]}
+--------------------------------------------------------
+执行[sql:select CredenceSnr,CardSnr,CardType,sitename,BackByte,Mode,UserID,PosSnr,Money,giving,RealMoney,ReturnMoney,StartTime,EndTime,SysID,memofrom tb_pos_transaction where CredenceSnr in ('000000_d33d2a1fbd7ae228_1461924313618');
+]失败![2016-4-29 18:01:05] 返回的明文字符串：Rtn：
+[2016-4-29 18:01:05] Rtn加密：
+客户端名称：127.0.0.1
+客户端IP：127.0.0.1
+-----------------------------------------------------------------------------------------------------------
+LogId： Business_Log181320855
+AgentInfo： Mozilla/5.0 (Windows NT 5.1; rv:45.0) Gecko/20100101 Firefox/45.0
+IpAddress： 127.0.0.1
+[Business]请求数据明文： {"POSSNR":"000000","VERSION":"1.9.0km","BusinessItems":[{"RealMoney":"0","RecordType":"0","Pin":"","memo":"","Money":"0","BatchSnr":"0","UserID":"000000","Mode":"0","carpicture":"","CredenceSnr":"000000_d33d2a1fbd7ae228_1461924313618","DateTime":"","CardSnr":"川A88888","EndTime":"","StartTime":"2016-04-29 18:05:13","CardType":"1","giving":"0","BackByte":"szcs01","ReturnMoney":"0"}]}
+--------------------------------------------------------
+[2016-4-29 18:13:33] 返回的明文字符串：Rtn：{"RecordIDs_OK":"000000_d33d2a1fbd7ae228_1461924313618","FLAG":"0","MESSAGE":""}
+[2016-4-29 18:13:33] Rtn加密：{"RecordIDs_OK":"000000_d33d2a1fbd7ae228_1461924313618","FLAG":"0","MESSAGE":""}
+客户端名称：127.0.0.1
+客户端IP：127.0.0.1
+-----------------------------------------------------------------------------------------------------------
+LogId： Business_Log181352214
+AgentInfo： Mozilla/5.0 (Windows NT 5.1; rv:45.0) Gecko/20100101 Firefox/45.0
+IpAddress： 127.0.0.1
+[Business]请求数据明文： {"POSSNR":"000000","VERSION":"1.9.0km","BusinessItems":[{"RealMoney":"0","RecordType":"0","Pin":"","memo":"","Money":"0","BatchSnr":"0","UserID":"000000","Mode":"0","carpicture":"","CredenceSnr":"000000_d33d2a1fbd7ae228_1461924313618","DateTime":"","CardSnr":"川A88888","EndTime":"","StartTime":"2016-04-29 18:05:13","CardType":"1","giving":"0","BackByte":"szcs01","ReturnMoney":"0"}]}
+--------------------------------------------------------
+[2016-4-29 18:15:29] 返回的明文字符串：Rtn：{"RecordIDs_OK":"000000_d33d2a1fbd7ae228_1461924313618","FLAG":"0","MESSAGE":""}
+[2016-4-29 18:15:29] Rtn加密：{"RecordIDs_OK":"000000_d33d2a1fbd7ae228_1461924313618","FLAG":"0","MESSAGE":""}
+客户端名称：127.0.0.1
+客户端IP：127.0.0.1
+-----------------------------------------------------------------------------------------------------------

@@ -1,0 +1,139 @@
+body {
+	font-family: "宋体";
+	font-size: 12px;
+	color: #333333;
+}
+.bdiv {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 807px;
+	height: 480px;
+}
+.checkbox {
+	width: 100px;
+	border: 1px solid #D4EFF7;
+	line-height: 20px;
+	height: 80px;
+}
+.RadioButton {
+	width: 100px;
+	border: 1px solid #D4EFF7;
+	line-height: 20px;
+	height: 80px;
+}
+.ListBox {
+	border: 1px solid #D4EFF7;
+	width: 100px;
+	height: 80px;
+}
+.ListBox select{
+	height: 80px;
+	width: 100px;
+	background-color: #F4FBFF;
+	border: 1px solid #D4EFF7;
+}
+.map {
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #CCCCCC;
+}
+.sitemappath {
+	font-family: "宋体";
+	font-size: 12px;
+}
+.a1 {
+	height: 20px;
+	position: relative;
+	top: 4px;
+	left: 0px;
+	font-family: "宋体";
+	font-size: 12px;
+	font-weight: bold;
+	color: #003399;
+}
+.a2 {
+	top: 4px;
+	position: relative;
+	width: 100%;
+	left: 0px;
+}
+.a3 {
+	position: relative;
+	height: 20px;
+	width: 100%;
+	top: 6px;
+}
+
+.input {
+	font-family: "宋体";
+	font-size: 12px;
+	height: 14px;
+	width: 140px;
+	border: 1px solid #D4EFF7;
+}
+.select {
+	border: 1px solid #D4EFF7;
+	height: 18px;
+	width: 142px;
+}
+.select2 {
+	width: 145px;
+	color: #003366;
+}
+.input2 {
+	height: 20px;
+	width: 100px;
+}
+.zhong {
+	height: 10px;
+}
+.z1 {
+	color: #003366;
+	padding-left: 10px;
+	font-size: 12px;
+	letter-spacing: 1px;
+}
+.td {
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #D4EFF7;
+}
+.inputrl {
+
+	font-family: "宋体";
+	font-size: 12px;
+	height: 14px;
+	width: 120px;
+	border: 1px solid #D4EFF7;
+}
+.span1{border:1px   solid   green;   position:absolute;} 
+.ooib { border-width: 1px; border-style: none solid solid; border-color: #D4EFF7; background-color: #F4FBFF;}
+.ooih td {
+	border-width: 1px;
+}
+.ooihj {
+	color: #333333;
+	background-color: #FFFFFF;
+	cursor: hand;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-top-color: #D4EFF7;
+	border-right-color: #D4EFF7;
+	text-align: center;
+}
+.ooihs {
+	color: #333333;
+	background-color: #F4FBFF;
+	cursor: hand;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #D4EFF7;
+	text-align: center;
+	border-right-width: 1px;
+	border-right-style: solid;
+	border-right-color: #D4EFF7;
+}
+.ooihx { border-style: none none solid; border-color: #D4EFF7; }

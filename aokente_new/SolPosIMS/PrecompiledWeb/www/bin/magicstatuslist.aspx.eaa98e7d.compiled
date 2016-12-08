@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/ST/MagicStatusList.aspx" hash="95aab9a80" filehash="ea0f1131cf64671c" flags="110000" assembly="App_Web_magicstatuslist.aspx.eaa98e7d" type="ASP.st_magicstatuslist_aspx">
+    <filedeps>
+        <filedep name="/www/ST/MagicStatusList.aspx" />
+        <filedep name="/www/ST/MagicStatusList.aspx.cs" />
+    </filedeps>
+</preserve>

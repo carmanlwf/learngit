@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/ReportViewer/Business/rp_ticket_sendlist.aspx" hash="95aab9a80" filehash="94a44488757e180d" flags="110000" assembly="App_Web_rp_ticket_sendlist.aspx.32463c05" type="ASP.reportviewer_business_rp_ticket_sendlist_aspx">
+    <filedeps>
+        <filedep name="/www/ReportViewer/Business/rp_ticket_sendlist.aspx" />
+        <filedep name="/www/ReportViewer/Business/rp_ticket_sendlist.aspx.cs" />
+    </filedeps>
+</preserve>

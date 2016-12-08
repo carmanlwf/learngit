@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/main/CallTools.aspx" hash="95aab9a80" filehash="7df7e951a3b98ce8" flags="110000" assembly="App_Web_calltools.aspx.e27bd738" type="ASP.main_calltools_aspx">
+    <filedeps>
+        <filedep name="/www/main/CallTools.aspx" />
+        <filedep name="/www/main/CallTools.aspx.cs" />
+    </filedeps>
+</preserve>

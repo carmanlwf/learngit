@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/InterFace/FunPages/MagicList.aspx" hash="95aab9a80" filehash="49ea9d5c84d52eea" flags="110000" assembly="App_Web_magiclist.aspx.8f284be3" type="ASP.interface_funpages_magiclist_aspx">
+    <filedeps>
+        <filedep name="/www/InterFace/FunPages/MagicList.aspx" />
+        <filedep name="/www/InterFace/FunPages/MagicList.aspx.cs" />
+    </filedeps>
+</preserve>

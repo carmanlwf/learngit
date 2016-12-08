@@ -1,0 +1,2480 @@
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:08:49',updateway='cloud' WHERE magicid = '30546' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:09:04',updateway='cloud' WHERE magicid = '30464' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:09:19',updateway='cloud' WHERE magicid = '30584' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:09:34',updateway='cloud' WHERE magicid = '30660' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:09:41',updateway='cloud' WHERE magicid = '30676' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:09:41',updateway='cloud' WHERE magicid = '30355' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:09:41',updateway='cloud' WHERE magicid = '430' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:09:41',updateway='cloud' WHERE magicid = '30593' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:09:41',updateway='cloud' WHERE magicid = '30470' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:09:41',updateway='cloud' WHERE magicid = '30679' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:09:41',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:09:41',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:09:41',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:09:41',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:09:41',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:09:41',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:09:41',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:09:41',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:09:41',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:09:41',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:09:41',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:09:41',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:09:41',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:09:41',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:09:41',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:09:41',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:09:41',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:09:41',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:09:41',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:09:41',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:09:41',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:09:41',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:09:41',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:09:41',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:09:41',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:09:41',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:09:41',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:09:41',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:09:41',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:09:41',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:09:41',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:09:41',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:09:41',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:09:41',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:09:41',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:09:41',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:09:41',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:09:41',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:09:41',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:09:41',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:09:41',updateway='cloud' WHERE magicid = '1' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:09:41',updateway='cloud' WHERE magicid = '2' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:09:41',updateway='cloud' WHERE magicid = '3' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:09:41',updateway='cloud' WHERE magicid = '4' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:09:41',updateway='cloud' WHERE magicid = '5' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:09:41',updateway='cloud' WHERE magicid = '6' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:09:41',updateway='cloud' WHERE magicid = '7' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:09:41',updateway='cloud' WHERE magicid = '8' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:09:41',updateway='cloud' WHERE magicid = '9' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:09:41',updateway='cloud' WHERE magicid = '10' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:09:41',updateway='cloud' WHERE magicid = '11' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:09:41',updateway='cloud' WHERE magicid = '12' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:09:41',updateway='cloud' WHERE magicid = '13' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:09:41',updateway='cloud' WHERE magicid = '14' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:09:41',updateway='cloud' WHERE magicid = '15' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:09:41',updateway='cloud' WHERE magicid = '16' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:09:41',updateway='cloud' WHERE magicid = '17' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:09:41',updateway='cloud' WHERE magicid = '18' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:09:41',updateway='cloud' WHERE magicid = '19' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:09:41',updateway='cloud' WHERE magicid = '28' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:09:41',updateway='cloud' WHERE magicid = '21' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:09:41',updateway='cloud' WHERE magicid = '22' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:09:41',updateway='cloud' WHERE magicid = '23' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:09:41',updateway='cloud' WHERE magicid = '24' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:09:41',updateway='cloud' WHERE magicid = '25' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:09:41',updateway='cloud' WHERE magicid = '26' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:09:41',updateway='cloud' WHERE magicid = '27' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:09:51',updateway='cloud' WHERE magicid = '30546' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:10:43',updateway='cloud' WHERE magicid = '30464' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:10:43',updateway='cloud' WHERE magicid = '30584' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:10:43',updateway='cloud' WHERE magicid = '30660' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:10:43',updateway='cloud' WHERE magicid = '30676' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:10:43',updateway='cloud' WHERE magicid = '30355' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:10:43',updateway='cloud' WHERE magicid = '430' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:10:43',updateway='cloud' WHERE magicid = '30593' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:10:43',updateway='cloud' WHERE magicid = '30470' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:10:43',updateway='cloud' WHERE magicid = '30679' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:10:43',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:10:43',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:10:43',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:10:43',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:10:43',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:10:43',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:10:43',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:10:43',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:10:43',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:10:43',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:10:43',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:10:43',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:10:43',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:10:43',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:10:43',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:10:43',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:10:43',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:10:43',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:10:43',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:10:43',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:10:43',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:10:43',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:10:43',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:10:43',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:10:43',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:10:43',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:10:43',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:10:43',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:10:43',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:10:43',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:10:43',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:10:43',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:10:43',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:10:43',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:10:43',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:10:43',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:10:43',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:10:43',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:10:43',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:10:43',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:10:43',updateway='cloud' WHERE magicid = '1' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:10:43',updateway='cloud' WHERE magicid = '2' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:10:43',updateway='cloud' WHERE magicid = '3' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:10:43',updateway='cloud' WHERE magicid = '4' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:10:43',updateway='cloud' WHERE magicid = '5' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:10:43',updateway='cloud' WHERE magicid = '6' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:10:43',updateway='cloud' WHERE magicid = '7' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:10:43',updateway='cloud' WHERE magicid = '8' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:10:43',updateway='cloud' WHERE magicid = '9' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:10:43',updateway='cloud' WHERE magicid = '10' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:10:43',updateway='cloud' WHERE magicid = '11' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:10:43',updateway='cloud' WHERE magicid = '12' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:10:43',updateway='cloud' WHERE magicid = '13' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:10:43',updateway='cloud' WHERE magicid = '14' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:10:43',updateway='cloud' WHERE magicid = '15' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:10:43',updateway='cloud' WHERE magicid = '16' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:10:43',updateway='cloud' WHERE magicid = '17' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:10:43',updateway='cloud' WHERE magicid = '18' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:10:43',updateway='cloud' WHERE magicid = '19' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:10:43',updateway='cloud' WHERE magicid = '28' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:10:43',updateway='cloud' WHERE magicid = '21' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:10:43',updateway='cloud' WHERE magicid = '22' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:10:43',updateway='cloud' WHERE magicid = '23' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:10:43',updateway='cloud' WHERE magicid = '24' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:10:43',updateway='cloud' WHERE magicid = '25' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:10:43',updateway='cloud' WHERE magicid = '26' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:10:43',updateway='cloud' WHERE magicid = '27' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:10:53',updateway='cloud' WHERE magicid = '30546' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:45',updateway='cloud' WHERE magicid = '30464' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:11:45',updateway='cloud' WHERE magicid = '30584' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:45',updateway='cloud' WHERE magicid = '30660' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:11:45',updateway='cloud' WHERE magicid = '30676' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:45',updateway='cloud' WHERE magicid = '30355' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:45',updateway='cloud' WHERE magicid = '430' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:45',updateway='cloud' WHERE magicid = '30593' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:11:45',updateway='cloud' WHERE magicid = '30470' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:11:45',updateway='cloud' WHERE magicid = '30679' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:45',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:45',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:45',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:45',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:45',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:45',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:45',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:45',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:45',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:45',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:45',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:45',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:45',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:45',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:45',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:45',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:45',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:45',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:45',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:45',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:45',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:45',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:45',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:45',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:45',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:45',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:45',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:45',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:45',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:45',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:45',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:45',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:45',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:45',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:45',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:45',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:45',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:45',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:45',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:45',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:45',updateway='cloud' WHERE magicid = '1' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:11:45',updateway='cloud' WHERE magicid = '2' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:45',updateway='cloud' WHERE magicid = '3' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:45',updateway='cloud' WHERE magicid = '4' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:45',updateway='cloud' WHERE magicid = '5' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:11:45',updateway='cloud' WHERE magicid = '6' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:45',updateway='cloud' WHERE magicid = '7' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:45',updateway='cloud' WHERE magicid = '8' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:11:45',updateway='cloud' WHERE magicid = '9' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:11:45',updateway='cloud' WHERE magicid = '10' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:45',updateway='cloud' WHERE magicid = '11' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:45',updateway='cloud' WHERE magicid = '12' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:45',updateway='cloud' WHERE magicid = '13' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:45',updateway='cloud' WHERE magicid = '14' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:45',updateway='cloud' WHERE magicid = '15' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:11:45',updateway='cloud' WHERE magicid = '16' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:11:45',updateway='cloud' WHERE magicid = '17' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:11:45',updateway='cloud' WHERE magicid = '18' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:45',updateway='cloud' WHERE magicid = '19' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:11:45',updateway='cloud' WHERE magicid = '28' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:45',updateway='cloud' WHERE magicid = '21' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:11:45',updateway='cloud' WHERE magicid = '22' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:11:45',updateway='cloud' WHERE magicid = '23' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:45',updateway='cloud' WHERE magicid = '24' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:45',updateway='cloud' WHERE magicid = '25' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:45',updateway='cloud' WHERE magicid = '26' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:11:45',updateway='cloud' WHERE magicid = '27' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:55',updateway='cloud' WHERE magicid = '30546' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:55',updateway='cloud' WHERE magicid = '30464' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:11:55',updateway='cloud' WHERE magicid = '30584' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:55',updateway='cloud' WHERE magicid = '30660' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:11:55',updateway='cloud' WHERE magicid = '30676' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:55',updateway='cloud' WHERE magicid = '30355' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:55',updateway='cloud' WHERE magicid = '430' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:55',updateway='cloud' WHERE magicid = '30593' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:11:55',updateway='cloud' WHERE magicid = '30470' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:11:55',updateway='cloud' WHERE magicid = '30679' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:55',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:55',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:55',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:55',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:55',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:55',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:55',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:55',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:55',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:55',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:55',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:55',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:55',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:55',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:55',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:55',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:55',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:55',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:55',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:55',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:55',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:55',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:55',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:55',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:55',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:55',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:55',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:55',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:55',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:55',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:55',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:55',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:55',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:55',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:55',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:55',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:55',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:55',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:55',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:55',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:55',updateway='cloud' WHERE magicid = '1' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:11:55',updateway='cloud' WHERE magicid = '2' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:55',updateway='cloud' WHERE magicid = '3' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:55',updateway='cloud' WHERE magicid = '4' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:55',updateway='cloud' WHERE magicid = '5' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:11:55',updateway='cloud' WHERE magicid = '6' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:55',updateway='cloud' WHERE magicid = '7' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:55',updateway='cloud' WHERE magicid = '8' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:11:55',updateway='cloud' WHERE magicid = '9' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:11:55',updateway='cloud' WHERE magicid = '10' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:55',updateway='cloud' WHERE magicid = '11' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:55',updateway='cloud' WHERE magicid = '12' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:55',updateway='cloud' WHERE magicid = '13' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:55',updateway='cloud' WHERE magicid = '14' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:55',updateway='cloud' WHERE magicid = '15' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:11:55',updateway='cloud' WHERE magicid = '16' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:11:55',updateway='cloud' WHERE magicid = '17' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:11:55',updateway='cloud' WHERE magicid = '18' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:55',updateway='cloud' WHERE magicid = '19' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:11:55',updateway='cloud' WHERE magicid = '28' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:55',updateway='cloud' WHERE magicid = '21' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:11:55',updateway='cloud' WHERE magicid = '22' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:11:55',updateway='cloud' WHERE magicid = '23' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:55',updateway='cloud' WHERE magicid = '24' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:55',updateway='cloud' WHERE magicid = '25' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:11:55',updateway='cloud' WHERE magicid = '26' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:11:55',updateway='cloud' WHERE magicid = '27' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:12:05',updateway='cloud' WHERE magicid = '30546' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:12:57',updateway='cloud' WHERE magicid = '30464' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:13:19',updateway='cloud' WHERE magicid = '30584' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:13:19',updateway='cloud' WHERE magicid = '30660' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:13:19',updateway='cloud' WHERE magicid = '30676' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:13:19',updateway='cloud' WHERE magicid = '30355' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:13:19',updateway='cloud' WHERE magicid = '430' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:13:19',updateway='cloud' WHERE magicid = '30593' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:13:19',updateway='cloud' WHERE magicid = '30470' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:13:19',updateway='cloud' WHERE magicid = '30679' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:13:19',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:13:19',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:13:19',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:13:19',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:13:19',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:13:19',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:13:19',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:13:19',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:13:19',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:13:19',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:13:19',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:13:19',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:13:19',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:13:19',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:13:19',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:13:19',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:13:19',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:13:19',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:13:19',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:13:19',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:13:19',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:13:19',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:13:19',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:13:19',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:13:19',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:13:19',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:13:19',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:13:19',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:13:19',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:13:19',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:13:19',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:13:19',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:13:19',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:13:19',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:13:19',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:13:19',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:13:19',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:13:19',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:13:19',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:13:19',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:13:19',updateway='cloud' WHERE magicid = '1' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:13:19',updateway='cloud' WHERE magicid = '2' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:13:19',updateway='cloud' WHERE magicid = '3' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:13:19',updateway='cloud' WHERE magicid = '4' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:13:19',updateway='cloud' WHERE magicid = '5' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:13:19',updateway='cloud' WHERE magicid = '6' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:13:19',updateway='cloud' WHERE magicid = '7' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:13:19',updateway='cloud' WHERE magicid = '8' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:13:19',updateway='cloud' WHERE magicid = '9' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:13:19',updateway='cloud' WHERE magicid = '10' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:13:19',updateway='cloud' WHERE magicid = '11' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:13:19',updateway='cloud' WHERE magicid = '12' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:13:19',updateway='cloud' WHERE magicid = '13' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:13:19',updateway='cloud' WHERE magicid = '14' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:13:19',updateway='cloud' WHERE magicid = '15' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:13:19',updateway='cloud' WHERE magicid = '16' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:13:19',updateway='cloud' WHERE magicid = '17' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:13:19',updateway='cloud' WHERE magicid = '18' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:13:19',updateway='cloud' WHERE magicid = '19' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:13:19',updateway='cloud' WHERE magicid = '28' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:13:19',updateway='cloud' WHERE magicid = '21' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:13:19',updateway='cloud' WHERE magicid = '22' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:13:19',updateway='cloud' WHERE magicid = '23' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:13:19',updateway='cloud' WHERE magicid = '24' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:13:19',updateway='cloud' WHERE magicid = '25' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:13:19',updateway='cloud' WHERE magicid = '26' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:13:19',updateway='cloud' WHERE magicid = '27' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:13:29',updateway='cloud' WHERE magicid = '30546' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:21',updateway='cloud' WHERE magicid = '30464' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:44',updateway='cloud' WHERE magicid = '30546' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:44',updateway='cloud' WHERE magicid = '30464' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:14:44',updateway='cloud' WHERE magicid = '30584' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:44',updateway='cloud' WHERE magicid = '30660' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:14:44',updateway='cloud' WHERE magicid = '30676' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:44',updateway='cloud' WHERE magicid = '30355' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:44',updateway='cloud' WHERE magicid = '430' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:44',updateway='cloud' WHERE magicid = '30593' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:14:44',updateway='cloud' WHERE magicid = '30470' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:14:44',updateway='cloud' WHERE magicid = '30679' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:44',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:44',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:44',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:44',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:44',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:44',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:44',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:44',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:44',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:44',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:44',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:44',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:44',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:44',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:44',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:44',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:44',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:44',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:44',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:44',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:44',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:44',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:44',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:44',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:44',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:44',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:44',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:44',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:44',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:44',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:44',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:44',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:44',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:44',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:44',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:44',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:44',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:44',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:44',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:44',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:44',updateway='cloud' WHERE magicid = '1' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:14:44',updateway='cloud' WHERE magicid = '2' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:44',updateway='cloud' WHERE magicid = '3' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:44',updateway='cloud' WHERE magicid = '4' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:44',updateway='cloud' WHERE magicid = '5' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:14:44',updateway='cloud' WHERE magicid = '6' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:44',updateway='cloud' WHERE magicid = '7' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:44',updateway='cloud' WHERE magicid = '8' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:14:44',updateway='cloud' WHERE magicid = '9' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:14:44',updateway='cloud' WHERE magicid = '10' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:44',updateway='cloud' WHERE magicid = '11' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:44',updateway='cloud' WHERE magicid = '12' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:44',updateway='cloud' WHERE magicid = '13' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:44',updateway='cloud' WHERE magicid = '14' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:44',updateway='cloud' WHERE magicid = '15' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:14:44',updateway='cloud' WHERE magicid = '16' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:14:44',updateway='cloud' WHERE magicid = '17' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:14:44',updateway='cloud' WHERE magicid = '18' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:44',updateway='cloud' WHERE magicid = '19' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:14:44',updateway='cloud' WHERE magicid = '28' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:44',updateway='cloud' WHERE magicid = '21' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:14:44',updateway='cloud' WHERE magicid = '22' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:14:44',updateway='cloud' WHERE magicid = '23' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:44',updateway='cloud' WHERE magicid = '24' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:44',updateway='cloud' WHERE magicid = '25' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:44',updateway='cloud' WHERE magicid = '26' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:14:44',updateway='cloud' WHERE magicid = '27' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:54',updateway='cloud' WHERE magicid = '30546' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:54',updateway='cloud' WHERE magicid = '30464' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:14:54',updateway='cloud' WHERE magicid = '30584' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:54',updateway='cloud' WHERE magicid = '30660' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:14:54',updateway='cloud' WHERE magicid = '30676' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:54',updateway='cloud' WHERE magicid = '30355' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:54',updateway='cloud' WHERE magicid = '430' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:54',updateway='cloud' WHERE magicid = '30593' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:14:54',updateway='cloud' WHERE magicid = '30470' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:14:54',updateway='cloud' WHERE magicid = '30679' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:54',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:54',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:54',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:54',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:54',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:54',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:54',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:54',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:54',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:54',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:54',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:54',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:54',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:54',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:54',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:54',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:54',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:54',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:54',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:54',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:54',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:54',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:54',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:55',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:55',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:55',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:55',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:55',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:55',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:55',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:55',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:55',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:55',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:55',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:55',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:55',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:55',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:55',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:55',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:55',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:55',updateway='cloud' WHERE magicid = '1' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:14:55',updateway='cloud' WHERE magicid = '2' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:55',updateway='cloud' WHERE magicid = '3' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:55',updateway='cloud' WHERE magicid = '4' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:55',updateway='cloud' WHERE magicid = '5' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:14:55',updateway='cloud' WHERE magicid = '6' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:55',updateway='cloud' WHERE magicid = '7' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:55',updateway='cloud' WHERE magicid = '8' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:14:55',updateway='cloud' WHERE magicid = '9' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:14:55',updateway='cloud' WHERE magicid = '10' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:55',updateway='cloud' WHERE magicid = '11' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:55',updateway='cloud' WHERE magicid = '12' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:55',updateway='cloud' WHERE magicid = '13' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:55',updateway='cloud' WHERE magicid = '14' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:55',updateway='cloud' WHERE magicid = '15' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:14:55',updateway='cloud' WHERE magicid = '16' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:14:55',updateway='cloud' WHERE magicid = '17' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:14:55',updateway='cloud' WHERE magicid = '18' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:55',updateway='cloud' WHERE magicid = '19' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:14:55',updateway='cloud' WHERE magicid = '28' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:55',updateway='cloud' WHERE magicid = '21' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:14:55',updateway='cloud' WHERE magicid = '22' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:14:55',updateway='cloud' WHERE magicid = '23' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:55',updateway='cloud' WHERE magicid = '24' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:55',updateway='cloud' WHERE magicid = '25' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:14:55',updateway='cloud' WHERE magicid = '26' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:14:55',updateway='cloud' WHERE magicid = '27' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:05',updateway='cloud' WHERE magicid = '30546' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:05',updateway='cloud' WHERE magicid = '30464' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:05',updateway='cloud' WHERE magicid = '30584' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:05',updateway='cloud' WHERE magicid = '30660' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:05',updateway='cloud' WHERE magicid = '30676' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:05',updateway='cloud' WHERE magicid = '30355' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:05',updateway='cloud' WHERE magicid = '430' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:05',updateway='cloud' WHERE magicid = '30593' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:05',updateway='cloud' WHERE magicid = '30470' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:05',updateway='cloud' WHERE magicid = '30679' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:05',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:05',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:05',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:05',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:05',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:05',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:05',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:05',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:05',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:05',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:05',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:05',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:05',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:05',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:05',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:05',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:05',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:05',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:05',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:05',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:05',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:05',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:05',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:05',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:05',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:05',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:05',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:05',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:05',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:05',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:05',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:05',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:05',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:05',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:05',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:05',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:05',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:05',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:05',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:05',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:05',updateway='cloud' WHERE magicid = '1' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:05',updateway='cloud' WHERE magicid = '2' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:05',updateway='cloud' WHERE magicid = '3' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:05',updateway='cloud' WHERE magicid = '4' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:05',updateway='cloud' WHERE magicid = '5' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:05',updateway='cloud' WHERE magicid = '6' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:05',updateway='cloud' WHERE magicid = '7' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:05',updateway='cloud' WHERE magicid = '8' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:05',updateway='cloud' WHERE magicid = '9' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:05',updateway='cloud' WHERE magicid = '10' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:05',updateway='cloud' WHERE magicid = '11' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:05',updateway='cloud' WHERE magicid = '12' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:05',updateway='cloud' WHERE magicid = '13' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:05',updateway='cloud' WHERE magicid = '14' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:05',updateway='cloud' WHERE magicid = '15' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:05',updateway='cloud' WHERE magicid = '16' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:05',updateway='cloud' WHERE magicid = '17' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:05',updateway='cloud' WHERE magicid = '18' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:05',updateway='cloud' WHERE magicid = '19' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:05',updateway='cloud' WHERE magicid = '28' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:05',updateway='cloud' WHERE magicid = '21' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:05',updateway='cloud' WHERE magicid = '22' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:05',updateway='cloud' WHERE magicid = '23' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:05',updateway='cloud' WHERE magicid = '24' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:05',updateway='cloud' WHERE magicid = '25' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:05',updateway='cloud' WHERE magicid = '26' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:05',updateway='cloud' WHERE magicid = '27' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:15',updateway='cloud' WHERE magicid = '30546' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:15',updateway='cloud' WHERE magicid = '30464' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:15',updateway='cloud' WHERE magicid = '30584' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:15',updateway='cloud' WHERE magicid = '30660' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:15',updateway='cloud' WHERE magicid = '30676' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:15',updateway='cloud' WHERE magicid = '30355' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:15',updateway='cloud' WHERE magicid = '430' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:15',updateway='cloud' WHERE magicid = '30593' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:15',updateway='cloud' WHERE magicid = '30470' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:15',updateway='cloud' WHERE magicid = '30679' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:15',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:15',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:15',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:15',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:15',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:15',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:15',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:15',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:15',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:15',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:15',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:15',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:15',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:15',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:15',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:15',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:15',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:15',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:15',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:15',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:15',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:15',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:15',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:15',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:15',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:15',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:15',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:15',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:15',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:15',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:15',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:15',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:15',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:15',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:15',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:15',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:15',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:15',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:15',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:15',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:15',updateway='cloud' WHERE magicid = '1' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:15',updateway='cloud' WHERE magicid = '2' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:15',updateway='cloud' WHERE magicid = '3' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:15',updateway='cloud' WHERE magicid = '4' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:15',updateway='cloud' WHERE magicid = '5' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:15',updateway='cloud' WHERE magicid = '6' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:15',updateway='cloud' WHERE magicid = '7' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:15',updateway='cloud' WHERE magicid = '8' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:15',updateway='cloud' WHERE magicid = '9' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:15',updateway='cloud' WHERE magicid = '10' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:15',updateway='cloud' WHERE magicid = '11' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:15',updateway='cloud' WHERE magicid = '12' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:15',updateway='cloud' WHERE magicid = '13' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:15',updateway='cloud' WHERE magicid = '14' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:15',updateway='cloud' WHERE magicid = '15' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:15',updateway='cloud' WHERE magicid = '16' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:15',updateway='cloud' WHERE magicid = '17' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:15',updateway='cloud' WHERE magicid = '18' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:15',updateway='cloud' WHERE magicid = '19' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:15',updateway='cloud' WHERE magicid = '28' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:15',updateway='cloud' WHERE magicid = '21' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:15',updateway='cloud' WHERE magicid = '22' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:15',updateway='cloud' WHERE magicid = '23' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:15',updateway='cloud' WHERE magicid = '24' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:15',updateway='cloud' WHERE magicid = '25' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:15',updateway='cloud' WHERE magicid = '26' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:15',updateway='cloud' WHERE magicid = '27' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:25',updateway='cloud' WHERE magicid = '30546' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:25',updateway='cloud' WHERE magicid = '30464' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:25',updateway='cloud' WHERE magicid = '30584' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:25',updateway='cloud' WHERE magicid = '30660' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:25',updateway='cloud' WHERE magicid = '30676' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:25',updateway='cloud' WHERE magicid = '30355' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:25',updateway='cloud' WHERE magicid = '430' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:25',updateway='cloud' WHERE magicid = '30593' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:25',updateway='cloud' WHERE magicid = '30470' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:25',updateway='cloud' WHERE magicid = '30679' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:25',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:25',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:25',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:25',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:25',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:25',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:25',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:25',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:25',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:25',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:25',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:25',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:25',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:25',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:25',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:25',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:25',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:25',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:25',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:25',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:25',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:25',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:25',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:25',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:25',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:25',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:25',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:25',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:25',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:25',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:25',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:25',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:25',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:25',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:25',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:25',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:25',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:25',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:25',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:25',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:25',updateway='cloud' WHERE magicid = '1' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:25',updateway='cloud' WHERE magicid = '2' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:25',updateway='cloud' WHERE magicid = '3' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:25',updateway='cloud' WHERE magicid = '4' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:25',updateway='cloud' WHERE magicid = '5' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:25',updateway='cloud' WHERE magicid = '6' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:25',updateway='cloud' WHERE magicid = '7' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:25',updateway='cloud' WHERE magicid = '8' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:25',updateway='cloud' WHERE magicid = '9' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:25',updateway='cloud' WHERE magicid = '10' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:25',updateway='cloud' WHERE magicid = '11' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:25',updateway='cloud' WHERE magicid = '12' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:25',updateway='cloud' WHERE magicid = '13' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:25',updateway='cloud' WHERE magicid = '14' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:25',updateway='cloud' WHERE magicid = '15' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:25',updateway='cloud' WHERE magicid = '16' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:25',updateway='cloud' WHERE magicid = '17' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:25',updateway='cloud' WHERE magicid = '18' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:25',updateway='cloud' WHERE magicid = '19' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:25',updateway='cloud' WHERE magicid = '28' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:25',updateway='cloud' WHERE magicid = '21' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:25',updateway='cloud' WHERE magicid = '22' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:25',updateway='cloud' WHERE magicid = '23' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:25',updateway='cloud' WHERE magicid = '24' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:25',updateway='cloud' WHERE magicid = '25' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:25',updateway='cloud' WHERE magicid = '26' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:25',updateway='cloud' WHERE magicid = '27' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:35',updateway='cloud' WHERE magicid = '30546' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:35',updateway='cloud' WHERE magicid = '30464' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:35',updateway='cloud' WHERE magicid = '30584' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:35',updateway='cloud' WHERE magicid = '30660' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:35',updateway='cloud' WHERE magicid = '30676' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:35',updateway='cloud' WHERE magicid = '30355' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:35',updateway='cloud' WHERE magicid = '430' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:35',updateway='cloud' WHERE magicid = '30593' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:35',updateway='cloud' WHERE magicid = '30470' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:35',updateway='cloud' WHERE magicid = '30679' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:35',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:35',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:35',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:35',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:35',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:35',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:35',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:35',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:35',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:35',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:35',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:35',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:35',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:35',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:35',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:35',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:35',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:35',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:35',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:35',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:35',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:35',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:35',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:35',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:35',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:35',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:35',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:35',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:35',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:35',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:35',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:35',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:35',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:35',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:35',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:35',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:35',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:35',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:35',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:35',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:35',updateway='cloud' WHERE magicid = '1' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:35',updateway='cloud' WHERE magicid = '2' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:35',updateway='cloud' WHERE magicid = '3' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:35',updateway='cloud' WHERE magicid = '4' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:35',updateway='cloud' WHERE magicid = '5' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:35',updateway='cloud' WHERE magicid = '6' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:35',updateway='cloud' WHERE magicid = '7' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:35',updateway='cloud' WHERE magicid = '8' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:35',updateway='cloud' WHERE magicid = '9' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:35',updateway='cloud' WHERE magicid = '10' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:35',updateway='cloud' WHERE magicid = '11' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:35',updateway='cloud' WHERE magicid = '12' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:35',updateway='cloud' WHERE magicid = '13' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:35',updateway='cloud' WHERE magicid = '14' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:35',updateway='cloud' WHERE magicid = '15' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:35',updateway='cloud' WHERE magicid = '16' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:35',updateway='cloud' WHERE magicid = '17' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:35',updateway='cloud' WHERE magicid = '18' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:35',updateway='cloud' WHERE magicid = '19' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:35',updateway='cloud' WHERE magicid = '28' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:35',updateway='cloud' WHERE magicid = '21' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:35',updateway='cloud' WHERE magicid = '22' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:35',updateway='cloud' WHERE magicid = '23' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:35',updateway='cloud' WHERE magicid = '24' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:35',updateway='cloud' WHERE magicid = '25' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:35',updateway='cloud' WHERE magicid = '26' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:35',updateway='cloud' WHERE magicid = '27' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:45',updateway='cloud' WHERE magicid = '30546' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:45',updateway='cloud' WHERE magicid = '30464' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:45',updateway='cloud' WHERE magicid = '30584' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:45',updateway='cloud' WHERE magicid = '30660' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:45',updateway='cloud' WHERE magicid = '30676' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:45',updateway='cloud' WHERE magicid = '30355' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:45',updateway='cloud' WHERE magicid = '430' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:45',updateway='cloud' WHERE magicid = '30593' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:45',updateway='cloud' WHERE magicid = '30470' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:45',updateway='cloud' WHERE magicid = '30679' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:45',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:45',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:45',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:45',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:45',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:45',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:45',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:45',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:45',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:45',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:45',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:45',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:45',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:45',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:45',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:45',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:45',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:45',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:45',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:45',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:45',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:45',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:45',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:45',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:45',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:45',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:45',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:45',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:45',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:45',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:45',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:45',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:45',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:45',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:45',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:45',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:45',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:45',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:45',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:45',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:45',updateway='cloud' WHERE magicid = '1' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:45',updateway='cloud' WHERE magicid = '2' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:45',updateway='cloud' WHERE magicid = '3' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:45',updateway='cloud' WHERE magicid = '4' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:45',updateway='cloud' WHERE magicid = '5' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:45',updateway='cloud' WHERE magicid = '6' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:45',updateway='cloud' WHERE magicid = '7' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:45',updateway='cloud' WHERE magicid = '8' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:45',updateway='cloud' WHERE magicid = '9' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:45',updateway='cloud' WHERE magicid = '10' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:45',updateway='cloud' WHERE magicid = '11' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:45',updateway='cloud' WHERE magicid = '12' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:45',updateway='cloud' WHERE magicid = '13' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:45',updateway='cloud' WHERE magicid = '14' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:45',updateway='cloud' WHERE magicid = '15' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:45',updateway='cloud' WHERE magicid = '16' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:45',updateway='cloud' WHERE magicid = '17' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:45',updateway='cloud' WHERE magicid = '18' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:45',updateway='cloud' WHERE magicid = '19' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:45',updateway='cloud' WHERE magicid = '28' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:45',updateway='cloud' WHERE magicid = '21' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:45',updateway='cloud' WHERE magicid = '22' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:45',updateway='cloud' WHERE magicid = '23' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:45',updateway='cloud' WHERE magicid = '24' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:45',updateway='cloud' WHERE magicid = '25' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:45',updateway='cloud' WHERE magicid = '26' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:45',updateway='cloud' WHERE magicid = '27' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:56',updateway='cloud' WHERE magicid = '30546' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:56',updateway='cloud' WHERE magicid = '30464' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:56',updateway='cloud' WHERE magicid = '30584' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:56',updateway='cloud' WHERE magicid = '30660' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:56',updateway='cloud' WHERE magicid = '30676' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:56',updateway='cloud' WHERE magicid = '30355' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:56',updateway='cloud' WHERE magicid = '430' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:56',updateway='cloud' WHERE magicid = '30593' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:56',updateway='cloud' WHERE magicid = '30470' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:56',updateway='cloud' WHERE magicid = '30679' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:56',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:56',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:56',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:56',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:56',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:56',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:56',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:56',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:56',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:56',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:56',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:56',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:56',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:56',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:56',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:56',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:56',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:56',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:56',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:56',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:56',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:56',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:56',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:56',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:56',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:56',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:56',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:56',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:56',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:56',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:56',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:56',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:56',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:56',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:56',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:56',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:56',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:56',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:56',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:56',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:56',updateway='cloud' WHERE magicid = '1' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:56',updateway='cloud' WHERE magicid = '2' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:56',updateway='cloud' WHERE magicid = '3' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:56',updateway='cloud' WHERE magicid = '4' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:56',updateway='cloud' WHERE magicid = '5' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:56',updateway='cloud' WHERE magicid = '6' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:56',updateway='cloud' WHERE magicid = '7' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:56',updateway='cloud' WHERE magicid = '8' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:56',updateway='cloud' WHERE magicid = '9' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:56',updateway='cloud' WHERE magicid = '10' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:56',updateway='cloud' WHERE magicid = '11' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:56',updateway='cloud' WHERE magicid = '12' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:56',updateway='cloud' WHERE magicid = '13' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:56',updateway='cloud' WHERE magicid = '14' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:56',updateway='cloud' WHERE magicid = '15' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:56',updateway='cloud' WHERE magicid = '16' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:56',updateway='cloud' WHERE magicid = '17' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:56',updateway='cloud' WHERE magicid = '18' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:56',updateway='cloud' WHERE magicid = '19' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:56',updateway='cloud' WHERE magicid = '28' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:56',updateway='cloud' WHERE magicid = '21' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:56',updateway='cloud' WHERE magicid = '22' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:56',updateway='cloud' WHERE magicid = '23' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:56',updateway='cloud' WHERE magicid = '24' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:56',updateway='cloud' WHERE magicid = '25' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:15:56',updateway='cloud' WHERE magicid = '26' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:15:56',updateway='cloud' WHERE magicid = '27' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:06',updateway='cloud' WHERE magicid = '30546' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:06',updateway='cloud' WHERE magicid = '30464' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:16:06',updateway='cloud' WHERE magicid = '30584' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:06',updateway='cloud' WHERE magicid = '30660' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:16:06',updateway='cloud' WHERE magicid = '30676' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:06',updateway='cloud' WHERE magicid = '30355' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:06',updateway='cloud' WHERE magicid = '430' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:06',updateway='cloud' WHERE magicid = '30593' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:16:06',updateway='cloud' WHERE magicid = '30470' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:16:06',updateway='cloud' WHERE magicid = '30679' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:06',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:06',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:06',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:06',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:06',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:06',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:06',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:06',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:06',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:06',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:06',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:06',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:06',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:06',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:06',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:06',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:06',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:06',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:06',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:06',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:06',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:06',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:06',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:06',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:06',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:06',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:06',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:06',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:06',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:06',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:06',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:06',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:06',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:06',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:06',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:06',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:06',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:06',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:06',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:06',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:06',updateway='cloud' WHERE magicid = '1' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:16:06',updateway='cloud' WHERE magicid = '2' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:06',updateway='cloud' WHERE magicid = '3' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:06',updateway='cloud' WHERE magicid = '4' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:06',updateway='cloud' WHERE magicid = '5' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:16:06',updateway='cloud' WHERE magicid = '6' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:06',updateway='cloud' WHERE magicid = '7' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:06',updateway='cloud' WHERE magicid = '8' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:16:06',updateway='cloud' WHERE magicid = '9' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:16:06',updateway='cloud' WHERE magicid = '10' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:06',updateway='cloud' WHERE magicid = '11' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:06',updateway='cloud' WHERE magicid = '12' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:06',updateway='cloud' WHERE magicid = '13' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:06',updateway='cloud' WHERE magicid = '14' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:06',updateway='cloud' WHERE magicid = '15' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:16:06',updateway='cloud' WHERE magicid = '16' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:16:06',updateway='cloud' WHERE magicid = '17' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:16:06',updateway='cloud' WHERE magicid = '18' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:06',updateway='cloud' WHERE magicid = '19' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:16:06',updateway='cloud' WHERE magicid = '28' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:06',updateway='cloud' WHERE magicid = '21' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:16:06',updateway='cloud' WHERE magicid = '22' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:16:06',updateway='cloud' WHERE magicid = '23' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:06',updateway='cloud' WHERE magicid = '24' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:06',updateway='cloud' WHERE magicid = '25' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:06',updateway='cloud' WHERE magicid = '26' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:16:06',updateway='cloud' WHERE magicid = '27' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:16',updateway='cloud' WHERE magicid = '30546' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:16',updateway='cloud' WHERE magicid = '30464' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:16:16',updateway='cloud' WHERE magicid = '30584' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:16',updateway='cloud' WHERE magicid = '30660' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:16:16',updateway='cloud' WHERE magicid = '30676' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:16',updateway='cloud' WHERE magicid = '30355' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:16',updateway='cloud' WHERE magicid = '430' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:16',updateway='cloud' WHERE magicid = '30593' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:16:16',updateway='cloud' WHERE magicid = '30470' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:16:16',updateway='cloud' WHERE magicid = '30679' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:16',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:16',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:16',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:16',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:16',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:16',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:16',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:16',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:16',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:16',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:16',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:16',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:16',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:16',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:16',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:16',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:16',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:16',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:16',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:16',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:16',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:16',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:16',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:16',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:16',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:16',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:16',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:16',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:16',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:16',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:16',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:16',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:16',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:16',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:16',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:16',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:16',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:16',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:16',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:16',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:16',updateway='cloud' WHERE magicid = '1' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:16:16',updateway='cloud' WHERE magicid = '2' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:16',updateway='cloud' WHERE magicid = '3' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:16',updateway='cloud' WHERE magicid = '4' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:16',updateway='cloud' WHERE magicid = '5' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:16:16',updateway='cloud' WHERE magicid = '6' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:16',updateway='cloud' WHERE magicid = '7' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:16',updateway='cloud' WHERE magicid = '8' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:16:16',updateway='cloud' WHERE magicid = '9' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:16:16',updateway='cloud' WHERE magicid = '10' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:16',updateway='cloud' WHERE magicid = '11' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:16',updateway='cloud' WHERE magicid = '12' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:16',updateway='cloud' WHERE magicid = '13' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:16',updateway='cloud' WHERE magicid = '14' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:16',updateway='cloud' WHERE magicid = '15' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:16:16',updateway='cloud' WHERE magicid = '16' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:16:16',updateway='cloud' WHERE magicid = '17' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:16:16',updateway='cloud' WHERE magicid = '18' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:16',updateway='cloud' WHERE magicid = '19' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:16:16',updateway='cloud' WHERE magicid = '28' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:16',updateway='cloud' WHERE magicid = '21' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:16:16',updateway='cloud' WHERE magicid = '22' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:16:16',updateway='cloud' WHERE magicid = '23' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:16',updateway='cloud' WHERE magicid = '24' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:16',updateway='cloud' WHERE magicid = '25' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:16',updateway='cloud' WHERE magicid = '26' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:16:16',updateway='cloud' WHERE magicid = '27' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:26',updateway='cloud' WHERE magicid = '30546' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:26',updateway='cloud' WHERE magicid = '30464' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:16:26',updateway='cloud' WHERE magicid = '30584' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:26',updateway='cloud' WHERE magicid = '30660' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:16:26',updateway='cloud' WHERE magicid = '30676' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:26',updateway='cloud' WHERE magicid = '30355' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:26',updateway='cloud' WHERE magicid = '430' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:26',updateway='cloud' WHERE magicid = '30593' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:16:26',updateway='cloud' WHERE magicid = '30470' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:16:26',updateway='cloud' WHERE magicid = '30679' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:26',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:26',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:26',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:26',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:26',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:26',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:26',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:26',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:26',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:26',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:26',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:26',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:26',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:26',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:26',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:26',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:26',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:26',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:26',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:26',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:26',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:26',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:26',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:26',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:26',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:26',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:26',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:26',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:26',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:26',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:26',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:26',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:26',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:26',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:26',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:26',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:26',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:26',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:26',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:26',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:26',updateway='cloud' WHERE magicid = '1' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:16:26',updateway='cloud' WHERE magicid = '2' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:26',updateway='cloud' WHERE magicid = '3' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:26',updateway='cloud' WHERE magicid = '4' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:26',updateway='cloud' WHERE magicid = '5' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:16:26',updateway='cloud' WHERE magicid = '6' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:26',updateway='cloud' WHERE magicid = '7' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:26',updateway='cloud' WHERE magicid = '8' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:16:26',updateway='cloud' WHERE magicid = '9' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:16:26',updateway='cloud' WHERE magicid = '10' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:26',updateway='cloud' WHERE magicid = '11' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:26',updateway='cloud' WHERE magicid = '12' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:26',updateway='cloud' WHERE magicid = '13' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:26',updateway='cloud' WHERE magicid = '14' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:26',updateway='cloud' WHERE magicid = '15' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:16:26',updateway='cloud' WHERE magicid = '16' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:16:26',updateway='cloud' WHERE magicid = '17' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:16:26',updateway='cloud' WHERE magicid = '18' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:26',updateway='cloud' WHERE magicid = '19' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:16:26',updateway='cloud' WHERE magicid = '28' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:26',updateway='cloud' WHERE magicid = '21' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:16:26',updateway='cloud' WHERE magicid = '22' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:16:26',updateway='cloud' WHERE magicid = '23' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:26',updateway='cloud' WHERE magicid = '24' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:26',updateway='cloud' WHERE magicid = '25' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 16:16:26',updateway='cloud' WHERE magicid = '26' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 16:16:26',updateway='cloud' WHERE magicid = '27' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 17:10:47',updateway='cloud' WHERE magicid = '2' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 17:44:19',updateway='cloud' WHERE magicid = '8' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 17:56:40',updateway='cloud' WHERE magicid = '5' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 0,updatetime = '2016-06-07 18:20:19',updateway='cloud' WHERE magicid = '8' And isbusy <> 0;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 18:31:12',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!
+Ö´ÐÐ[sql:UPDATE park_parkingsite SET isbusy = 1,updatetime = '2016-06-07 19:01:18',updateway='cloud' WHERE magicid = '' And isbusy <> 1;
+]Ê§°Ü!

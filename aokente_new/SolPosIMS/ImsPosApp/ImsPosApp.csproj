@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{8EF28B9B-F132-4B06-9DCF-8BBAEFA7D2F3}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Ims.Pos</RootNamespace>
+    <AssemblyName>ImsPosApp</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ImsLogApp, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\www\Bin\ImsLogApp.dll</HintPath>
+    </Reference>
+    <Reference Include="ImsMainApp, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\IMSMainApp\bin\Debug\ImsMainApp.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=1.1.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\www\Bin\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="ZsdDotNetLibrary, Version=1.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\www\Bin\ZsdDotNetLibrary.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BLL\CheckIsArrearageHelperBLL.cs" />
+    <Compile Include="BLL\ClearString.cs" />
+    <Compile Include="BLL\GetMonthlyCardListHelperBLL.cs" />
+    <Compile Include="BLL\GetParkingRecrodHelperBLL.cs" />
+    <Compile Include="BLL\GetPriceListHelperBLL.cs" />
+    <Compile Include="BLL\GetSiteListHelperBLL.cs" />
+    <Compile Include="BLL\Ims_ConfigBLL.cs" />
+    <Compile Include="BLL\ModifyPassHelperBLL.cs" />
+    <Compile Include="BLL\OutServerBLL.cs" />
+    <Compile Include="BLL\POS＿CommunicationHelper.cs" />
+    <Compile Include="BLL\Price_temp_sitefeelistBLL.cs" />
+    <Compile Include="BLL\SP_AutoSignOutBLL.cs" />
+    <Compile Include="BLL\SP_POS_ActiveCardBLL.cs" />
+    <Compile Include="BLL\SP_POS_BalanceBLL.cs" />
+    <Compile Include="BLL\SP_POS_BusinessBLL.cs" />
+    <Compile Include="BLL\SP_POS_ChangePINBLL.cs" />
+    <Compile Include="BLL\SP_POS_ChargeBLL.cs" />
+    <Compile Include="BLL\SP_POS_QueryBLL.cs" />
+    <Compile Include="BLL\SP_POS_SignINBLL.cs" />
+    <Compile Include="BLL\SP_POS_SignOutBLL.cs" />
+    <Compile Include="BLL\SP_POS_TransactionBLL.cs" />
+    <Compile Include="DAL\CheckIsArrearageHelperDAL.cs" />
+    <Compile Include="DAL\GetMonthlyCardListHelperDAL.cs" />
+    <Compile Include="DAL\GetParkingRecordHelperDAL.cs" />
+    <Compile Include="DAL\GetPriceListHelperDAL.cs" />
+    <Compile Include="DAL\GetSiteListHelperDAL.cs" />
+    <Compile Include="DAL\ModifyPassHelperDAL.cs" />
+    <Compile Include="DAL\Price_temp_sitefeelistDAL.cs" />
+    <Compile Include="DAL\SP_AutoSignOutDAL.cs" />
+    <Compile Include="DAL\SP_POS_ActiveCard.cs" />
+    <Compile Include="DAL\SP_POS_ActiveCardDAL.cs" />
+    <Compile Include="DAL\SP_POS_BalanceDAL.cs" />
+    <Compile Include="DAL\SP_POS_BusinessDAL.cs" />
+    <Compile Include="DAL\SP_POS_ChangePINDAL.cs" />
+    <Compile Include="DAL\SP_POS_ChargeDAL.cs" />
+    <Compile Include="DAL\SP_POS_QueryDAL.cs" />
+    <Compile Include="DAL\SP_POS_SignINDAL.cs" />
+    <Compile Include="DAL\SP_POS_SignOutDAL.cs" />
+    <Compile Include="DAL\SP_POS_TransactionDAL.cs" />
+    <Compile Include="DAL\SQLHelper.cs" />
+    <Compile Include="Model\AccessInfo\AccessObject.cs" />
+    <Compile Include="Model\BaseModel_output.cs" />
+    <Compile Include="Model\BaseMode_input.cs" />
+    <Compile Include="Model\Business\BusinessObjects.cs" />
+    <Compile Include="Model\Business\input_Business.cs" />
+    <Compile Include="Model\Business\ParkingRecord.cs" />
+    <Compile Include="Model\Charge\input_charge.cs" />
+    <Compile Include="Model\Charge\output_charge.cs" />
+    <Compile Include="Model\CheckIsArrearage\input_CheckIsArrearage.cs" />
+    <Compile Include="Model\errReport\input_errReport.cs" />
+    <Compile Include="Model\Ims_Config.cs" />
+    <Compile Include="Model\Magic\input_Magic.cs" />
+    <Compile Include="Model\ModifyPass\input_ModifyPass.cs" />
+    <Compile Include="Model\ModifyPass\output_ModifyPass.cs" />
+    <Compile Include="Model\MonthlyCard\CardInfo.cs" />
+    <Compile Include="Model\MonthlyCard\input_MonthlyCard.cs" />
+    <Compile Include="Model\MonthlyCard\output_MonthlyCard.cs" />
+    <Compile Include="Model\OutServer.cs" />
+    <Compile Include="Model\ParkingList\input_ParkingList.cs" />
+    <Compile Include="Model\ParkingList\output_ParkingList.cs" />
+    <Compile Include="Model\PriceList\input_PriceList.cs" />
+    <Compile Include="Model\PriceList\output_PriceList.cs" />
+    <Compile Include="Model\SignIn\input_SignIn.cs" />
+    <Compile Include="Model\SignIn\p_sitefeelist.cs" />
+    <Compile Include="Model\SignOut\input_SignOut.cs" />
+    <Compile Include="Model\SiteList\input_SiteList.cs" />
+    <Compile Include="Model\SiteList\output_SiteList.cs" />
+    <Compile Include="Model\SiteList\SiteInfo.cs" />
+    <Compile Include="Model\SyncParkingRecord\input_SyncParkingRecord.cs" />
+    <Compile Include="Model\CheckIsArrearage\output_CheckIsArrearage.cs" />
+    <Compile Include="Model\errReport\output_errReport.cs" />
+    <Compile Include="Model\Business\output_Business.cs" />
+    <Compile Include="Model\Magic\output_Magic.cs" />
+    <Compile Include="Model\SignIn\output_SignIn.cs" />
+    <Compile Include="Model\SignOut\output_SignOut.cs" />
+    <Compile Include="Model\SyncParkingRecord\output_SyncParkingRecord.cs" />
+    <Compile Include="Model\SyncParkingRecord\ParkingRecordObjects.cs" />
+    <Compile Include="Model\Magic\SiteStatusObject.cs" />
+    <Compile Include="Model\SP_POS_ALLParams.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

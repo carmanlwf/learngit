@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/www/Money/rules.ashx" hash="4613fb65" filehash="30d1dd0e3d85" flags="110000" assembly="App_Web_rules.ashx.bd401e3e" type="rules">
+    <filedeps>
+        <filedep name="/www/Money/rules.ashx" />
+    </filedeps>
+</preserve>

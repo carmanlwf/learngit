@@ -1,0 +1,237 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312"/>
+<title></title>
+<meta name="Author" content="网页播放器"/>
+<meta name="Keywords" content="网页播放器"/>
+<meta name="Description" content="asf,asx,wma,wmx,wmv,wvx,mp3,wav,mid">
+<script language="JavaScript" src="exobud.js"></script>
+<script language="JScript" for="Exobud" event="openStateChange(sf)">evtOSChg(sf);</script>
+<script language="JScript" for="Exobud" event="playStateChange(ns)">evtPSChg(ns);</script>
+<script language="JScript" for="Exobud" event="error()">evtWmpError();</script>
+<script language="JScript" for="Exobud" event="Buffering(bf)">evtWmpBuff(bf);</script>
+<script src="../AC_ActiveX.js" type="text/javascript"></script>
+<script src="../AC_RunActiveContent.js" type="text/javascript"></script>
+<script>
+function ReadPlayList()
+{
+  var   arr   =   new   Array();    
+  var   pairs   =   document.location.search.substring(4).split(",");   
+  var url= pairs[0].split(",");  
+  for   (var   i=1;i <pairs.length;i++)     
+  { 
+  var values = pairs[i].split(",");  
+
+  arr[values[0]] = unescape(values[1]);  
+  
+   mkList(url+ values ,values,""); 
+  }   
+}
+ReadPlayList();
+
+</script>
+<script>
+
+	var datelayerx,datelayery;
+	var bDrag;
+	
+	function document.onmousemove()
+	{
+	    if(bDrag && window.event.button==1)
+	    {
+	        var DateLayer=parent.document.all.playrecordLayer.style;
+	        DateLayer.posLeft += window.event.clientX-datelayerx;
+	        DateLayer.posTop += window.event.clientY-datelayery;
+	     }
+	 }
+	
+	function DragStart() 
+	{
+	    if(parent == window) return ;
+	    var DateLayer=parent.document.all.playrecordLayer.style;
+	     datelayerx=window.event.clientX;
+	     datelayery=window.event.clientY;
+	     bDrag=true;
+	}
+	
+	function DragEnd()
+	{
+	    bDrag=false;
+	}
+
+    function hidePlayrecordLayer()
+    {
+    if(parent == window) return ; 
+        parent.document.all.playrecordLayer.src="";
+        parent.document.all.playrecordLayer.style.display="none";
+    }
+    
+</script>
+</head>
+<body onLoad="initExobud();openPlaylist('play_list');" style="margin:0px" oncontextmenu="window.event.returnValue=false" scroll=no ondragstart="window.event.returnValue=false" onselectstart="event.returnValue=false">
+
+<TABLE  border="0"  cellpadding="0" cellspacing="0" >
+<TR>
+	<TD>
+
+<table  border="0"  cellpadding="0" cellspacing="0" style="margin:0px">
+  <tr>
+    <td>
+      <table border="0" cellpadding="0" cellspacing="0" width="100%" onmousedown="DragStart()" onmouseup="DragEnd()" style="cursor:move;">
+        <tr>
+          <td width="75"><img border="0" src="images/1.gif" width="75" height="27"></td>
+          <td height="27" background="images/2.gif">&nbsp;</td>
+          <td height="27" background="images/003.gif">&nbsp;</td>
+          <td width="30"><img border="0" src="images/003.jpg" width="30" height="28" onclick="hidePlayrecordLayer();"></td>
+        </tr>
+
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+          <td width="3" background="images/4.gif"></td>
+          <td bgcolor="#000000" width="304">
+          <script type="text/javascript">
+AC_AX_RunContent( 'id','Exobud','classid','CLSID:6BF52A52-394A-11d3-B153-00C04F79FAA6','type','application/x-oleobject','width','304','height','0','autostart','true','balance','0','currentposition','0','currentmarker','0','enablecontextmenu','false','enableerrordialogs','false','enabled','true','fullscreen','false','invokeurls','false','mute','false','playcount','1','rate','1','uimode','invisible','volume','100' ); //end AC code
+</script><noscript><object id="Exobud" classid="CLSID:6BF52A52-394A-11d3-B153-00C04F79FAA6"
+type="application/x-oleobject" width="304" height="0" >
+        <param name="autoStart"          value="true">
+        <param name="balance"            value="0">
+        <param name="currentPosition"    value="0">
+        <param name="currentMarker"      value="0">
+        <param name="enableContextMenu"  value="false">
+        <param name="enableErrorDialogs" value="false">
+        <param name="enabled"            value="true">
+        <param name="fullScreen"         value="false">
+        <param name="invokeURLs"         value="false">
+        <param name="mute"               value="false">
+        <param name="playCount"          value="1">
+        <param name="rate"               value="1">
+        <param name="uiMode"             value="invisible">
+        <param name="volume"             value="100">
+      </object></noscript>
+      <div id="capText" style="width:100%;height:0;color:white;background-color:#000000;padding-top:3px;padding-left:5px;display:none">
+	  <p class="title">&nbsp;&nbsp;网页播放器&nbsp;&trade;</div>
+        </td>
+          <td background="images/5.gif" width="3"></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+          <td width="17" rowspan="2"><img border="0" src="images/7.gif" width="17" height="50"></td>
+          <td width="228" height="28" bgcolor="#000000">
+            <table border="0" cellpadding="0" cellspacing="0" width="100%"><tr>
+                <td nowrap onClick="chgTimeFmt()" align=center>
+				<span id="disp2" class="time" title="时间长度显示方式 (正常/倒数)" style="width:105;cursor:default;padding-bottom:2px">
+				<strong>
+				<font color="#FFFFFF">00:00  00:00</font></strong></span></td>
+ <td align=right bgcolor="#000000"><img name="scope" src="images/act.gif" width="81" height="28"></td> 
+          </tr></table>
+          </td>
+          <td width="17" rowspan="2" bgcolor="#000000">&nbsp;</td>
+          <td width="44" rowspan="2" background="images/11.gif">
+            <div align="center">
+              <center>
+              <table border="0" cellpadding="0" cellspacing="1">
+                <tr>
+                  <td><img border="0" src="images/suiji.gif" width="36" height="19" name="pmode" onClick="chgPMode()"
+onMouseOver="imgtog('pmode',2)" onMouseOut="imgtog('pmode',3)" style="cursor:default" title="播放顺序(循序,随机)"></td>
+                </tr>
+                <tr>
+                  <td><img border="0" src="images/s.gif" width="36" height="19" name="rept" onClick="chkRept()"
+onMouseOver="imgtog('rept',2)" onMouseOut="imgtog('rept',3)" style="cursor:default" title="切换是否重复播放目前的曲目 (S=不重复 R=重复)"></td>
+                </tr>
+              </table>
+              </center>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td width="228" height="22" bgcolor="#000000"><marquee SCROLLAMOUNT=2 SCROLLDELAY=70>
+          <span id="disp1" class="title"> 网页播放器 </span>
+          </marquee></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+          <td width="7"><img border="0" src="images/12.gif" width="7" height="24"></td>
+          <td width="210" background="images/13.gif">
+          <div id="CourseButtonBox" style="height:24;width:210;"><img id="CourseButton" src="images/tscr.gif" style="position:relative;left:0;height:24;width:32" onMouseDown="button_down()" onMouseMove="button_move()" onMouseUp="button_up()"></div>
+          </td>
+          <td width="93"><img name="plist" src="images/14.gif" width=93 height=24 border=0 onClick="openPlaylist('play_list');this.blur();" style="cursor:hand" title="开关播放列表"
+></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+          <td width="184" background="images/15.gif" valign="top">
+            <div align="left">
+              <table border="0" cellpadding="0" cellspacing="0" style="position: relative; left: 5; top: 0" width="184">
+                <tr>
+                 <td width="29"><img border="0" src="images/play.gif" width="38" height="38" name="playt" onClick="startExobud()"
+onMouseOver="imgtog('playt',2)" onMouseOut="imgtog('playt',3)" style="cursor:default" title="播放"></td>
+                  <td width="29"><img border="0" src="images/stop.gif" width="27" height="38" name="stopt" onClick="wmpStop()"
+onMouseOver="imgtog('stopt',2)" onMouseOut="imgtog('stopt',3)" style="cursor:default" title="停止"></td>
+				  <td width="28"><img border="0" src="images/pre.gif" width="31" height="38" name="prevt" onClick="playPrev()"
+onMouseOver="imgtog('prevt',2)" onMouseOut="imgtog('prevt',3)" style="cursor:default" title="上一首"></td>
+                  <td width="28"><img border="0" src="images/bef.gif" width="28" height="38" name="nextt" onClick="playNext()"
+onMouseOver="imgtog('nextt',2)" onMouseOut="imgtog('nextt',3)" style="cursor:default" title="下一首"></td>
+                  
+                  <td width="28"><img border="0" src="images/pause.gif" width="27" height="38" name="pauzt" onClick="wmpPP()"
+onMouseOver="imgtog('pauzt',2)" onMouseOut="imgtog('pauzt',3)" style="cursor:default" title="暂停．继续"></td>
+                  
+                  
+                  <td valign="bottom" width="42" align=center><img border="0" src="images/wave.gif" width="28" height="38" align=absMiddle name="vmute" onClick="wmpMute()"
+onMouseOver="imgtog('vmute',2)" onMouseOut="imgtog('vmute',3)" style="cursor:default" title="静音模式"></td>
+                </tr>
+              </table>
+            </div>
+          </td>
+          <td width="83" background="images/15.gif">
+            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+              <tr>
+                <td background="images/scr.gif" height="19">
+                <div id="VolumeButtonBox" style="height:10;width:83;"><img id="VolumeButton" src="images/scrc.gif" style="position:relative;left:65;height:10;width:18" onMouseDown="button_down()" onMouseMove="button_move()" onMouseUp="button_up()" title="控制音量"></div>
+                </td>
+              </tr>
+              <tr>
+                <td background="images/scr2.gif" height="19">
+                <div id="TrackButtonBox" style="height:10;width:83;"><img id="TrackButton" src="images/scrc.gif" style="position:relative;left:32;height:10;width:18" onMouseDown="button_down()" onMouseMove="button_move()" onMouseUp="button_up()" title="控制左右声道"></div>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td><div id="play_list" style="visibility:hidden;">
+	  <div align="center">
+	    <iframe src="exobudpl.html" width=100%  scrolling="no" frameborder="0"></iframe>
+	    </div>
+    </div></td>
+  </tr>
+</table>
+
+</TD>
+</TR>
+</TABLE>
+
+</body></html>

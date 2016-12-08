@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/Notice/MenuList_Operator.aspx" hash="95aab9a80" filehash="f6793a765151d78" flags="110000" assembly="App_Web_menulist_operator.aspx.ad4434c7" type="ASP.notice_menulist_operator_aspx">
+    <filedeps>
+        <filedep name="/www/Notice/MenuList_Operator.aspx" />
+        <filedep name="/www/Notice/MenuList_Operator.aspx.cs" />
+    </filedeps>
+</preserve>

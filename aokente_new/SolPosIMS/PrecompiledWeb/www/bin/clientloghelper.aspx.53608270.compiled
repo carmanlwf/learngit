@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/Utility/ClientLogHelper.aspx" hash="95aab9a80" filehash="c57c5def9c90809c" flags="110000" assembly="App_Web_clientloghelper.aspx.53608270" type="ASP.utility_clientloghelper_aspx">
+    <filedeps>
+        <filedep name="/www/Utility/ClientLogHelper.aspx" />
+        <filedep name="/www/Utility/ClientLogHelper.aspx.cs" />
+    </filedeps>
+</preserve>

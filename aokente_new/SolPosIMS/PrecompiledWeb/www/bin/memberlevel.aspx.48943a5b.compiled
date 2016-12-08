@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/Member/MemberLevel.aspx" hash="95aab9a80" filehash="a99361c42ca7cc1a" flags="110000" assembly="App_Web_memberlevel.aspx.48943a5b" type="ASP.member_memberlevel_aspx">
+    <filedeps>
+        <filedep name="/www/Member/MemberLevel.aspx" />
+        <filedep name="/www/Member/MemberLevel.aspx.cs" />
+    </filedeps>
+</preserve>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/Report/Rpt_BranchData.aspx" hash="95aab9a80" filehash="b844f94d560372d7" flags="110000" assembly="App_Web_rpt_branchdata.aspx.1933d7c" type="ASP.report_rpt_branchdata_aspx">
+    <filedeps>
+        <filedep name="/www/Report/Rpt_BranchData.aspx" />
+        <filedep name="/www/Report/Rpt_BranchData.aspx.cs" />
+    </filedeps>
+</preserve>

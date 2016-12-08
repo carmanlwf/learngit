@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/Member/MemberSetPass.aspx" hash="95aab9a80" filehash="c994161cf907f59e" flags="110000" assembly="App_Web_membersetpass.aspx.48943a5b" type="ASP.member_membersetpass_aspx">
+    <filedeps>
+        <filedep name="/www/Member/MemberSetPass.aspx" />
+        <filedep name="/www/Member/MemberSetPass.aspx.cs" />
+    </filedeps>
+</preserve>

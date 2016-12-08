@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/Admin/AgentQuery.aspx" hash="95aab9a80" filehash="cf12bf7011a9553e" flags="110000" assembly="App_Web_agentquery.aspx.fdf7a39c" type="ASP.admin_agentquery_aspx">
+    <filedeps>
+        <filedep name="/www/Admin/AgentQuery.aspx" />
+        <filedep name="/www/Admin/AgentQuery.aspx.cs" />
+    </filedeps>
+</preserve>

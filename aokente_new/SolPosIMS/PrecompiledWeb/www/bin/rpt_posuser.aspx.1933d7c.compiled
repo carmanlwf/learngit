@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/Report/Rpt_PosUser.aspx" hash="95aab9a80" filehash="4b73ef63a9da13a5" flags="110000" assembly="App_Web_rpt_posuser.aspx.1933d7c" type="ASP.report_rpt_posuser_aspx">
+    <filedeps>
+        <filedep name="/www/Report/Rpt_PosUser.aspx" />
+        <filedep name="/www/Report/Rpt_PosUser.aspx.cs" />
+    </filedeps>
+</preserve>

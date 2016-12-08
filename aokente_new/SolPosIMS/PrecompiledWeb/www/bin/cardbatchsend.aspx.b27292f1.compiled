@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/Card/CardBatchSend.aspx" hash="95aab9a80" filehash="c193e16eecc73ee7" flags="110000" assembly="App_Web_cardbatchsend.aspx.b27292f1" type="ASP.card_cardbatchsend_aspx">
+    <filedeps>
+        <filedep name="/www/Card/CardBatchSend.aspx" />
+        <filedep name="/www/Card/CardBatchSend.aspx.cs" />
+    </filedeps>
+</preserve>

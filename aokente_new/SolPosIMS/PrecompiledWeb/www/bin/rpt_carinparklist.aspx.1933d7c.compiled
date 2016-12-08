@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/Report/Rpt_CarInParkList.aspx" hash="95aab9a80" filehash="9c06d1747f39a54b" flags="110000" assembly="App_Web_rpt_carinparklist.aspx.1933d7c" type="ASP.report_rpt_carinparklist_aspx">
+    <filedeps>
+        <filedep name="/www/Report/Rpt_CarInParkList.aspx" />
+        <filedep name="/www/Report/Rpt_CarInParkList.aspx.cs" />
+    </filedeps>
+</preserve>

@@ -1,0 +1,74 @@
+<skin version="2" name="XPower3.0" author="FrankieYuan" url="ydesign.anyf.cn" email="yydggg@yahoo.com.cn" transparent_color="#ff00ff">
+   <player_window image="player_skin.gif">
+         <play position="136, 114, 221, 154" image="play.gif" />
+         <pause position="136, 114, 221, 154" image="pause.gif" />
+         <stop position="269, 135, 308, 160" image="stop.gif" />
+         <prev position="136, 114, 162, 154" image="pre.gif" />
+         <next position="195, 114, 221, 154" image="nex.gif" />
+         <mute position="64, 76, 80, 95" image="mute.gif" />
+         <open position="202, 78, 225, 103" image="open.gif" />
+         <lyric position="177, 78, 200, 103" image="lrc.gif" />
+         <equalizer position="152, 78, 175, 103" image="eq.gif" />
+         <playlist position="127, 78, 150, 103" image="pl.gif" />
+         <minimize position="303, 114, 322, 136" image="minimize.gif" />
+         <minimode position="241, 76, 260, 98" image="minimode.gif" />
+         <exit position="303, 36, 322, 58" image="close.gif" />
+         <icon position="41, 36, 56, 51" icon="icon.ico" />
+         <progress position="99, 155, 262, 161" bar_image="" thumb_image="progress_thumb.gif" fill_image="progress_fill.gif"/>
+         <visual position="271, 65, 354, 99" />
+         <volume position="8, 69, 64, 102" vertical="false" bar_image="" thumb_image="" fill_image="volume_fill.gif" />
+         <info position="102, 55, 251, 69"  color="#9966CC" font="simsun" font_size="12" align="left+center" />
+         <status position="124, 32, 183, 44" color="#663399" font="simsun" font_size="12" align="center" />
+         <stereo position="201, 32, 236, 44" color="#663399" font="simsun" font_size="12" align="center" />
+         <led position="290, 101, 336, 114" image="number.gif" align="left+center" />
+   </player_window>
+   
+   <equalizer_window position="52, 170, 314, 340" image="eq_skin.gif" eeq_interval="15">
+         <enabled position="83, 141, 110, 163" image="eq_onoff.gif" />
+         <profile position="139, 141, 185, 163" image="eq_profile.gif" />
+         <reset position="110, 141, 139, 163" image="eq_reset.gif" />
+         <close position="234, 20, 248, 32" image="eq_close.gif" align="right" />
+         <balance position="53, 33, 116, 48" vertical="true" thumb_image="eq_thumb3.gif" bar_image="" />
+         <surround position="148, 33, 211, 48" vertical="false" thumb_image="eq_thumb3.gif" bar_image="" />
+         <preamp position="12, 54, 29, 117" vertical="true" thumb_image="eq_thumb1.gif" bar_image="" fill_image="eq_progress_fill_preame.gif"  />
+         <eqfactor position="58, 54, 77, 117" vertical="true" thumb_image="eq_thumb2.gif" bar_image="" fill_image="eq_progress_fill_eqfactor.gif" />
+   </equalizer_window>
+   
+   <playlist_window position="52, 340, 314, 504" resize_rect="74, 75, 191, 93" image="playlist_skin.gif" resize_tile="0" hilight="#656565">
+         <scrollbar buttons_image="scrollbar_botton.gif" thumb_image="scrollbar_thumb.gif" bar_image="scrollbar.gif" thumb_resize_center="8" thumb_resize_tile="1"/>
+         <title position="0, 0, 0, 0" image="" align=""/>
+         <toolbar position="33, 130, 226, 156" image="playlist_toolbar.gif" hot_image="hot_playlist_toolbar.gif" align="bottom+right" />
+         <close position="233, 15, 247, 27" image="lrc_close.gif" align="top+right" />
+         <playlist position="32, 40, 228, 127" />
+   </playlist_window>
+   
+   <lyric_window position="314, 170, 575, 504" resize_rect="67, 75, 192, 92" image="lrc_skin.gif" resize_tile="0" hilight="#656565">
+         <mini_border left_top_color="#363636" right_bottom_color="#000000" />
+         <title position="0, 0, 0, 0" image="" align=""/>
+         <close position="233, 15, 247, 27" image="lrc_close.gif" align="top+right" />
+         <lyric position="32, 46, 231, 131" />
+		 <ontop position="220, 6, 230, 16" image="ontop.gif" align="top+right" />
+   </lyric_window>
+
+<mini_window image="mini_skin.gif">
+         <icon position="392, 27, 0, 407" />
+         <mute position="52, 9, 69, 26" image="mini_mute.gif" />
+         <play position="89, 0, 115, 23" image="mini_play.gif" />
+         <pause position="89, 0, 115, 23" image="mini_pause.gif" />
+         <open position="169, 1, 187, 13" image="mini_open.gif" />
+         <stop position="146, 1, 164, 13" image="mini_stop.gif" />
+         <prev position="123, 1, 141, 13" image="mini_prev.gif" />
+         <next position="193, 1, 211, 13" image="mini_next.gif" />
+         <visual position="226, 3, 344, 21" />
+         <info position="120, 14, 211, 23"  color="#8652A1" font="simsun" font_size="9" align="left+center" />
+         <equalizer position="347, 27, 364, 42" image="mini_eq.gif" />
+         <playlist position="325, 27, 342, 42" image="mini_pl.gif" />
+         <lyric position="369, 27, 386, 42" image="mini_lrc.gif" />
+         <minimize position="363, 7, 376, 17" image="mini_minimize.gif" />
+         <minimode position="378, 7, 391, 17" image="mini_normalmode.gif" />
+         <exit position="393, 7, 406, 17" image="mini_close.gif" />
+         <progress position="95, 27, 311, 42" bar_image="" thumb_image="mini_progress_thumb.gif" fill_image="mini_progress_fill.gif"/>
+         <volume position="2, 10, 35, 24" vertical="false" bar_image="" thumb_image="" fill_image="mini_volume_fill.gif" />
+   </mini_window>
+
+</skin>

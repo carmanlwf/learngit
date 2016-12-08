@@ -1,0 +1,160 @@
+#soutou {
+	height: 170px;
+	width: 100%;
+	font-family: "宋体";
+	font-size: 12px;
+}
+.select {
+	border: 1px solid #D4EFF7;
+	height: 18px;
+	width: 142px;
+}
+.map {
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #CCCCCC;
+}
+
+#h1 {
+	font-weight: bold;
+	font-family: "宋体";
+	font-size: 12px;
+	color: #003399;
+}
+
+#aaa {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 807px;
+	color: #333333;
+	height: 493px;
+}
+
+
+.soutou2 {
+	height: 20px;
+	background-color: #FFFFFF;
+	position: relative;
+	top: 2px;
+}
+#zhong {
+	position: relative;
+	height: 300px;
+	width: 100%;
+	left: 0px;
+}
+#zhong2 {
+	position: relative;
+	height: 20px;
+	width: 100%;
+	top: 2px;
+	background-color: #FFFFFF;
+	font-family: "宋体";
+	font-size: 12px;
+}
+.input2 {
+	height: 20px;
+	width: 100px;
+}
+.input3 {
+	height: 16px;
+	width: 90%;
+	border: 1px solid #95B3DE;
+	font-family: "宋体";
+	font-size: 12px;
+}
+.zhong3 {
+	background-color: #FFFFFF;
+	position: relative;
+	height: 250px;
+	width: 100%;
+	top: 4px;
+	font-family: "宋体";
+	font-size: 12px;
+}
+#zhang3 td {
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #D4EFF7;
+	height: 20px;
+}
+.tr {
+	font-weight: bold;
+	background-color: #ADD1FF;
+	text-align: center;
+	color: #003399;
+}
+
+#zhong3 table input {
+	height: 20px;
+	width: 50px;
+}
+
+
+.zhong4 {
+	background-color: #FFFFFF;
+	position: relative;
+	height: 20px;
+	width: 100%;
+	top: 20px;
+}
+.soutou4 {
+	background-color: #FFFFFF;
+	position: relative;
+	height: 20px;
+	width: 100auto;
+	top: 4px;
+}
+.soutou5 {
+	background-color: #FFFFFF;
+	position: relative;
+	height: 20px;
+	width: 100%;
+	top: 6px;
+}
+.soutou6 {
+	background-color: #FFFFFF;
+	position: relative;
+	height: 20px;
+	width: 100%;
+	top: 8px;
+}
+.soutou4 input {
+	height: 20px;
+	width: 100px;
+}
+
+
+.soutou2 table tr td {
+	font-family: "宋体";
+	font-size: 12px;
+}
+
+.soutou3 {
+	height: 80px;
+	top: 2px;
+	position: relative;
+	width: 100%;
+	border: 1px solid #D4EFF7;
+}
+.input {
+	font-family: "宋体";
+	font-size: 12px;
+	height: 14px;
+	width: 140px;
+	border: 1px solid #D4EFF7;
+}
+
+
+.sitemappath {
+	font-family: "宋体";
+	font-size: 12px;
+}
+.tr4{
+	font-weight: bold;
+	text-align: center;
+}
+.select2 {
+	width: 145px;
+}

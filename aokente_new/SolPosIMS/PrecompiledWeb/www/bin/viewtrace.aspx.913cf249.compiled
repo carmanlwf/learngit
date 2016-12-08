@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/www/GPS_Info/viewtrace.aspx" hash="95aab9a80" filehash="3a9d971ae1d2ed78" flags="110000" assembly="App_Web_viewtrace.aspx.913cf249" type="ASP.gps_info_viewtrace_aspx">
+    <filedeps>
+        <filedep name="/www/GPS_Info/viewtrace.aspx" />
+        <filedep name="/www/GPS_Info/viewtrace.aspx.cs" />
+    </filedeps>
+</preserve>
